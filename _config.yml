@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shengyuan Chen"
-description              : "Graph representation learning, reasoning, and Large Language Models."
+# description              : "Graph representation learning, reasoning, and Large Language Models."
 repository               : "chensyCN/chensyCN.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shengyuan Chen"
   avatar           : "images/shengyuan.jpg"
-  bio              : "Postdoctoral Fellow @ PolyU Computing"
+  bio              : "Postdoctoral Fellow @ HK PolyU Computing"
   location         : "Hong Kong SAR, China"
-  employer         : "Hong Kong Polytechnic University"
+  # employer         : "Hong Kong Polytechnic University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=9Ro5HtwAAAAJ"
   email            : 

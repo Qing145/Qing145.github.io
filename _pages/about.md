@@ -29,7 +29,7 @@ My research interests include **graph representation learning, reasoning,** and 
 - *2024.12*: Invited to serve as PC member in ICML 2025
 - *2024.12*: One paper accepted to TKDE
 - *2024.10*: Invited to serve as PC member in AISTATS 2025
-- *2024.09*: Our work [LLM4EA](https://arxiv.org/abs/2405.16806) is accepted to NeurIPS
+- *2024.09*: Our work [LLM4EA](https://arxiv.org/abs/2405.16806)[![](https://img.shields.io/github/stars/chensyCN/llm4ea_official)](https://github.com/chensyCN/llm4ea_official) is accepted to NeurIPS
 - *2024.08*: Invited to serve as PC member in ICLR 2025
 - *2024.05*: Invited to serve as PC member in NeurIPS 2024
 - *2024.04*: Invited to serve as reviewer in TNNLS 2024
@@ -51,17 +51,17 @@ My research interests include **graph representation learning, reasoning,** and 
 
 # 💬 Academic Service
 
-**PC Member:** NeurIPS (2024-2025); ICML (2025); AISTATS (2025); ICLR (2025)
+- **PC Member:** NeurIPS (2024-2025); ICML (2025); AISTATS (2025); ICLR (2025)
 
-**Reviewer:** TNNLS (2024-2025); TKDD
+- **Reviewer:** TNNLS (2024-2025); TKDD
 
-**Teaching Assistant:**
-- Big Data Analytics (2023 Spring/ 2022 Spring)
-- Object-oriented Programming (2022 Fall)
-- Discrete Mathematics (2021 Fall)
-- Human Computer Interaction (2021 Spring)
-- Computer Networking (2020 Spring)
-- Information Systems (2019 Fall)
+- **Teaching Assistant:**
+  - Big Data Analytics (2023 Spring/ 2022 Spring)
+  - Object-oriented Programming (2022 Fall)
+  - Discrete Mathematics (2021 Fall)
+  - Human Computer Interaction (2021 Spring)
+  - Computer Networking (2020 Spring)
+  - Information Systems (2019 Fall)
 
 # 🎖 Honors and Awards
 - *2025*: Postdoc Matching Fund ~ Two Years
