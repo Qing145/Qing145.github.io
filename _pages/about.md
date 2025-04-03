@@ -24,9 +24,9 @@ I am a Postdoc under the guidance of [Prof. Jiannong CAO](https://www4.comp.poly
 My research interests include **graph representation learning, reasoning**, and **Large Language Models**, with latest research presented at NeurIPS, ICML, TKDE, CIKM, etc.. Currently, I am working on **Graph-based Retrieval-Augmented Generation for LLMs.**
 
 # 🎉 News
-- [*2025.01*] Our survey on graphRAG is released! [[Survey paper]](https://arxiv.org/abs/2501.13958) | [[Github awesome-list]](https://github.com/DEEP-PolyU/Awesome-GraphRAG) [![](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphRAG)](https://github.com/DEEP-PolyU/Awesome-GraphRAG)
+- [*2025.01*] Our survey on graphRAG is released! [[Survey paper]](https://arxiv.org/abs/2501.13958) \| [[Github awesome-list]](https://github.com/DEEP-PolyU/Awesome-GraphRAG) [![](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphRAG)](https://github.com/DEEP-PolyU/Awesome-GraphRAG)
 - [*2024.12*] One paper accepted to TKDE
-- [*2024.09*] Our work LLM4EA is accepted to NeurIPS. [[paper](https://openreview.net/forum?id=qfCQ54ZTX1) | [code](https://github.com/chensyCN/llm4ea_official)] [![](https://img.shields.io/github/stars/chensyCN/llm4ea_official)](https://github.com/chensyCN/llm4ea_official)
+- [*2024.09*] Our work LLM4EA is accepted to NeurIPS. [[paper](https://openreview.net/forum?id=qfCQ54ZTX1) \| [code](https://github.com/chensyCN/llm4ea_official)] [![](https://img.shields.io/github/stars/chensyCN/llm4ea_official)](https://github.com/chensyCN/llm4ea_official)
 - [*2023.09*] Our work [DiffLogic](https://openreview.net/forum?id=bETvUctiTR) is accepted to NeurIPS
 
 # 📔 Selected Publications 
