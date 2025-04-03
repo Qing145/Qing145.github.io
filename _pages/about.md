@@ -52,7 +52,6 @@ My research interests include **graph learning, reasoning**, and **Large Languag
 
 # 🏆 Honors and Awards
 - [*2025*] Postdoc Matching Fund ~ Two Years
-- [*2024*] Merit-based Reward Scheme
 - [*2023*] Departmental Top Conference Grant
 - [*2022*] Winner of "Most Appreciated Teaching Assistant" (~$30,000HKD)
 - [*2018*] Shanghai 'TI Cup' Undergraduate Electronic Design Contest ~ Second Price
