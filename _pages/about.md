@@ -48,23 +48,17 @@ My research interests include **graph learning, reasoning**, and **Large Languag
 
 - **Reviewer:** TNNLS (2024-2025); TKDD
 
-- **Teaching Assistant:**
-  - Big Data Analytics (2023 Spring/ 2022 Spring)
-  - Object-oriented Programming (2022 Fall)
-  - Discrete Mathematics (2021 Fall)
-  - Human Computer Interaction (2021 Spring)
-  - Computer Networking (2020 Spring)
-  - Information Systems (2019 Fall)
+- **Teaching Assistant:** Big Data Analytics (2023 Spring/ 2022 Spring); Object-oriented Programming (2022 Fall); Discrete Mathematics (2021 Fall); Human Computer Interaction (2021 Spring); Computer Networking (2020 Spring); Information Systems (2019 Fall)
 
 # 🏆 Honors and Awards
-- *2025*: Postdoc Matching Fund ~ Two Years
-- *2024*: Merit-based Reward Scheme
-- *2023*: Departmental Top Conference Grant
-- *2022*: Winner of "Most Appreciated Teaching Assistant" (~$30,000HKD)
-- *2018*: Shanghai 'TI Cup' Undergraduate Electronic Design Contest ~ Second Price
-- *2015-2018*: Fudan University Scholarship for Outstanding Students ~ Three Times
-- *2018*: SCSK Corporation Scholarship
-- *2015-2017*: National Scholarship of Encouragement and Support ~ Twice
+- [*2025*] Postdoc Matching Fund ~ Two Years
+- [*2024*] Merit-based Reward Scheme
+- [*2023*] Departmental Top Conference Grant
+- [*2022*] Winner of "Most Appreciated Teaching Assistant" (~$30,000HKD)
+- [*2018*] Shanghai 'TI Cup' Undergraduate Electronic Design Contest ~ Second Price
+- [*2015-2018*] Fudan University Scholarship for Outstanding Students ~ Three Times
+- [*2018*] SCSK Corporation Scholarship
+- [*2015-2017*] National Scholarship of Encouragement and Support ~ Twice
 
 # 🎨 Miscellaneous
 
