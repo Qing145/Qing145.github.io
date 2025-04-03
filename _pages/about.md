@@ -25,7 +25,7 @@ My research interests include **graph representation learning, reasoning,** and 
 
 # 🎉 News
 - *2025.02*: Invited to serve as PC member in NeurIPS 2025
-- *2025.01*: 🔥🔥🔥 Our [survey on GraphRAG](https://arxiv.org/abs/2501.13958) is released! Checkout the [Awesome-list](https://github.com/DEEP-PolyU/Awesome-GraphRAG)
+- *2025.01*: 🔥🔥🔥 Our [survey on GraphRAG](https://arxiv.org/abs/2501.13958) is released! Checkout the [Awesome-list](https://github.com/DEEP-PolyU/Awesome-GraphRAG) [![](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphRAG)](https://github.com/DEEP-PolyU/Awesome-GraphRAG)
 - *2024.12*: Invited to serve as PC member in ICML 2025
 - *2024.12*: One paper accepted to TKDE
 - *2024.10*: Invited to serve as PC member in AISTATS 2025
