@@ -40,8 +40,8 @@ My research interests include **graph representation learning, reasoning,** and 
 
 <span style="color: #FF0000">[Red]</span>: Corresponding Author, <span style="color: #FFA500">[Orange]</span>: Co-first Author
 
-- Qinggang Zhang<span style="color: #FFA500">*</span>, **Shengyuan Chen**<span style="color: #FFA500">*</span>, Yuanchen Bei, Zheng Yuan, Huachi Zhou, Zijin Hong, Junnan Dong, Hao Chen, Yi Chang, Xiao Huang, [A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models](https://arxiv.org/abs/2501.13958), preprint, 2025
-- Zhaoqing Li, Maiqi Jiang, **Shengyuan Chen**<span style="color: #FF0000">†</span>, Bo Li, Guorong Chen, Xiao Huang, [Automated Heterogeneous Network learning with Non-Recursive Message Passing](https://arxiv.org/abs/2501.07598), preprint, 2025
+- Qinggang Zhang, <span style="color: #FFA500">Shengyuan Chen</span>, Yuanchen Bei, Zheng Yuan, Huachi Zhou, Zijin Hong, Junnan Dong, Hao Chen, Yi Chang, Xiao Huang, [A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models](https://arxiv.org/abs/2501.13958), preprint, 2025
+- Zhaoqing Li, Maiqi Jiang, <span style="color: #FF0000">**Shengyuan Chen**</span>, Bo Li, Guorong Chen, Xiao Huang, [Automated Heterogeneous Network learning with Non-Recursive Message Passing](https://arxiv.org/abs/2501.07598), preprint, 2025
 - Hao Chen, Yuanchen Bei, Wenbing Huang, **Shengyuan Chen**, Feiran Huang, Xiao Huang, [Graph Cross-Correlated Network for Recommendation](https://arxiv.org/abs/2411.01182), TKDE, 2024
 - **Shengyuan Chen**, Qinggang Zhang, Junnan Dong, Wen Hua, Jiannong Cao, Xiao Huang, [Neuro-symbolic Entity Alignment via Variational Inference](https://arxiv.org/abs/2410.04153), preprint, 2024
 - **Shengyuan Chen**, Qinggang Zhang, Junnan Dong, Wen Hua, Qing Li, Xiao Huang, [Entity Alignment with Noisy Annotations from Large Language Models](https://arxiv.org/abs/2405.16806), NeurIPS, 2024
