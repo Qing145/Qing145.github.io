@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shengyuan Chen"
-# description              : "Graph representation learning, reasoning, and Large Language Models."
+# description              : "Graph learning, reasoning, Large Language Models."
 repository               : "chensyCN/chensyCN.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   # employer         : "Hong Kong Polytechnic University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=9Ro5HtwAAAAJ"
-  email            : 
+  email            : "sheng-yuan.chen@polyu.edu.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
