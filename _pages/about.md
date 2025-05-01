@@ -34,7 +34,7 @@ My research interests include **graph learning, reasoning**, and **Large Languag
 # 📔 Selected Publications 
 
 <span style="color: #006400">**[Green]**</span>: Corresponding Author, <span style="color: #000080">**[Blue]**</span>: Co-first Author
-- Qinggang Zhang, Hao Chen, Junnan Dong,  <span style="color: #006400">**Shengyuan Chen**</span>, Feiran Huang, Xiao Huang, Structure-Guided Large Language Models for Text-to-SQL Generation, ICML 2025.
+- Qinggang Zhang, Hao Chen, Junnan Dong,  <span style="color: #006400">**Shengyuan Chen**</span>, Feiran Huang, Xiao Huang, Structure-Guided Large Language Models for Text-to-SQL Generation, ICML, 2025.
 - Qinggang Zhang, <span style="color: #000080">**Shengyuan Chen**</span>, Yuanchen Bei, Zheng Yuan, Huachi Zhou, Zijin Hong, Junnan Dong, Hao Chen, Yi Chang, Xiao Huang, [A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models](https://arxiv.org/abs/2501.13958), preprint, 2025
 - Zhaoqing Li, Maiqi Jiang, <span style="color: #006400">**Shengyuan Chen**</span>, Bo Li, Guorong Chen, Xiao Huang, [Automated Heterogeneous Network learning with Non-Recursive Message Passing](https://arxiv.org/abs/2501.07598), preprint, 2025
 - Hao Chen, Yuanchen Bei, Wenbing Huang, **Shengyuan Chen**, Feiran Huang, Xiao Huang, [Graph Cross-Correlated Network for Recommendation](https://ieeexplore.ieee.org/document/10759834), TKDE, 2024
