@@ -24,9 +24,9 @@ I am a Postdoc with [Prof. Jiannong CAO](https://www4.comp.polyu.edu.hk/~csjcao/
 My research interests include **graph learning, reasoning**, and **Large Language Models**, with latest research presented at NeurIPS, ICML, TKDE, CIKM, etc.. Currently, I am working on **Graph-based Retrieval-Augmented Generation for LLMs (graphRAG).** 
 
 # 🎉 News
-- [*2025.05*] One paper accepted to ACL.
-- [*2025.05*] One paper accepted to ICML.
-- [*2025.04*] Released Agentic-RAG, a new open-source project for RAG: [[code](https://github.com/chensyCN/Agentic-RAG)] [![](https://img.shields.io/github/stars/chensyCN/Agentic-RAG)](https://github.com/chensyCN/Agentic-RAG)
+- [*2025.05*] Our work [SKETCH](https://openreview.net/forum?id=WlEJovnbXc) is accepted to ACL.
+- [*2025.05*] Our work SGU-SQL is accepted to ICML. [[Paper](https://openreview.net/forum?id=gT8JSEFqaS)\|[Code](https://github.com/Qing145/Text-to-SQL)]
+- [*2025.04*] Released Agentic-RAG, an open-source project for RAG: [[code](https://github.com/chensyCN/Agentic-RAG)] [![](https://img.shields.io/github/stars/chensyCN/Agentic-RAG)](https://github.com/chensyCN/Agentic-RAG)
 - [*2025.01*] Our survey on graphRAG is released! [[Paper](https://arxiv.org/abs/2501.13958)\|[Github awesome-list](https://github.com/DEEP-PolyU/Awesome-GraphRAG)] [![](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphRAG)](https://github.com/DEEP-PolyU/Awesome-GraphRAG)
 - [*2024.12*] One paper accepted to TKDE.
 - [*2024.09*] Our work LLM4EA is accepted to NeurIPS. [[Paper](https://openreview.net/forum?id=qfCQ54ZTX1)\|[Code](https://github.com/chensyCN/llm4ea_official)] [![](https://img.shields.io/github/stars/chensyCN/llm4ea_official)](https://github.com/chensyCN/llm4ea_official)
