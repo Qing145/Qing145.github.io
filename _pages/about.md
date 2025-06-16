@@ -24,9 +24,10 @@ I am a Postdoc with [Prof. Jiannong CAO](https://www4.comp.polyu.edu.hk/~csjcao/
 My research interests include **graph learning, reasoning**, and **Large Language Models**, with latest research presented at NeurIPS, ICML, TKDE, CIKM, etc.. Currently, I am working on **Graph-based Retrieval-Augmented Generation for LLMs (graphRAG).** 
 
 # 🎉 News
+- [*2025.06*] Released a GraphRAG benchmark: [[Homepage](https://graphrag-bench.github.io/)\|[Paper](https://arxiv.org/abs/2506.05690) \|[Code](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)\|[Slides](https://docs.google.com/presentation/d/1q8K2RgsDYktkEIDp9Lqpb9WwBCBHT_L5/edit?slide=id.p1#slide=id.p1)] [![](https://img.shields.io/github/stars/GraphRAG-Bench/GraphRAG-Benchmark)](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
 - [*2025.05*] Our work [SKETCH](https://openreview.net/forum?id=WlEJovnbXc) is accepted to ACL.
 - [*2025.05*] Our work SGU-SQL is accepted to ICML. [[Paper](https://openreview.net/forum?id=gT8JSEFqaS)\|[Code](https://github.com/Qing145/Text-to-SQL)]
-- [*2025.04*] Released Agentic-RAG, an open-source project for RAG: [[code](https://github.com/chensyCN/Agentic-RAG)] [![](https://img.shields.io/github/stars/chensyCN/Agentic-RAG)](https://github.com/chensyCN/Agentic-RAG)
+- [*2025.04*] Released Agentic-RAG, an open-source project for RAG: [[Code](https://github.com/chensyCN/Agentic-RAG)] [![](https://img.shields.io/github/stars/chensyCN/Agentic-RAG)](https://github.com/chensyCN/Agentic-RAG)
 - [*2025.01*] Our survey on graphRAG is released! [[Paper](https://arxiv.org/abs/2501.13958)\|[Github awesome-list](https://github.com/DEEP-PolyU/Awesome-GraphRAG)] [![](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphRAG)](https://github.com/DEEP-PolyU/Awesome-GraphRAG)
 - [*2024.12*] One paper accepted to TKDE.
 - [*2024.09*] Our work LLM4EA is accepted to NeurIPS. [[Paper](https://openreview.net/forum?id=qfCQ54ZTX1)\|[Code](https://github.com/chensyCN/llm4ea_official)] [![](https://img.shields.io/github/stars/chensyCN/llm4ea_official)](https://github.com/chensyCN/llm4ea_official)
@@ -34,7 +35,8 @@ My research interests include **graph learning, reasoning**, and **Large Languag
 
 # 📔 Selected Publications 
 <span style="color: #006400">**[Green]**</span>: Corresponding Author, <span style="color: #000080">**[Blue]**</span>: Co-first Author
-- Chuang Zhou, Zhu Wang, <span style="color: #006400">**Shengyuan Chen**</span>, Jiahe Du, Qiyuan Zheng, Zhaozhuo Xu, Xiao Huang, [Taming Language Models for Text-attributed Graph Learning with Decoupled Aggregation](https://openreview.net/forum?id=WlEJovnbXc), ACL, 2025.
+- Zhishang Xiang, Chuanjie Wu, Qinggang Zhang, **Shengyuan Chen**, Zijin Hong, Xiao Huang, Jinsong Su, [When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2506.05690), preprint, 2025.
+- Chuang Zhou, Zhu Wang, <span style="color: #006400">**Shengyuan Chen**</span>, Jiahe Du, Qiyuan Zheng, Zhaozhuo Xu, Xiao Huang, [Taming Language Models for Text-attributed Graph Learning with Decoupled Aggregation](https://openreview.net/forum?id=WlEJovnbXc), ACL (main track), 2025.
 - Qinggang Zhang, Hao Chen, Junnan Dong,  <span style="color: #006400">**Shengyuan Chen**</span>, Feiran Huang, Xiao Huang, [Structure-Guided Large Language Models for Text-to-SQL Generation](https://openreview.net/forum?id=gT8JSEFqaS), ICML, 2025.
 - Qinggang Zhang, <span style="color: #000080">**Shengyuan Chen**</span>, Yuanchen Bei, Zheng Yuan, Huachi Zhou, Zijin Hong, Junnan Dong, Hao Chen, Yi Chang, Xiao Huang, [A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models](https://arxiv.org/abs/2501.13958), preprint, 2025
 - Zhaoqing Li, Maiqi Jiang, <span style="color: #006400">**Shengyuan Chen**</span>, Bo Li, Guorong Chen, Xiao Huang, [Automated Heterogeneous Network learning with Non-Recursive Message Passing](https://arxiv.org/abs/2501.07598), preprint, 2025
