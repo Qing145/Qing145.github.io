@@ -21,11 +21,11 @@ redirect_from:
 
 I am a Postdoc with [Prof. Jiannong CAO](https://www4.comp.polyu.edu.hk/~csjcao/) (since 2024) at the Department of Computing, Hong Kong Polytechnic University. I earned my Ph.D. from the same department under the supervision of [Prof. Xiao HUANG](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html) (2021–2024). Prior to that, I obtained my B.E. from [Fudan University](https://www.fudan.edu.cn/).
 
-My research interests include **graph learning, reasoning**, and **Large Language Models**, with latest research presented at NeurIPS, ICML, TKDE, CIKM, etc.. Currently, I am working on **Graph-based Retrieval-Augmented Generation for LLMs (graphRAG).** 
+My research interests include **graph learning, reasoning**, and **Large Language Models**, with latest research presented at NeurIPS, ICML, TKDE, ACL, CIKM, etc.. Currently, I am working on **Graph-based Retrieval-Augmented Generation for LLMs (graphRAG).** 
 
 # 🎉 News
 - [*2025.06*] Released a GraphRAG benchmark: [[Homepage](https://graphrag-bench.github.io/)\|[Paper](https://arxiv.org/abs/2506.05690) \|[Code](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)\|[Slides](https://docs.google.com/presentation/d/1q8K2RgsDYktkEIDp9Lqpb9WwBCBHT_L5/edit?slide=id.p1#slide=id.p1)] [![](https://img.shields.io/github/stars/GraphRAG-Bench/GraphRAG-Benchmark)](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
-- [*2025.05*] Our work [SKETCH](https://openreview.net/forum?id=WlEJovnbXc) is accepted to ACL.
+- [*2025.05*] Our work [SKETCH](https://openreview.net/forum?id=WlEJovnbXc) is accepted to ACL (main track).
 - [*2025.05*] Our work SGU-SQL is accepted to ICML. [[Paper](https://openreview.net/forum?id=gT8JSEFqaS)\|[Code](https://github.com/Qing145/Text-to-SQL)] 
 - [*2025.01*] Our survey on graphRAG is released! [[Paper](https://arxiv.org/abs/2501.13958)\|[Github awesome-list](https://github.com/DEEP-PolyU/Awesome-GraphRAG)] [![](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphRAG)](https://github.com/DEEP-PolyU/Awesome-GraphRAG)
 - [*2024.12*] One paper accepted to TKDE.
@@ -38,9 +38,7 @@ My research interests include **graph learning, reasoning**, and **Large Languag
 - Chuang Zhou, Zhu Wang, <span style="color: #006400">**Shengyuan Chen**</span>, Jiahe Du, Qiyuan Zheng, Zhaozhuo Xu, Xiao Huang, [Taming Language Models for Text-attributed Graph Learning with Decoupled Aggregation](https://openreview.net/forum?id=WlEJovnbXc), ACL (main track), 2025.
 - Qinggang Zhang, Hao Chen, Junnan Dong,  <span style="color: #006400">**Shengyuan Chen**</span>, Feiran Huang, Xiao Huang, [Structure-Guided Large Language Models for Text-to-SQL Generation](https://openreview.net/forum?id=gT8JSEFqaS), ICML, 2025.
 - Qinggang Zhang, <span style="color: #000080">**Shengyuan Chen**</span>, Yuanchen Bei, Zheng Yuan, Huachi Zhou, Zijin Hong, Junnan Dong, Hao Chen, Yi Chang, Xiao Huang, [A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models](https://arxiv.org/abs/2501.13958), preprint, 2025
-- Zhaoqing Li, Maiqi Jiang, <span style="color: #006400">**Shengyuan Chen**</span>, Bo Li, Guorong Chen, Xiao Huang, [Automated Heterogeneous Network learning with Non-Recursive Message Passing](https://arxiv.org/abs/2501.07598), preprint, 2025
 - Hao Chen, Yuanchen Bei, Wenbing Huang, **Shengyuan Chen**, Feiran Huang, Xiao Huang, [Graph Cross-Correlated Network for Recommendation](https://ieeexplore.ieee.org/document/10759834), TKDE, 2024
-- **Shengyuan Chen**, Qinggang Zhang, Junnan Dong, Wen Hua, Jiannong Cao, Xiao Huang, [Neuro-symbolic Entity Alignment via Variational Inference](https://arxiv.org/abs/2410.04153), preprint, 2024
 - **Shengyuan Chen**, Qinggang Zhang, Junnan Dong, Wen Hua, Qing Li, Xiao Huang, [Entity Alignment with Noisy Annotations from Large Language Models](https://openreview.net/forum?id=qfCQ54ZTX1), NeurIPS, 2024
 - **Shengyuan Chen**, Yunfeng Cai, Huang Fang, Xiao Huang, Mingming Sun, [Differentiable Neuro-Symbolic Reasoning on Large-Scale Knowledge Graphs](https://openreview.net/forum?id=bETvUctiTR), NeurIPS, 2023
 - Yuanchen Bei, Hao Chen, **Shengyuan Chen**, Xiao Huang, Sheng Zhou, Feiran Huang, [Non-Recursive Cluster-Scale Graph Interacted Model for Click-Through Rate Prediction](https://dl.acm.org/doi/10.1145/3583780.3615180), CIKM, 2023
