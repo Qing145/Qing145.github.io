@@ -46,7 +46,7 @@ My research interests include **graph learning, reasoning**, and **Large Languag
 
 # 💼 Academic Service
 
-- **PC Member:** NeurIPS (2024-2025); ICML (2025); AISTATS (2025); ICLR (2025)
+- **Program Committee:** NeurIPS (2024-2025); ICML (2025); AISTATS (2025); ICLR (2025); AAAI (2026)
 
 - **Reviewer:** TNNLS (2024-2025); TKDD
 
