@@ -57,21 +57,11 @@ FaithfulRAG: Fact-Level Conflict Modeling for Context-Faithful Retrieval-Augment
 - **[WWW 2023]** Junnan Dong†, <span style="color: #7A9D96">**Qinggang Zhang†**</span>, Xiao Huang‡, Keyu Duan, Qiaoyu Tan, Zhimeng Jiang. Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs.
 
 
-# 💼 Academic Service
-
-- **Program Committee:** NeurIPS (2024-2025), ICLR (2025), ICML (2025), KDD (2024-2026), ACL (2025)
-
-- **Reviewer:** TPAMI (2024-2025), TKDE (2023-2025)
-  
-- **Volunteer:** ICDM'23, WSDM'23, KDD'24
-
-<!-- - **Teaching Assistant:** Big Data Analytics (2023 Spring/ 2022 Spring); Object-oriented Programming (2022 Fall); Discrete Mathematics (2021 Fall); Human Computer Interaction (2021 Spring); Computer Networking (2020 Spring); Information Systems (2019 Fall) -->
-
 # 🏆 Honors and Awards
 - [*2025*] SAC Highlights Award at ACL2025
-- [*2024*] KDD Student Travel Grant
+- [*2024*] KDD Student Travel Grant in 2024
 - [*2024*] Best Presentation Award of COMP 50th Anniversary Research Student Conference
-- [*2022*] SIGIR Student Travel Grant
+- [*2022*] SIGIR Student Travel Grant in 2022
 - [*2021*] Vector Scholarship in Artificial Intelligence
 - [*2019*] Outstanding graduate award (undergraduate in NPU)
 - [*2015-2018*] National scholarships ~ Twice
@@ -82,4 +72,14 @@ FaithfulRAG: Fact-Level Conflict Modeling for Context-Faithful Retrieval-Augment
 - [*2016*] Champion in “WRC2016” international Underwater Robot competition
 - [*2016*] Champion at 21th FIRA RoboWorld Cup 2016, Beijing, China
 - [*2016*] Champion in 2016 China Robot Competition
+
+# 💼 Academic Service
+
+- **Program Committee:** NeurIPS (2024-2025), ICLR (2025), ICML (2025), KDD (2024-2026), ACL (2025)
+
+- **Reviewer:** TPAMI (2024-2025), TKDE (2023-2025)
+  
+- **Volunteer:** ICDM'23, WSDM'23, KDD'24
+
+<!-- - **Teaching Assistant:** Big Data Analytics (2023 Spring/ 2022 Spring); Object-oriented Programming (2022 Fall); Discrete Mathematics (2021 Fall); Human Computer Interaction (2021 Spring); Computer Networking (2020 Spring); Information Systems (2019 Fall) -->
 
