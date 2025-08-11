@@ -21,7 +21,7 @@ redirect_from:
 
 I am a fourth-year PhD Candidate in DEEP Lab at the Department of Computing, The Hong Kong Polytechnic University, supervised by [Prof. Xiao HUANG](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html) and co-supervised by [Prof. Jiannong CAO](https://www4.comp.polyu.edu.hk/~csjcao/). Prior to that, I obtained my B.E. from [The Northwestern Polytechnical University](https://www.nwpu.edu.cn/).
 
-My research interests include **Knowledge Graphs, Retrieval-Augmented Generation,** and **Large Language Models**, with the latest research presented at NeurIPS, ICML, KDD, ACL, WWW, TKDE, etc.. Currently, I am working on **GraphRAG and Long CoT Reasoning** for specialized domains.
+My research interests include **Knowledge Graphs, Retrieval-Augmented Generation,** and **Large Language Models**, with the latest research presented at NeurIPS, ICML, KDD, ACL, etc.. Currently, I am working on **GraphRAG and Long CoT Reasoning** for specialized domains.
 
 # 🎉 News
 - [*2025.08*] Our paper [FaithfulRAG](https://arxiv.org/abs/2506.08938) has been selected for the **SAC Highlights Award** at [ACL'25](https://2025.aclweb.org/program/awards/#sac-highlights).
