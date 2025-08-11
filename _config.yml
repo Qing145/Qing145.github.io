@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Shengyuan Chen"
+title                    : "Qinggang Zhang"
 # description              : "Graph learning, reasoning, Large Language Models."
-repository               : "chensyCN/chensyCN.github.io"
+repository               : "https://github.com/Qing145"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Shengyuan Chen"
-  avatar           : "images/shengyuan.jpg"
-  bio              : "Postdoctoral Fellow @ HK PolyU Computing"
+  name             : "Qinggang Zhang"
+  avatar           : "images/ZhangQinggang.jpg"
+  bio              : "PhD @ HK PolyU Computing"
   location         : "Hong Kong SAR, China"
   # employer         : "Hong Kong Polytechnic University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=9Ro5HtwAAAAJ"
-  email            : "sheng-yuan.chen@polyu.edu.hk"
+  googlescholar    : "https://scholar.google.com/citations?user=eF8PATI7r3IC&hl=en"
+  email            : "qinggang.zhang@polyu.edu.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "chensyCN"
+  github           : "Qing145"
   google_plus      :
   keybase          :
   instagram        :
