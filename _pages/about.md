@@ -21,11 +21,11 @@ redirect_from:
 
 I am a fourth-year PhD Candidate in DEEP Lab at the Department of Computing, The Hong Kong Polytechnic University, supervised by [Prof. Xiao HUANG](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html) and co-supervised by [Prof. Jiannong CAO](https://www4.comp.polyu.edu.hk/~csjcao/). Prior to that, I obtained my B.E. from [The Northwestern Polytechnical University](https://www.nwpu.edu.cn/).
 
-My research interests include **Knowledge Graphs, RAG,** and **Large Language Models**, with the latest research presented at NeurIPS, ICML, KDD, ACL, WWW, TKDE, etc.. Currently, I am working on **Graph-based Retrieval-Augmented Generation for LLMs (GraphRAG).** 
+My research interests include **Knowledge Graphs, Retrieval-Augmented Generation,** and **Large Language Models**, with the latest research presented at NeurIPS, ICML, KDD, ACL, WWW, TKDE, etc.. Currently, I am working on **Graph-based Retrieval-Augmented Generation for LLMs (GraphRAG).** 
 
 # 🎉 News
-- [*2025.07*] 🔥🔥🔥 Our ACL'25 paper [FaithfulRAG](https://arxiv.org/abs/2506.08938) has been selected for the **SAC Highlights Award** at [ACL'25](https://2025.aclweb.org/program/awards/#sac-highlights).
-- [*2025.06*] Released a GraphRAG benchmark: [[Homepage](https://graphrag-bench.github.io/)\|[Paper](https://arxiv.org/abs/2506.05690)\|[Code](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)\|[Slides](https://docs.google.com/presentation/d/1q8K2RgsDYktkEIDp9Lqpb9WwBCBHT_L5/edit?slide=id.p1#slide=id.p1)] [![](https://img.shields.io/github/stars/GraphRAG-Bench/GraphRAG-Benchmark)](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
+- [*2025.08*] Our ACL'25 paper [FaithfulRAG](https://arxiv.org/abs/2506.08938) has been selected for the **SAC Highlights Award** at [ACL'25](https://2025.aclweb.org/program/awards/#sac-highlights).
+- [*2025.06*] We released [GraphRAG-Bench](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark), a comprehensive benchmark for evaluating GraphRAG models.[[Homepage](https://graphrag-bench.github.io/)\|[Paper](https://arxiv.org/abs/2506.05690)\|[Code](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)\|[Slides](https://docs.google.com/presentation/d/1q8K2RgsDYktkEIDp9Lqpb9WwBCBHT_L5/edit?slide=id.p1#slide=id.p1)] [![](https://img.shields.io/github/stars/GraphRAG-Bench/GraphRAG-Benchmark)](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
 - [*2025.05*] Our work [SKETCH](https://openreview.net/forum?id=WlEJovnbXc) is accepted to ACL (main track).
 - [*2025.05*] Our work SGU-SQL is accepted to ICML. [[Paper](https://openreview.net/forum?id=gT8JSEFqaS)\|[Code](https://github.com/Qing145/Text-to-SQL)] 
 - [*2025.01*] Our survey on graphRAG is released! [[Paper](https://arxiv.org/abs/2501.13958)\|[Github awesome-list](https://github.com/DEEP-PolyU/Awesome-GraphRAG)] [![](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphRAG)](https://github.com/DEEP-PolyU/Awesome-GraphRAG)
