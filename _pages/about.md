@@ -37,7 +37,7 @@ My research interests include **Knowledge Graphs, Retrieval-Augmented Generation
 <span style="color: #000080">**[†]**</span>: Co-first Author, <span style="color: #006400">**[*]**</span>: Corresponding Author
 
 - 
-- Zhishang Xiang, Chuanjie Wu, <span style="color: #006400">**Qinggang Zhang** *</span>, Shengyuan Chen, Zijin Hong, Xiao Huang, Jinsong Su*, [When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2506.05690), preprint, 2025.
+- Zhishang Xiang, Chuanjie Wu, **<span style="color: #006400">Qinggang Zhang*</span>**, Shengyuan Chen, Zijin Hong, Xiao Huang, Jinsong Su*, [When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2506.05690), preprint, 2025.
 - Chuang Zhou, Zhu Wang, <span style="color: #006400">**Shengyuan Chen**</span>, Jiahe Du, Qiyuan Zheng, Zhaozhuo Xu, Xiao Huang, [Taming Language Models for Text-attributed Graph Learning with Decoupled Aggregation](https://openreview.net/forum?id=WlEJovnbXc), ACL (main track), 2025.
 - Qinggang Zhang, Hao Chen, Junnan Dong,  <span style="color: #006400">**Shengyuan Chen**</span>, Feiran Huang, Xiao Huang, [Structure-Guided Large Language Models for Text-to-SQL Generation](https://openreview.net/forum?id=gT8JSEFqaS), ICML, 2025.
 - Qinggang Zhang, <span style="color: #000080">**Shengyuan Chen**</span>, Yuanchen Bei, Zheng Yuan, Huachi Zhou, Zijin Hong, Junnan Dong, Hao Chen, Yi Chang, Xiao Huang, [A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models](https://arxiv.org/abs/2501.13958), preprint, 2025
