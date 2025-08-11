@@ -34,7 +34,7 @@ My research interests include **Knowledge Graphs, Retrieval-Augmented Generation
 - [*2024.09*] Three papers are accepted to NeurIPS'24 and one paper is accepted to KDD'24.
 
 # 📔 Selected Publications 
-**[†]**: Co-first Author, **[‡]**: Corresponding Author
+**[†]**: Co-first Author, <span style="color: #000080">**[‡]**</span>: Corresponding Author
 
 - [arXiv 2025] **Qinggang Zhang†**, Shengyuan Chen†, Yuanchen Bei†, Zheng Yuan, Huachi Zhou, Zijin Hong, Junnan Dong, Jinsong Su, Hao Chen, Yi Chang, Xiao Huang‡. A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models.
 - **[ICML 2025]** **Qinggang Zhang**, Hao Chen, Junnan Dong, Shengyuan Chen‡, Feiran Huang, Xiao Huang. Structure-Guided Large Language Models for Text-to-SQL Generation.
@@ -46,11 +46,11 @@ FaithfulRAG: Fact-Level Conflict Modeling for Context-Faithful Retrieval-Augment
 - **[CIKM 2022]** **Qinggang Zhang**, Junnan Dong, Keyu Duan, Xiao Huang‡, Yezi Liu, Linchuan Xu. Contrastive Knowledge Graph Error Detection.
 - **[ACL 2024]** Junnan Dong†, **Qinggang Zhang†**, Huachi Zhou, Daochen Zha, Pai Zheng, Xiao Huang‡. Modality-Aware Integration with LLMs for Knowledge-based Visual Question Answering. 
 - **[WWW 2023]** Junnan Dong†, **Qinggang Zhang†**, Xiao Huang‡, Keyu Duan, Qiaoyu Tan, Zhimeng Jiang. Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs.
-- [arXiv 2025] Luyao Zhuang, **Qinggang Zhang‡**, Huachi Zhou, Juhua Liu, Li Qing, Xiao Huang. LoSemB: Logic-Guided Semantic Bridging for Inductive Tool Retrieval.
-- [arXiv 2025] Shengyuan Chen, Zheng Yuan, **Qinggang Zhang‡**, Wen Hua, Xiao Huang. Neuro-Symbolic Entity Alignment via Variational Inference.
-- [arXiv 2025] Zhishang Xiang, Chuanjie Wu, **Qinggang Zhang‡**, Shengyuan Chen, Zijin Hong, Xiao Huang, Jinsong Su#, When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation.
-- [arXiv 2025] Yilin Xiao, Chuang Zhou, **Qinggang Zhang‡**, Su Dong, Shengyuan Chen, Xiao Huang. LAG: Logic-Augmented Generation from a Cartesian Perspective.
-- [arXiv 2025] Shengyuan Chen†, Chuang Zhou†, Zheng Yuan, **Qinggang Zhang‡**, Zeyang Cui, Hao Chen, Yilin Xiao, Jiannong Cao, Xiao Huang. You Don't Need Pre-built Graphs for RAG: Retrieval Augmented Generation with Adaptive Reasoning Structures.
+- [arXiv 2025] Luyao Zhuang, <span style="color: #000080">**Qinggang Zhang‡**</span>, Huachi Zhou, Juhua Liu, Li Qing, Xiao Huang. LoSemB: Logic-Guided Semantic Bridging for Inductive Tool Retrieval.
+- [arXiv 2025] Shengyuan Chen, Zheng Yuan, <span style="color: #000080">**Qinggang Zhang‡**</span>, Wen Hua, Xiao Huang. Neuro-Symbolic Entity Alignment via Variational Inference.
+- [arXiv 2025] Zhishang Xiang, Chuanjie Wu, <span style="color: #000080">**Qinggang Zhang‡**</span>, Shengyuan Chen, Zijin Hong, Xiao Huang, Jinsong Su#, When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation.
+- [arXiv 2025] Yilin Xiao, Chuang Zhou, <span style="color: #000080">**Qinggang Zhang‡**</span>, Su Dong, Shengyuan Chen, Xiao Huang. LAG: Logic-Augmented Generation from a Cartesian Perspective.
+- [arXiv 2025] Shengyuan Chen†, Chuang Zhou†, Zheng Yuan, <span style="color: #000080">**Qinggang Zhang‡**</span>, Zeyang Cui, Hao Chen, Yilin Xiao, Jiannong Cao, Xiao Huang. You Don't Need Pre-built Graphs for RAG: Retrieval Augmented Generation with Adaptive Reasoning Structures.
 
 
 # 💼 Academic Service
