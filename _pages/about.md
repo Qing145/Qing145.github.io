@@ -37,15 +37,15 @@ My research interests include **Knowledge Graphs, Retrieval-Augmented Generation
 **[†]**: Co-first Author, **[‡]**: Corresponding Author
 
 - [arXiv 2025] **Qinggang Zhang†**, Shengyuan Chen†, Yuanchen Bei†, Zheng Yuan, Huachi Zhou, Zijin Hong, Junnan Dong, Jinsong Su, Hao Chen, Yi Chang, Xiao Huang‡. A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models.
-- [ICML 2025] **Qinggang Zhang**, Hao Chen, Junnan Dong, Shengyuan Chen‡, Feiran Huang, Xiao Huang. Structure-Guided Large Language Models for Text-to-SQL Generation.
-- [ACL 2025] **Qinggang Zhang†**, Zhishang Xiang†, Yilin Xiao, Le Wang, Junhui Li, Xinrun Wang, Jinsong Su‡.
+- **[ICML 2025]** **Qinggang Zhang**, Hao Chen, Junnan Dong, Shengyuan Chen‡, Feiran Huang, Xiao Huang. Structure-Guided Large Language Models for Text-to-SQL Generation.
+- **[ACL 2025]** **Qinggang Zhang†**, Zhishang Xiang†, Yilin Xiao, Le Wang, Junhui Li, Xinrun Wang, Jinsong Su‡.
 FaithfulRAG: Fact-Level Conflict Modeling for Context-Faithful Retrieval-Augmented Generation.
-- [KDD 2024] **Qinggang Zhang**, Keyu Duan, Junnan Dong, Pai Zheng, Xiao Huang†. Logical Reasoning with Relation Network for Inductive Knowledge Graph Completion.
-- [NeurIPS 2024] **Qinggang Zhang†**, Junnan Dong†, Hao Chen, Daochen Zha, Zailiang Yu, Xiao Huang‡. KnowGPT: Knowledge Graph based Prompting for Large Language Models.
-- [TKDE 2023] **Qinggang Zhang**, Junnan Dong, Qiaoyu Tan, Xiao Huang‡. Integrating Entity Attributes for Error-Aware Knowledge Graph Embedding.
--[CIKM 2022] **Qinggang Zhang**, Junnan Dong, Keyu Duan, Xiao Huang‡, Yezi Liu, Linchuan Xu. Contrastive Knowledge Graph Error Detection.
+- **[KDD 2024]** **Qinggang Zhang**, Keyu Duan, Junnan Dong, Pai Zheng, Xiao Huang†. Logical Reasoning with Relation Network for Inductive Knowledge Graph Completion.
+- **[NeurIPS 2024]** **Qinggang Zhang†**, Junnan Dong†, Hao Chen, Daochen Zha, Zailiang Yu, Xiao Huang‡. KnowGPT: Knowledge Graph based Prompting for Large Language Models.
+- **[TKDE 2023]** **Qinggang Zhang**, Junnan Dong, Qiaoyu Tan, Xiao Huang‡. Integrating Entity Attributes for Error-Aware Knowledge Graph Embedding.
+-**[CIKM 2022]** **Qinggang Zhang**, Junnan Dong, Keyu Duan, Xiao Huang‡, Yezi Liu, Linchuan Xu. Contrastive Knowledge Graph Error Detection.
 - [ACL 2024] Junnan Dong†, **Qinggang Zhang†**, Huachi Zhou, Daochen Zha, Pai Zheng, Xiao Huang‡. Modality-Aware Integration with LLMs for Knowledge-based Visual Question Answering. 
-- [WWW 2023] Junnan Dong†, **Qinggang Zhang†**, Xiao Huang‡, Keyu Duan, Qiaoyu Tan, Zhimeng Jiang. Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs.
+- **[WWW 2023]** Junnan Dong†, **Qinggang Zhang†**, Xiao Huang‡, Keyu Duan, Qiaoyu Tan, Zhimeng Jiang. Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs.
 - [arXiv 2025] Luyao Zhuang, **Qinggang Zhang‡**, Huachi Zhou, Juhua Liu, Li Qing, Xiao Huang. LoSemB: Logic-Guided Semantic Bridging for Inductive Tool Retrieval.
 - [arXiv 2025] Shengyuan Chen, Zheng Yuan, **Qinggang Zhang‡**, Wen Hua, Xiao Huang. Neuro-Symbolic Entity Alignment via Variational Inference.
 - [arXiv 2025] Zhishang Xiang, Chuanjie Wu, **Qinggang Zhang‡**, Shengyuan Chen, Zijin Hong, Xiao Huang, Jinsong Su#, When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation.
