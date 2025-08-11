@@ -58,7 +58,7 @@ FaithfulRAG: Fact-Level Conflict Modeling for Context-Faithful Retrieval-Augment
 
 
 # 🏆 Honors and Awards
-- [*2025*] SAC Highlights Award at ACL2025
+- [*2025*] SAC Highlights Award at ACL'25
 - [*2024*] KDD Student Travel Grant in 2024
 - [*2024*] Best Presentation Award of COMP 50th Anniversary Research Student Conference
 - [*2022*] SIGIR Student Travel Grant in 2022
@@ -79,7 +79,7 @@ FaithfulRAG: Fact-Level Conflict Modeling for Context-Faithful Retrieval-Augment
 
 - **Reviewer:** TPAMI (2024-2025), TKDE (2023-2025)
   
-- **Volunteer:** ICDM'23, WSDM'23, KDD'24
+- **Volunteer:** ICDM (2023), WSDM (2023), KDD (2024)
 
 <!-- - **Teaching Assistant:** Big Data Analytics (2023 Spring/ 2022 Spring); Object-oriented Programming (2022 Fall); Discrete Mathematics (2021 Fall); Human Computer Interaction (2021 Spring); Computer Networking (2020 Spring); Information Systems (2019 Fall) -->
 
