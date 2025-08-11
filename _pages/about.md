@@ -34,10 +34,18 @@ My research interests include **Knowledge Graphs, Retrieval-Augmented Generation
 - [*2024.09*] Three papers are accepted to NeurIPS'24 and one paper is accepted to KDD'24.
 
 # 📔 Selected Publications 
-<span style="color: #000080">**[†]**</span>: Co-first Author, <span style="color: #006400">**[*]**</span>: Corresponding Author
+**[†]**: Co-first Author, **[‡]**: Corresponding Author
 
-- 
-- Zhishang Xiang, Chuanjie Wu, **<span style="color: #006400">Qinggang Zhang*</span>**, Shengyuan Chen, Zijin Hong, Xiao Huang, Jinsong Su*, [When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2506.05690), preprint, 2025.
+- [arXiv 2025] **Qinggang Zhang†**, Shengyuan Chen†, Yuanchen Bei†, Zheng Yuan, Huachi Zhou, Zijin Hong, Junnan Dong, Hao Chen, Yi Chang, Xiao Huang‡. A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models.
+- [ICML'25] **Qinggang Zhang**, Hao Chen, Junnan Dong, Shengyuan Chen‡, Feiran Huang, Xiao Huang. Structure-Guided Large Language Models for Text-to-SQL Generation.
+- [ACL'25] **Qinggang Zhang†**, Zhishang Xiang†, Yilin Xiao, Le Wang, Junhui Li, Xinrun Wang, Jinsong Su‡.
+FaithfulRAG: Fact-Level Conflict Modeling for Context-Faithful Retrieval-Augmented Generation.
+- [KDD'24] **Qinggang Zhang**, Keyu Duan, Junnan Dong, Pai Zheng, Xiao Huang†. Logical Reasoning with Relation Network for Inductive Knowledge Graph Completion.
+- [NeurIPS'24] **Qinggang Zhang†**, Junnan Dong†, Hao Chen, Daochen Zha, Zailiang Yu, Xiao Huang‡. KnowGPT: Knowledge Graph based Prompting for Large Language Models.
+- [TKDE'23] **Qinggang Zhang**, Junnan Dong, Qiaoyu Tan, Xiao Huang‡. Integrating Entity Attributes for Error-Aware Knowledge Graph Embedding.
+-[CIKM'22] **Qinggang Zhang**, Junnan Dong, Keyu Duan, Xiao Huang‡, Yezi Liu, Linchuan Xu. Contrastive Knowledge Graph Error Detection.
+
+- Zhishang Xiang, Chuanjie Wu, <span style="color: #006400">**Qinggang Zhang#**</span>, Shengyuan Chen, Zijin Hong, Xiao Huang, Jinsong Su#, [When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2506.05690), preprint, 2025.
 - Chuang Zhou, Zhu Wang, <span style="color: #006400">**Shengyuan Chen**</span>, Jiahe Du, Qiyuan Zheng, Zhaozhuo Xu, Xiao Huang, [Taming Language Models for Text-attributed Graph Learning with Decoupled Aggregation](https://openreview.net/forum?id=WlEJovnbXc), ACL (main track), 2025.
 - Qinggang Zhang, Hao Chen, Junnan Dong,  <span style="color: #006400">**Shengyuan Chen**</span>, Feiran Huang, Xiao Huang, [Structure-Guided Large Language Models for Text-to-SQL Generation](https://openreview.net/forum?id=gT8JSEFqaS), ICML, 2025.
 - Qinggang Zhang, <span style="color: #000080">**Shengyuan Chen**</span>, Yuanchen Bei, Zheng Yuan, Huachi Zhou, Zijin Hong, Junnan Dong, Hao Chen, Yi Chang, Xiao Huang, [A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models](https://arxiv.org/abs/2501.13958), preprint, 2025
