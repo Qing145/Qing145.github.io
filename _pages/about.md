@@ -49,8 +49,8 @@ FaithfulRAG: Fact-Level Conflict Modeling for Context-Faithful Retrieval-Augment
 - [arXiv 2025] Luyao Zhuang, **Qinggang Zhang‡**, Huachi Zhou, Juhua Liu, Li Qing, Xiao Huang. LoSemB: Logic-Guided Semantic Bridging for Inductive Tool Retrieval.
 - [arXiv 2025] Shengyuan Chen, Zheng Yuan, **Qinggang Zhang‡**, Wen Hua, Xiao Huang. Neuro-Symbolic Entity Alignment via Variational Inference.
 - [arXiv 2025] Zhishang Xiang, Chuanjie Wu, **Qinggang Zhang‡**, Shengyuan Chen, Zijin Hong, Xiao Huang, Jinsong Su#, When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation.
-
-
+- [arXiv 2025] Yilin Xiao, Chuang Zhou, **Qinggang Zhang‡**, Su Dong, Shengyuan Chen, Xiao Huang. LAG: Logic-Augmented Generation from a Cartesian Perspective.
+- [arXiv 2025] Shengyuan Chen†, Chuang Zhou†, Zheng Yuan, **Qinggang Zhang‡**, Zeyang Cui, Hao Chen, Yilin Xiao, Jiannong Cao, Xiao Huang. You Don't Need Pre-built Graphs for RAG: Retrieval Augmented Generation with Adaptive Reasoning Structures.
 
 
 # 💼 Academic Service
