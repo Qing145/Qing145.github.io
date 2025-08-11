@@ -31,7 +31,7 @@ My research interests include **Knowledge Graphs, Retrieval-Augmented Generation
 - [*2025.05*] Our work SGU-SQL is accepted to ICML'25. [[Paper](https://arxiv.org/abs/2402.13284)\|[Code](https://github.com/Qing145/Text-to-SQL)] 
 - [*2025.04*] We released NPPC, an ever-scaling reasoning benchmark for LLMs. [[Paper](https://arxiv.org/abs/2504.11239)\|[Code](https://github.com/SMU-DIGA/nppc)]
 - [*2025.01*] Our survey on GraphRAG is released! [[Paper](https://arxiv.org/abs/2501.13958)\|[Github awesome-list](https://github.com/DEEP-PolyU/Awesome-GraphRAG)] [![](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphRAG)](https://github.com/DEEP-PolyU/Awesome-GraphRAG)
-- [*2024.09*] Three papers are accepted to NeurIPS.
+- [*2024.09*] Three papers are accepted to NeurIPS'24 and one paper is accepted to KDD'24.
 
 # 📔 Selected Publications 
 <span style="color: #006400">**[Green]**</span>: Corresponding Author, <span style="color: #000080">**[Blue]**</span>: Co-first Author
