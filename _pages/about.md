@@ -34,7 +34,7 @@ My research interests include **Knowledge Graph (KG), Retrieval-Augmented Genera
 - [*2024.09*] Three papers are accepted to NeurIPS'24 and one paper is accepted to KDD'24.
 
 # 📔 Selected Publications ([Full List](https://scholar.google.com/citations?user=eF8PATI7r3IC&hl=en))
-<span style="color: #a39274">**[†]**: Co-first Author</span>, <span style="color: #7A9D96">**[‡]**: Corresponding Author</span>
+<span style="color: #a39274">**[†]: Co-first Author**</span>, <span style="color: #7A9D96">**[‡]: Corresponding Author**</span>
 
 ## Preprint:
 - [arXiv 2025] **Qinggang Zhang†**, Shengyuan Chen†, Yuanchen Bei†, Zheng Yuan, Huachi Zhou, Zijin Hong, Junnan Dong, Jinsong Su, Hao Chen, Yi Chang, Xiao Huang‡. A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models.
