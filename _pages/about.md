@@ -46,14 +46,14 @@ My research interests include **Knowledge Graph (KG), Retrieval-Augmented Genera
 - **[arXiv 2025]** Jiatong LI†, Weida Wang†, <span style="color: #a39274">**Qinggang Zhang†**</span>, Changmeng Zheng, Junxian Li, Di Zhang, Shufei Zhang, Xiaoyong Wei, Li Qing‡. [Mol-R1: Towards Explicit Long-CoT Reasoning in Molecule Discovery](https://qing145.github.io/). 
 
 ## Published:
-- **[ICML 2025]** **Qinggang Zhang**, Hao Chen, Junnan Dong, Shengyuan Chen‡, Feiran Huang, Xiao Huang. [Structure-Guided Large Language Models for Text-to-SQL Generation](https://arxiv.org/abs/2402.13284).
-- **[ACL 2025]** **Qinggang Zhang†**, Zhishang Xiang†, Yilin Xiao, Le Wang, Junhui Li, Xinrun Wang, Jinsong Su‡. [FaithfulRAG: Fact-Level Conflict Modeling for Context-Faithful Retrieval-Augmented Generation](https://arxiv.org/abs/2506.08938).
-- **[KDD 2024]** **Qinggang Zhang**, Keyu Duan, Junnan Dong, Pai Zheng, Xiao Huang†. [Logical Reasoning with Relation Network for Inductive Knowledge Graph Completion](https://dl.acm.org/doi/abs/10.1145/3637528.3671911).
-- **[NeurIPS 2024]** **Qinggang Zhang†**, Junnan Dong†, Hao Chen, Daochen Zha, Zailiang Yu, Xiao Huang‡. [KnowGPT: Knowledge Graph based Prompting for Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/hash/0b8705a611ed1ce19cdb759031078705-Abstract-Conference.html).
-- **[TKDE 2023]** **Qinggang Zhang**, Junnan Dong, Qiaoyu Tan, Xiao Huang‡. [Integrating Entity Attributes for Error-Aware Knowledge Graph Embedding](https://ieeexplore.ieee.org/abstract/document/10239484).
-- **[CIKM 2022]** **Qinggang Zhang**, Junnan Dong, Keyu Duan, Xiao Huang‡, Yezi Liu, Linchuan Xu. [Contrastive Knowledge Graph Error Detection](https://dl.acm.org/doi/abs/10.1145/3511808.3557264).
-- **[ACL 2024]** Junnan Dong†, <span style="color: #a39274">**Qinggang Zhang†**</span>, Huachi Zhou, Daochen Zha, Pai Zheng, Xiao Huang‡. [Modality-Aware Integration with LLMs for Knowledge-based Visual Question Answering](https://arxiv.org/abs/2402.12728). 
-- **[WWW 2023]** Junnan Dong†, <span style="color: #a39274">**Qinggang Zhang†**</span>, Xiao Huang‡, Keyu Duan, Qiaoyu Tan, Zhimeng Jiang. [Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs](https://dl.acm.org/doi/abs/10.1145/3543507.3583376).
+- **[ICML'25]** **Qinggang Zhang**, Hao Chen, Junnan Dong, Shengyuan Chen‡, Feiran Huang, Xiao Huang. [Structure-Guided Large Language Models for Text-to-SQL Generation](https://arxiv.org/abs/2402.13284).
+- **[ACL'25]** **Qinggang Zhang†**, Zhishang Xiang†, Yilin Xiao, Le Wang, Junhui Li, Xinrun Wang, Jinsong Su‡. [FaithfulRAG: Fact-Level Conflict Modeling for Context-Faithful Retrieval-Augmented Generation](https://arxiv.org/abs/2506.08938).
+- **[KDD'24]** **Qinggang Zhang**, Keyu Duan, Junnan Dong, Pai Zheng, Xiao Huang†. [Logical Reasoning with Relation Network for Inductive Knowledge Graph Completion](https://dl.acm.org/doi/abs/10.1145/3637528.3671911).
+- **[NeurIPS'24]** **Qinggang Zhang†**, Junnan Dong†, Hao Chen, Daochen Zha, Zailiang Yu, Xiao Huang‡. [KnowGPT: Knowledge Graph based Prompting for Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/hash/0b8705a611ed1ce19cdb759031078705-Abstract-Conference.html).
+- **[TKDE'23]** **Qinggang Zhang**, Junnan Dong, Qiaoyu Tan, Xiao Huang‡. [Integrating Entity Attributes for Error-Aware Knowledge Graph Embedding](https://ieeexplore.ieee.org/abstract/document/10239484).
+- **[CIKM'22]** **Qinggang Zhang**, Junnan Dong, Keyu Duan, Xiao Huang‡, Yezi Liu, Linchuan Xu. [Contrastive Knowledge Graph Error Detection](https://dl.acm.org/doi/abs/10.1145/3511808.3557264).
+- **[ACL'24]** Junnan Dong†, <span style="color: #a39274">**Qinggang Zhang†**</span>, Huachi Zhou, Daochen Zha, Pai Zheng, Xiao Huang‡. [Modality-Aware Integration with LLMs for Knowledge-based Visual Question Answering](https://arxiv.org/abs/2402.12728). 
+- **[WWW'23]** Junnan Dong†, <span style="color: #a39274">**Qinggang Zhang†**</span>, Xiao Huang‡, Keyu Duan, Qiaoyu Tan, Zhimeng Jiang. [Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs](https://dl.acm.org/doi/abs/10.1145/3543507.3583376).
 
 
 # 🏆 Honors and Awards
