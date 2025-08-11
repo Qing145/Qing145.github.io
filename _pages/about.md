@@ -43,8 +43,8 @@ FaithfulRAG: Fact-Level Conflict Modeling for Context-Faithful Retrieval-Augment
 - **[KDD 2024]** **Qinggang Zhang**, Keyu Duan, Junnan Dong, Pai Zheng, Xiao Huang†. Logical Reasoning with Relation Network for Inductive Knowledge Graph Completion.
 - **[NeurIPS 2024]** **Qinggang Zhang†**, Junnan Dong†, Hao Chen, Daochen Zha, Zailiang Yu, Xiao Huang‡. KnowGPT: Knowledge Graph based Prompting for Large Language Models.
 - **[TKDE 2023]** **Qinggang Zhang**, Junnan Dong, Qiaoyu Tan, Xiao Huang‡. Integrating Entity Attributes for Error-Aware Knowledge Graph Embedding.
--**[CIKM 2022]** **Qinggang Zhang**, Junnan Dong, Keyu Duan, Xiao Huang‡, Yezi Liu, Linchuan Xu. Contrastive Knowledge Graph Error Detection.
-- [ACL 2024] Junnan Dong†, **Qinggang Zhang†**, Huachi Zhou, Daochen Zha, Pai Zheng, Xiao Huang‡. Modality-Aware Integration with LLMs for Knowledge-based Visual Question Answering. 
+- **[CIKM 2022]** **Qinggang Zhang**, Junnan Dong, Keyu Duan, Xiao Huang‡, Yezi Liu, Linchuan Xu. Contrastive Knowledge Graph Error Detection.
+- **[ACL 2024]** Junnan Dong†, **Qinggang Zhang†**, Huachi Zhou, Daochen Zha, Pai Zheng, Xiao Huang‡. Modality-Aware Integration with LLMs for Knowledge-based Visual Question Answering. 
 - **[WWW 2023]** Junnan Dong†, **Qinggang Zhang†**, Xiao Huang‡, Keyu Duan, Qiaoyu Tan, Zhimeng Jiang. Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs.
 - [arXiv 2025] Luyao Zhuang, **Qinggang Zhang‡**, Huachi Zhou, Juhua Liu, Li Qing, Xiao Huang. LoSemB: Logic-Guided Semantic Bridging for Inductive Tool Retrieval.
 - [arXiv 2025] Shengyuan Chen, Zheng Yuan, **Qinggang Zhang‡**, Wen Hua, Xiao Huang. Neuro-Symbolic Entity Alignment via Variational Inference.
