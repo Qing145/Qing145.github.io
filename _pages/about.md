@@ -34,7 +34,7 @@ My research interests include **Knowledge Graphs, Retrieval-Augmented Generation
 - [*2024.09*] Three papers are accepted to NeurIPS'24 and one paper is accepted to KDD'24.
 
 # 📔 Selected Publications 
-<span style="color: #7A9D96">**[†]**: Co-first Author</span>, <span style="color: #006400">**[‡]**: Corresponding Author</span>
+<span style="color: #a39274">**[†]**: Co-first Author</span>, <span style="color: #006400">**[‡]**: Corresponding Author</span>
 
 - [arXiv 2025] **Qinggang Zhang†**, Shengyuan Chen†, Yuanchen Bei†, Zheng Yuan, Huachi Zhou, Zijin Hong, Junnan Dong, Jinsong Su, Hao Chen, Yi Chang, Xiao Huang‡. A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models.
 - **[ICML 2025]** **Qinggang Zhang**, Hao Chen, Junnan Dong, Shengyuan Chen‡, Feiran Huang, Xiao Huang. Structure-Guided Large Language Models for Text-to-SQL Generation.
@@ -44,8 +44,8 @@ FaithfulRAG: Fact-Level Conflict Modeling for Context-Faithful Retrieval-Augment
 - **[NeurIPS 2024]** **Qinggang Zhang†**, Junnan Dong†, Hao Chen, Daochen Zha, Zailiang Yu, Xiao Huang‡. KnowGPT: Knowledge Graph based Prompting for Large Language Models.
 - **[TKDE 2023]** **Qinggang Zhang**, Junnan Dong, Qiaoyu Tan, Xiao Huang‡. Integrating Entity Attributes for Error-Aware Knowledge Graph Embedding.
 - **[CIKM 2022]** **Qinggang Zhang**, Junnan Dong, Keyu Duan, Xiao Huang‡, Yezi Liu, Linchuan Xu. Contrastive Knowledge Graph Error Detection.
-- **[ACL 2024]** Junnan Dong†, <span style="color: #7A9D96">**Qinggang Zhang†**</span>, Huachi Zhou, Daochen Zha, Pai Zheng, Xiao Huang‡. Modality-Aware Integration with LLMs for Knowledge-based Visual Question Answering. 
-- **[WWW 2023]** Junnan Dong†, <span style="color: #7A9D96">**Qinggang Zhang†**</span>, Xiao Huang‡, Keyu Duan, Qiaoyu Tan, Zhimeng Jiang. Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs.
+- **[ACL 2024]** Junnan Dong†, <span style="color: #a39274">**Qinggang Zhang†**</span>, Huachi Zhou, Daochen Zha, Pai Zheng, Xiao Huang‡. Modality-Aware Integration with LLMs for Knowledge-based Visual Question Answering. 
+- **[WWW 2023]** Junnan Dong†, <span style="color: #a39274">**Qinggang Zhang†**</span>, Xiao Huang‡, Keyu Duan, Qiaoyu Tan, Zhimeng Jiang. Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs.
 - [arXiv 2025] Luyao Zhuang, <span style="color: #006400">**Qinggang Zhang‡**</span>, Huachi Zhou, Juhua Liu, Li Qing, Xiao Huang. LoSemB: Logic-Guided Semantic Bridging for Inductive Tool Retrieval.
 - [arXiv 2025] Shengyuan Chen, Zheng Yuan, <span style="color: #006400">**Qinggang Zhang‡**</span>, Wen Hua, Xiao Huang. Neuro-Symbolic Entity Alignment via Variational Inference.
 - [arXiv 2025] Zhishang Xiang, Chuanjie Wu, <span style="color: #006400">**Qinggang Zhang‡**</span>, Shengyuan Chen, Zijin Hong, Xiao Huang, Jinsong Su#, When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation.
