@@ -55,21 +55,27 @@ FaithfulRAG: Fact-Level Conflict Modeling for Context-Faithful Retrieval-Augment
 
 # 💼 Academic Service
 
-- **Program Committee:** NeurIPS (2024-2025); ICML (2025); AISTATS (2025); ICLR (2025); AAAI (2026)
+- **Program Committee:** NeurIPS (2024-2025), ICLR (2025), ICML (2025), KDD (2024-2026), ACL (2025)
 
-- **Reviewer:** TNNLS (2024-2025); TKDD
+- **Reviewer:** TPAMI (2024-2025), TKDE (2023-2025)
+  
+- **Volunteer:** ICDM'23, WSDM'23, KDD'24
 
 <!-- - **Teaching Assistant:** Big Data Analytics (2023 Spring/ 2022 Spring); Object-oriented Programming (2022 Fall); Discrete Mathematics (2021 Fall); Human Computer Interaction (2021 Spring); Computer Networking (2020 Spring); Information Systems (2019 Fall) -->
 
 # 🏆 Honors and Awards
-- [*2025*] Postdoc Matching Fund ~ Two Years
-- [*2023*] Departmental Top Conference Grant
-- [*2022*] Winner of "Most Appreciated Teaching Assistant" (~$30,000HKD)
-- [*2018*] Shanghai 'TI Cup' Undergraduate Electronic Design Contest ~ Second Price
-- [*2015-2018*] Fudan University Scholarship for Outstanding Students ~ Three Times
-- [*2018*] SCSK Corporation Scholarship
-- [*2015-2017*] National Scholarship of Encouragement and Support ~ Twice
+- [*2025*] SAC Highlights Award at ACL'25
+- [*2024*] KDD Student Travel Grant
+- [*2024*] Best Presentation Award of COMP 50th Anniversary Research Student Conference
+- [*2022*] SIGIR Student Travel Grant
+- [*2021*] Vector Scholarship in Artificial Intelligence
+- [*2019*] Outstanding graduate award (undergraduate in NPU)
+- [*2015-2018*] National scholarships ~ Twice
+- [*2017*] Champion in 2017 China Robot Competition
+- [*2017*] Champion in the 2017 international Underwater Robot competition
+- [*2017*] Honorable Mention in the 2017 Interdisciplinary Contest in Modeling
+- [*2016*] The CCF Outstanding Undergraduate Award
+- [*2016*] Champion in “WRC2016” international Underwater Robot competition
+- [*2016*] Champion at 21th FIRA RoboWorld Cup 2016, Beijing, China
+- [*2016*] Champion in 2016 China Robot Competition
 
-# 🎨 Miscellaneous
-
-In my leisure time, I am passionate about cooking, fishing, photography, and sports including hiking and jogging. I proudly completed a half marathon in 2019!
