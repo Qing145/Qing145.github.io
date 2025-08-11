@@ -19,9 +19,9 @@ redirect_from:
 
 # 🎓 About Me
 
-I am a Postdoc with [Prof. Jiannong CAO](https://www4.comp.polyu.edu.hk/~csjcao/) (since 2024) at the Department of Computing, Hong Kong Polytechnic University. I earned my Ph.D. from the same department under the supervision of [Prof. Xiao HUANG](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html) (2021–2024). Prior to that, I obtained my B.E. from [Fudan University](https://www.fudan.edu.cn/).
+I am a fourth-year PhD Candidate in DEEP Lab at The Hong Kong Polytechnic University, supervised by [Prof. Xiao HUANG](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html) and co-supervised by [Prof. Jiannong CAO](https://www4.comp.polyu.edu.hk/~csjcao/). Prior to that, I obtained my B.E. from [Northwestern Polytechnical University](https://www.nwpu.edu.cn/).
 
-My research interests include **graph learning, reasoning**, and **Large Language Models**, with the latest research presented at NeurIPS, ICML, TKDE, ACL, CIKM, etc.. Currently, I am working on **Graph-based Retrieval-Augmented Generation for LLMs (graphRAG).** 
+My research interests include **graph learning, reasoning**, and **Large Language Models**, with the latest research presented at NeurIPS, ICML, KDD, ACL, WWW, TKDE, etc.. Currently, I am working on **Graph-based Retrieval-Augmented Generation for LLMs (GraphRAG).** 
 
 # 🎉 News
 - [*2025.07*] 🔥🔥🔥 Our NeurIPS'24 paper [LLM4EA](https://openreview.net/forum?id=qfCQ54ZTX1) ranks **#1st** in Google Scholar search results for "entity alignment" papers in the past two years (2024-2025)!
