@@ -34,7 +34,7 @@ My research interests include **Knowledge Graphs, Retrieval-Augmented Generation
 - [*2024.09*] Three papers are accepted to NeurIPS'24 and one paper is accepted to KDD'24.
 
 # 📔 Selected Publications 
-**[†]**: Co-first Author, <span style="color: #000080">**[‡]**</span>: Corresponding Author
+**[†]**: Co-first Author, <span style="color: #000080">**[‡]** : Corresponding Author</span>
 
 - [arXiv 2025] **Qinggang Zhang†**, Shengyuan Chen†, Yuanchen Bei†, Zheng Yuan, Huachi Zhou, Zijin Hong, Junnan Dong, Jinsong Su, Hao Chen, Yi Chang, Xiao Huang‡. A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models.
 - **[ICML 2025]** **Qinggang Zhang**, Hao Chen, Junnan Dong, Shengyuan Chen‡, Feiran Huang, Xiao Huang. Structure-Guided Large Language Models for Text-to-SQL Generation.
