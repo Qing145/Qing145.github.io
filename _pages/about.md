@@ -48,7 +48,7 @@ My research interests include **Knowledge Graph (KG), Retrieval-Augmented Genera
 - **[arXiv 2025]** Jiatong LI†, Weida Wang†, <span style="color: #a39274">**Qinggang Zhang†**</span>, Changmeng Zheng, Junxian Li, Di Zhang, Shufei Zhang, Xiaoyong Wei, Li Qing‡. [Mol-R1: Towards Explicit Long-CoT Reasoning in Molecule Discovery](https://arxiv.org/abs/2508.08401). 
 
 ## Published:
-- **[ACM TOIS]** Huachi Zhou, Kaijing Yu, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Hao Chen, Daochen Zha, Anthony Kong, Wenqi Pei, Xiao Huang. Self-Monitoring Large Language Models for Click-Through Rate Prediction.
+- **[ACM TOIS]** Huachi Zhou, Kaijing Yu, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Hao Chen, Daochen Zha, Anthony Kong, Wenqi Pei, Xiao Huang. [Self-Monitoring Large Language Models for Click-Through Rate Prediction](https://openreview.net/pdf?id=jNCwczhHLP).
 - **[ICML'25]** **Qinggang Zhang**, Hao Chen, Junnan Dong, Shengyuan Chen‡, Feiran Huang, Xiao Huang. [Structure-Guided Large Language Models for Text-to-SQL Generation](https://arxiv.org/abs/2402.13284).
 - **[ACL'25]** **Qinggang Zhang†**, Zhishang Xiang†, Yilin Xiao, Le Wang, Junhui Li, Xinrun Wang, Jinsong Su‡. [FaithfulRAG: Fact-Level Conflict Modeling for Context-Faithful Retrieval-Augmented Generation](https://arxiv.org/abs/2506.08938).
 - **[KDD'24]** **Qinggang Zhang**, Keyu Duan, Junnan Dong, Pai Zheng, Xiao Huang†. [Logical Reasoning with Relation Network for Inductive Knowledge Graph Completion](https://dl.acm.org/doi/abs/10.1145/3637528.3671911).
