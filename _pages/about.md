@@ -21,10 +21,10 @@ redirect_from:
 
 I am a fourth-year PhD Candidate in the DEEP Lab at the Department of Computing, The Hong Kong Polytechnic University, under the supervision of [Prof. Xiao HUANG](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html) with co-supervision by [Prof. Jiannong CAO](https://www4.comp.polyu.edu.hk/~csjcao/). Prior to that, I obtained my B.E. from [Northwestern Polytechnical University](https://www.nwpu.edu.cn/).
 
-My research interests include **Knowledge Graph (KG), Retrieval-Augmented Generation (RAG),** and **Large Language Models (LLMs)**, with the latest research presented at NeurIPS, ICML, KDD, ACL, etc.. Currently, I focus on **GraphRAG and Long CoT Reasoning** for specialized domains.
+My research interests include **Knowledge Graph (KG), Large Language Models (LLMs)** and **Retrieval-Augmented Generation (RAG)**. Currently, I focus on **GraphRAG and Long CoT Reasoning** for specialized domains, with the latest research presented at NeurIPS, ICML, KDD, ACL, etc.
 
 # 🎉 News
-- [*2025.08*] Our paper [FILM](https://openreview.net/pdf?id=jNCwczhHLP) is accepted by ACM TOIS. It will be released soon.
+- [*2025.08*] Our paper FILM is accepted by ACM TOIS. It will be released soon.
 - [*2025.08*] Our paper [FaithfulRAG](https://arxiv.org/abs/2506.08938) has been selected for the **SAC Highlights Award** at [ACL'25](https://2025.aclweb.org/program/awards/#sac-highlights).
 - [*2025.06*] We released GraphRAG-Bench for GraphRAG evaluation. [[Paper](https://arxiv.org/abs/2506.05690)\|[Github](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)\|[Slides](https://docs.google.com/presentation/d/1q8K2RgsDYktkEIDp9Lqpb9WwBCBHT_L5/edit?slide=id.p1#slide=id.p1)] [![](https://img.shields.io/github/stars/GraphRAG-Bench/GraphRAG-Benchmark)](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
 - [*2025.05*] I passed the Ph.D. oral defense! Huge thanks to my supervisor and committee members!
