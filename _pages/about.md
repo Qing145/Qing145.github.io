@@ -24,6 +24,7 @@ I am a fourth-year PhD Candidate in the DEEP Lab at the Department of Computing,
 My research interests include Knowledge Graph (KG), Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG). Currently, I focus on GraphRAG and Long CoT Reasoning for specialized domains, with the latest research presented at NeurIPS, ICML, KDD, ACL, etc.
 
 # 🎉 News
+- [*2025.08*] Our paper RAWM is accepted by EMNLP'25. It will be released soon.
 - [*2025.08*] Our paper FILM is accepted by ACM TOIS. It will be released soon.
 - [*2025.08*] Our paper [FaithfulRAG](https://arxiv.org/abs/2506.08938) has been selected for the **SAC Highlights Award** at [ACL'25](https://2025.aclweb.org/program/awards/#sac-highlights).
 - [*2025.06*] We released GraphRAG-Bench for GraphRAG evaluation. [[Paper](https://arxiv.org/abs/2506.05690)\|[Github](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)\|[Slides](https://docs.google.com/presentation/d/1q8K2RgsDYktkEIDp9Lqpb9WwBCBHT_L5/edit?slide=id.p1#slide=id.p1)] [![](https://img.shields.io/github/stars/GraphRAG-Bench/GraphRAG-Benchmark)](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
