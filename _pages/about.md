@@ -24,6 +24,7 @@ I am a fourth-year PhD Candidate in the DEEP Lab at the Department of Computing,
 My research interests include Knowledge Graph (KG), Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG). Currently, I focus on GraphRAG and Long CoT Reasoning for specialized domains, with the latest research presented at NeurIPS, ICML, KDD, ACL, etc.
 
 # 🎉 News
+- [*2025.09*] Our survey on [LLM-based Text-to-SQL](Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL) is accepted by IEEE TKDE. 
 - [*2025.08*] Our works [FILM](https://dl.acm.org/doi/10.1145/3763789) and [RAWM](https://openreview.net/pdf?id=m7GgZ9S8nx) are accepted by ACM TOIS and EMNLP'25, respectively.
 - [*2025.07*] Our paper FaithfulRAG has been selected for the **SAC Highlights Award** at [ACL'25](https://2025.aclweb.org/program/awards/#sac-highlights).
 - [*2025.06*] We released GraphRAG-Bench for GraphRAG evaluation. [[Paper](https://arxiv.org/abs/2506.05690)\|[Github](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)\|[Slides](https://docs.google.com/presentation/d/1q8K2RgsDYktkEIDp9Lqpb9WwBCBHT_L5/edit?slide=id.p1#slide=id.p1)] [![](https://img.shields.io/github/stars/GraphRAG-Bench/GraphRAG-Benchmark)](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
@@ -48,6 +49,7 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 - **[arXiv 2025]** Jiatong LI†, Weida Wang†, <span style="color: #a39274">**Qinggang Zhang†**</span>, Changmeng Zheng, Junxian Li, Di Zhang, Shufei Zhang, Xiaoyong Wei, Li Qing‡. [Mol-R1: Towards Explicit Long-CoT Reasoning in Molecule Discovery](https://arxiv.org/abs/2508.08401). 
 
 ## Published:
+- **[IEEE TKDE]** Zijin Hong, Zheng Yuan, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Hao Chen, Junnan Dong, Feiran Huang, Xiao Huang. [Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL](https://arxiv.org/abs/2406.08426).
 - **[ACM TOIS]** Huachi Zhou, Kaijing Yu, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Hao Chen, Daochen Zha, Anthony Kong, Wenqi Pei, Xiao Huang. [Self-Monitoring Large Language Models for Click-Through Rate Prediction](https://dl.acm.org/doi/10.1145/3763789).
 - **[ICML'25]** **Qinggang Zhang**, Hao Chen, Junnan Dong, Shengyuan Chen‡, Feiran Huang, Xiao Huang. [Structure-Guided Large Language Models for Text-to-SQL Generation](https://arxiv.org/abs/2402.13284).
 - **[ACL'25]** **Qinggang Zhang†**, Zhishang Xiang†, Yilin Xiao, Le Wang, Junhui Li, Xinrun Wang, Jinsong Su‡. [FaithfulRAG: Fact-Level Conflict Modeling for Context-Faithful Retrieval-Augmented Generation](https://arxiv.org/abs/2506.08938).
