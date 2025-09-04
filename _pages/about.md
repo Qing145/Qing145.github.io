@@ -26,8 +26,8 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 # 🎉 News
 - [*2025.09*] Our survey on [LLM-based Text-to-SQL](https://arxiv.org/abs/2406.08426) is accepted by IEEE TKDE.
 - [*2025.08*] Our works [FILM](https://dl.acm.org/doi/10.1145/3763789) and [RAWM](https://openreview.net/pdf?id=m7GgZ9S8nx) are accepted by ACM TOIS and EMNLP'25, respectively.
-- [*2025.08*] We released [Mol-R1](https://arxiv.org/abs/2508.08401), the first Long-CoT reasoning model for molecule discovery.
-- [*2025.07*] Our paper FaithfulRAG has been selected for the **SAC Highlights Award** at [ACL'25](https://2025.aclweb.org/program/awards/#sac-highlights).
+- [*2025.08*] Our paper FaithfulRAG has been selected for the **SAC Highlights Award** at [ACL'25](https://2025.aclweb.org/program/awards/#sac-highlights).
+- [*2025.08*] We released Mol-R1, a long-CoT reasoning model for molecule discovery. [[Paper](https://arxiv.org/abs/2508.08401)\|[Huggingface](https://huggingface.co/papers/2508.08401)]
 - [*2025.06*] We released GraphRAG-Bench for Graph-based RAG evaluation. [[Paper](https://arxiv.org/abs/2506.05690)\|[Github](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)\|[Slides](https://docs.google.com/presentation/d/1q8K2RgsDYktkEIDp9Lqpb9WwBCBHT_L5/edit?slide=id.p1#slide=id.p1)] [![](https://img.shields.io/github/stars/GraphRAG-Bench/GraphRAG-Benchmark)](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
 - [*2025.05*] I passed the Ph.D. oral defense! Huge thanks to my supervisor and committee members!
 - [*2025.05*] Our work, FaithfulRAG, is accepted to ACL'25. [[Paper](https://arxiv.org/abs/2506.08938)\|[Github](https://github.com/XMUDeepLIT/Faithful-RAG)] [![](https://img.shields.io/github/stars/XMUDeepLIT/Faithful-RAG)](https://github.com/XMUDeepLIT/Faithful-RAG)
