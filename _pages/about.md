@@ -21,7 +21,7 @@ redirect_from:
 
 I am a fourth-year PhD Candidate in the DEEP Lab at the Department of Computing, The Hong Kong Polytechnic University, under the supervision of [Prof. Xiao HUANG](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html) with co-supervision by [Prof. Jiannong CAO](https://www4.comp.polyu.edu.hk/~csjcao/). Prior to that, I obtained my B.E. from [Northwestern Polytechnical University](https://www.nwpu.edu.cn/).
 
-My research interests include Knowledge Graph (KG), Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG). Currently, I focus on GraphRAG and Long CoT Reasoning for specialized domains, with the latest research presented at NeurIPS, ICML, KDD, ACL, etc.
+My research interests include Knowledge Graph (KG), Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG). Currently, I focus on GraphRAG and Long-CoT Reasoning for specialized domains, with the latest research presented at NeurIPS, ICML, KDD, ACL, etc.
 
 # 🎉 News
 - [*2025.09*] Our survey on [LLM-based Text-to-SQL](https://arxiv.org/abs/2406.08426) is accepted by IEEE TKDE.
