@@ -19,7 +19,7 @@ redirect_from:
 
 # 🎓 About Me
 
-I am currently a Postdoctoral Fellow at the Hong Kong Polytechnic University. I earned my Ph.D. from the same institution under the supervision of [Prof. Xiao HUANG](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html) with co-supervision by [Prof. Jiannong CAO](https://www4.comp.polyu.edu.hk/~csjcao/). Before that, I obtained my B.E. from Northwestern Polytechnical University.
+I am currently a Postdoctoral Fellow at the Hong Kong Polytechnic University. I earned my Ph.D. from the same institution under the supervision of [Prof. Xiao HUANG](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html) with co-supervision by [Prof. Jiannong CAO](https://www4.comp.polyu.edu.hk/~csjcao/). Before that, I obtained my B.E. from [Northwestern Polytechnical University](https://www.nwpu.edu.cn/).
 
 My research interests include Knowledge Graph (KG), Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG). Currently, I focus on GraphRAG and Long-CoT Reasoning for specialized domains, with the latest research presented at NeurIPS, ICML, KDD, ACL, etc.
 
