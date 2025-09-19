@@ -25,7 +25,7 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 
 # 🎉 News
 - [*2025.09*] Our paper NeuSymEA is accepted by NeurIPS'25. [[Paper](https://arxiv.org/abs/2410.04153)\|[Github](https://github.com/chensyCN/NeuSymEA-NeurIPS25)]
-- [*2025.09*] Our survey on [LLM-based Text-to-SQL](https://arxiv.org/abs/2406.08426) is accepted by IEEE TKDE.
+- [*2025.09*] Our survey on [LLM-based Text-to-SQL](https://arxiv.org/abs/2406.08426) is accepted by IEEE TKDE. [[Paper](https://arxiv.org/abs/2406.08426)\|[Github](https://github.com/DEEP-PolyU/Awesome-LLM-based-Text2SQL)][![](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-LLM-based-Text2SQL)]([https://github.com/XMUDeepLIT/Faithful-RAG](https://github.com/DEEP-PolyU/Awesome-LLM-based-Text2SQL))
 - [*2025.08*] Our works [FILM](https://dl.acm.org/doi/10.1145/3763789) and [RAWM](https://openreview.net/pdf?id=m7GgZ9S8nx) are accepted by ACM TOIS and EMNLP'25, respectively.
 - [*2025.08*] Our paper FaithfulRAG has been selected for the **SAC Highlights Award** at [ACL'25](https://2025.aclweb.org/program/awards/#sac-highlights).
 - [*2025.08*] We released Mol-R1, a long-CoT reasoning model for molecule discovery. [[Paper](https://arxiv.org/abs/2508.08401)\|[Huggingface](https://huggingface.co/papers/2508.08401)]
