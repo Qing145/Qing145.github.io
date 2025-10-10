@@ -27,7 +27,7 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 - [*2025.09*] Our paper NeuSymEA is accepted by NeurIPS'25. [[Paper](https://arxiv.org/abs/2410.04153)\|[Github](https://github.com/chensyCN/NeuSymEA-NeurIPS25)]
 - [*2025.09*] Our survey on Text-to-SQL is accepted by IEEE TKDE. [[Paper](https://arxiv.org/abs/2406.08426)\|[Github](https://github.com/DEEP-PolyU/Awesome-LLM-based-Text2SQL)][![](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-LLM-based-Text2SQL)](https://github.com/DEEP-PolyU/Awesome-LLM-based-Text2SQL)
 - [*2025.08*] Our works [FILM](https://dl.acm.org/doi/10.1145/3763789) and [RAWM](https://openreview.net/pdf?id=m7GgZ9S8nx) are accepted by ACM TOIS and EMNLP'25, respectively.
-- [*2025.08*] Our paper FaithfulRAG has been selected for the **SAC Highlights Award** at [ACL'25](https://2025.aclweb.org/program/awards/#sac-highlights).
+- [*2025.08*] Our paper FaithfulRAG has been selected for the <span style="color: #FF0000">**SAC Highlights Award**</span> at [ACL'25](https://2025.aclweb.org/program/awards/#sac-highlights).
 - [*2025.08*] We released Mol-R1, a long-CoT reasoning model for molecule discovery. [[Paper](https://arxiv.org/abs/2508.08401)\|[Huggingface](https://huggingface.co/papers/2508.08401)]
 - [*2025.06*] We released GraphRAG-Bench for Graph-based RAG evaluation. [[Paper](https://arxiv.org/abs/2506.05690)\|[Github](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)\|[Slides](https://docs.google.com/presentation/d/1q8K2RgsDYktkEIDp9Lqpb9WwBCBHT_L5/edit?slide=id.p1#slide=id.p1)] [![](https://img.shields.io/github/stars/GraphRAG-Bench/GraphRAG-Benchmark)](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
 - [*2025.05*] I passed the Ph.D. oral defense! Huge thanks to my supervisor and committee members!
@@ -65,7 +65,7 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 
 
 # 🏆 Honors and Awards
-- [*2025*] SAC Highlights Award at ACL'25
+- [*2025*] <span style="color: #FF0000">**SAC Highlights Award at ACL'25**</span>
 - [*2024*] KDD Student Travel Grant in 2024
 - [*2024*] Best Presentation Award of COMP 50th Anniversary Research Student Conference
 - [*2022*] SIGIR Student Travel Grant in 2022
