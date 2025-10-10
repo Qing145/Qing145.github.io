@@ -54,7 +54,7 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 - **[IEEE TKDE]** Zijin Hong, Zheng Yuan, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Hao Chen, Junnan Dong, Feiran Huang, Xiao Huang. [Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL](https://arxiv.org/abs/2406.08426).
 - **[ACM TOIS]** Huachi Zhou, Kaijing Yu, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Hao Chen, Daochen Zha, Anthony Kong, Wenqi Pei, Xiao Huang. [Self-Monitoring Large Language Models for Click-Through Rate Prediction](https://dl.acm.org/doi/10.1145/3763789).
 - **[ICML'25]** **Qinggang Zhang**, Hao Chen, Junnan Dong, Shengyuan Chen‡, Feiran Huang, Xiao Huang. [Structure-Guided Large Language Models for Text-to-SQL Generation](https://arxiv.org/abs/2402.13284).
-- **[ACL'25]** **Qinggang Zhang†**, Zhishang Xiang†, Yilin Xiao, Le Wang, Junhui Li, Xinrun Wang, Jinsong Su‡. [FaithfulRAG: Fact-Level Conflict Modeling for Context-Faithful Retrieval-Augmented Generation](https://arxiv.org/abs/2506.08938).
+- **[ACL'25]** **Qinggang Zhang†**, Zhishang Xiang†, Yilin Xiao, Le Wang, Junhui Li, Xinrun Wang, Jinsong Su‡. [FaithfulRAG: Fact-Level Conflict Modeling for Context-Faithful Retrieval-Augmented Generation](https://arxiv.org/abs/2506.08938). <span style="color: #FF0000">**SAC Highlights Award at ACL'25**</span>
 - **[KDD'24]** **Qinggang Zhang**, Keyu Duan, Junnan Dong, Pai Zheng, Xiao Huang†. [Logical Reasoning with Relation Network for Inductive Knowledge Graph Completion](https://dl.acm.org/doi/abs/10.1145/3637528.3671911).
 - **[NeurIPS'24]** **Qinggang Zhang†**, Junnan Dong†, Hao Chen, Daochen Zha, Zailiang Yu, Xiao Huang‡. [KnowGPT: Knowledge Graph based Prompting for Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/hash/0b8705a611ed1ce19cdb759031078705-Abstract-Conference.html).
 - **[IEEE TKDE]** **Qinggang Zhang**, Junnan Dong, Qiaoyu Tan, Xiao Huang‡. [Integrating Entity Attributes for Error-Aware Knowledge Graph Embedding](https://ieeexplore.ieee.org/abstract/document/10239484).
@@ -65,7 +65,7 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 
 
 # 🏆 Honors and Awards
-- [*2025*] <span style="color: #FF0000">**SAC Highlights Award at ACL'25**</span>
+- [*2025*] **SAC Highlights Award at ACL'25**
 - [*2024*] KDD Student Travel Grant in 2024
 - [*2024*] Best Presentation Award of COMP 50th Anniversary Research Student Conference
 - [*2022*] SIGIR Student Travel Grant in 2022
