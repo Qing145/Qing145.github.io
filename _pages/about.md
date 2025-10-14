@@ -24,6 +24,7 @@ I am currently a Postdoctoral Fellow at the Hong Kong Polytechnic University. I 
 My research interests include Knowledge Graph (KG), Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG). Currently, I focus on GraphRAG and Long-CoT Reasoning for specialized domains, with the latest research presented at NeurIPS, ICML, KDD, ACL, etc.
 
 # 🎉 News
+- [*2025.10*] We release [LinearRAG](https://arxiv.org/abs/2510.10114), a lightweight graph construction method for efficient GraphRAG.
 - [*2025.09*] Our paper NeuSymEA is accepted by NeurIPS'25. [[Paper](https://arxiv.org/abs/2410.04153)\|[Github](https://github.com/chensyCN/NeuSymEA-NeurIPS25)]
 - [*2025.09*] Our survey on Text-to-SQL is accepted by IEEE TKDE. [[Paper](https://arxiv.org/abs/2406.08426)\|[Github](https://github.com/DEEP-PolyU/Awesome-LLM-based-Text2SQL)][![](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-LLM-based-Text2SQL)](https://github.com/DEEP-PolyU/Awesome-LLM-based-Text2SQL)
 - [*2025.08*] Our paper FILM is accepted by ACM TOIS. [[Paper](https://dl.acm.org/doi/10.1145/3763789)\|[Github](https://github.com/huachzhou/FILM.git)]
@@ -43,6 +44,7 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 
 ## Preprint:
 - **[arXiv 2025]** **Qinggang Zhang†**, Shengyuan Chen†, Yuanchen Bei†, Zheng Yuan, Huachi Zhou, Zijin Hong, Yilin Xiao, Chuang Zhou, Hao Chen, Yi Chang, Xiao Huang‡. [A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models](https://arxiv.org/abs/2501.13958).
+- **[arXiv 2025]** Luyao Zhuang†, Shengyuan Chen†, Yilin Xiao, Huachi Zhou‡, Yujing Zhang, Hao Chen, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Xiao Huang. [LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora](https://arxiv.org/abs/2510.10114).
 - **[arXiv 2025]** Luyao Zhuang, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Huachi Zhou, Juhua Liu, Li Qing, Xiao Huang. [LoSemB: Logic-Guided Semantic Bridging for Inductive Tool Retrieval](https://arxiv.org/abs/2508.07690).
 - **[arXiv 2025]** Zhishang Xiang†, Chuanjie Wu†, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Shengyuan Chen, Zijin Hong, Xiao Huang, Jinsong Su‡. [When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2506.05690).
 - **[arXiv 2025]** Yilin Xiao, Chuang Zhou, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Su Dong, Shengyuan Chen, Xiao Huang. [LAG: Logic-Augmented Generation from a Cartesian Perspective](https://arxiv.org/abs/2508.05509).
