@@ -54,20 +54,26 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 - **[arXiv 2025]** Shengyuan Chen, Chuang Zhou, Zheng Yuan, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Zeyang Cui, Hao Chen, Yilin Xiao, Jiannong Cao, Xiao Huang. [You Don't Need Pre-built Graphs for RAG: Retrieval Augmented Generation with Adaptive Reasoning Structures](https://arxiv.org/abs/2508.06105).
 - **[arXiv 2025]** Jiatong LI†, Weida Wang†, <span style="color: #a39274">**Qinggang Zhang†**</span>, Changmeng Zheng, Junxian Li, Di Zhang, Shufei Zhang, Xiaoyong Wei, Li Qing‡. [Mol-R1: Towards Explicit Long-CoT Reasoning in Molecule Discovery](https://arxiv.org/abs/2508.08401). 
 
-## Published:
+## Published (First/Corresponding Author):
 - **[NeurIPS'25]** Shengyuan Chen, Zheng Yuan, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Wen Hua, Jiannong Cao, Xiao Huang. [Neuro-Symbolic Entity Alignment via Variational Inference](https://arxiv.org/abs/2410.04153).
 - **[IEEE TKDE]** Zijin Hong, Zheng Yuan, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Hao Chen, Junnan Dong, Feiran Huang, Xiao Huang. [Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL](https://arxiv.org/abs/2406.08426).
 - **[ACM TOIS]** Huachi Zhou, Kaijing Yu, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Hao Chen, Daochen Zha, Anthony Kong, Wenqi Pei, Xiao Huang. [Self-Monitoring Large Language Models for Click-Through Rate Prediction](https://dl.acm.org/doi/10.1145/3763789).
 - **[ICML'25]** **Qinggang Zhang**, Hao Chen, Junnan Dong, Shengyuan Chen‡, Feiran Huang, Xiao Huang. [Structure-Guided Large Language Models for Text-to-SQL Generation](https://arxiv.org/abs/2402.13284).
 - **[ACL'25]** **Qinggang Zhang†**, Zhishang Xiang†, Yilin Xiao, Le Wang, Junhui Li, Xinrun Wang, Jinsong Su‡. [FaithfulRAG: Fact-Level Conflict Modeling for Context-Faithful Retrieval-Augmented Generation](https://arxiv.org/abs/2506.08938). (🏆 <span style="color: #cf5148">**SAC Highlights Award**</span>)
-- **[KDD'24]** **Qinggang Zhang**, Keyu Duan, Junnan Dong, Pai Zheng, Xiao Huang†. [Logical Reasoning with Relation Network for Inductive Knowledge Graph Completion](https://dl.acm.org/doi/abs/10.1145/3637528.3671911).
+- **[KDD'24]** **Qinggang Zhang**, Keyu Duan, Junnan Dong, Pai Zheng, Xiao Huang‡. [Logical Reasoning with Relation Network for Inductive Knowledge Graph Completion](https://dl.acm.org/doi/abs/10.1145/3637528.3671911).
 - **[NeurIPS'24]** **Qinggang Zhang†**, Junnan Dong†, Hao Chen, Daochen Zha, Zailiang Yu, Xiao Huang‡. [KnowGPT: Knowledge Graph based Prompting for Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/hash/0b8705a611ed1ce19cdb759031078705-Abstract-Conference.html).
 - **[IEEE TKDE]** **Qinggang Zhang**, Junnan Dong, Qiaoyu Tan, Xiao Huang‡. [Integrating Entity Attributes for Error-Aware Knowledge Graph Embedding](https://ieeexplore.ieee.org/abstract/document/10239484).
 - **[ACL'24]** Junnan Dong†, <span style="color: #a39274">**Qinggang Zhang†**</span>, Huachi Zhou, Daochen Zha, Pai Zheng, Xiao Huang‡. [Modality-Aware Integration with LLMs for Knowledge-based Visual Question Answering](https://arxiv.org/abs/2402.12728). 
 - **[WWW'23]** Junnan Dong†, <span style="color: #a39274">**Qinggang Zhang†**</span>, Xiao Huang‡, Keyu Duan, Qiaoyu Tan, Zhimeng Jiang. [Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs](https://dl.acm.org/doi/abs/10.1145/3543507.3583376).
 - **[CIKM'22]** **Qinggang Zhang**, Junnan Dong, Keyu Duan, Xiao Huang‡, Yezi Liu, Linchuan Xu. [Contrastive Knowledge Graph Error Detection](https://dl.acm.org/doi/abs/10.1145/3511808.3557264).
 
-
+## Published (Co-author):
+- **[ICDE'26]** Zheng Yuan, Hao Chen‡, Zijin Hong, **Qinggang Zhang**, Feiran Huang, Qing Li, Xiao Huang. [Knapsack Optimization-based Schema Linking for LLM-based Text-to-SQL Generation](https://arxiv.org/abs/2502.12911).
+- **[EMNLP'25 Findings]** Chang Yang, Xinrun Wang‡, **Qinggang Zhang**, Qi Jiang, Xiao Huang. [Efficient Integration of External Knowledge to LLM-based World Models via Retrieval-Augmented Generation and Reinforcement Learning](https://openreview.net/pdf?id=feqKXbuKzr).
+- **[NeurIPS'24]** Shengyuan Chen, **Qinggang Zhang**, Junnan Dong, Wen Hua, Xiao Huang‡. [Entity Alignment with Noisy Annotations from Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/hash/1b57aaddf85ab01a2445a79c9edc1f4b-Abstract-Conference.html).
+- **[NeurIPS'24]** Junnan Dong, **Qinggang Zhang**, Chuang Zhou, Daochen Zha, Xiao Huang‡. [Cost-efficient Knowledge-based Question Answering with Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/hash/d0aafec03d59db29a92fa683bd783374-Abstract-Conference.html).
+- **[ACL'24 Findings]** Zijin Hong, Zheng Yuan, Hao Chen, **Qinggang Zhang**, Feiran Huang‡, Xiao Huang. [Knowledge-to-SQL: Enhancing SQL Generation with Data Expert LLM](https://arxiv.org/abs/2402.11517).
+- **[WSDM'23]** Junnan Dong, **Qinggang Zhang**, Xiao Huang‡, Qiaoyu Tan, Daochen Zha, Zihao Zhao. [Active Ensemble Learning for Knowledge Graph Error Detection](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/2023WSDM_Junnan.pdf).
 
 # 🏆 Honors and Awards
 - [*2025*] **SAC Highlights Award at ACL'25**
