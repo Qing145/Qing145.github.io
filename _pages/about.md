@@ -26,6 +26,7 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 # 🎉 News
 - [*2025.10*] Our paper [KaSLA](https://arxiv.org/abs/2502.12911) on Text-to-SQL Generation is accepted by ICDE'26. 
 - [*2025.10*] We release [LinearRAG](https://arxiv.org/abs/2510.10114), a lightweight graph construction method for efficient GraphRAG.
+- [*2025.10*] We release CLEAR, a novel framework for RAG faithfulness. [[Paper](https://arxiv.org/abs/2510.12460)\|[Github](https://github.com/LinfengGao/CLEAR.git)]
 - [*2025.09*] Our paper NeuSymEA is accepted by NeurIPS'25. [[Paper](https://arxiv.org/abs/2410.04153)\|[Github](https://github.com/chensyCN/NeuSymEA-NeurIPS25)]
 - [*2025.09*] Our survey on Text-to-SQL is accepted by IEEE TKDE. [[Paper](https://arxiv.org/abs/2406.08426)\|[Github](https://github.com/DEEP-PolyU/Awesome-LLM-based-Text2SQL)][![](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-LLM-based-Text2SQL)](https://github.com/DEEP-PolyU/Awesome-LLM-based-Text2SQL)
 - [*2025.08*] Our paper FILM is accepted by ACM TOIS. [[Paper](https://dl.acm.org/doi/10.1145/3763789)\|[Github](https://github.com/huachzhou/FILM.git)]
