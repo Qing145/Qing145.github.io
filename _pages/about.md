@@ -44,7 +44,7 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 # 📔 Selected Publications ([Full List](https://scholar.google.com/citations?user=eF8PATI7r3IC&hl=en))
 <span style="color: #a39274">**[†]: Co-first Author**</span>, <span style="color: #7A9D96">**[‡]: Corresponding Author**</span>
 
-## Preprint:
+## Preprint (First/Corresponding Author):
 - **[arXiv 2025]** **Qinggang Zhang†**, Shengyuan Chen†, Yuanchen Bei†, Zheng Yuan, Huachi Zhou, Zijin Hong, Yilin Xiao, Chuang Zhou, Hao Chen, Yi Chang, Xiao Huang‡. [A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models](https://arxiv.org/abs/2501.13958).
 - **[arXiv 2025]** Luyao Zhuang†, Shengyuan Chen†, Yilin Xiao, Huachi Zhou‡, Yujing Zhang, Hao Chen, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Xiao Huang. [LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora](https://arxiv.org/abs/2510.10114).
 - **[arXiv 2025]** Luyao Zhuang, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Huachi Zhou, Juhua Liu, Li Qing, Xiao Huang. [LoSemB: Logic-Guided Semantic Bridging for Inductive Tool Retrieval](https://arxiv.org/abs/2508.07690).
