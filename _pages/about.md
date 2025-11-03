@@ -40,6 +40,7 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 - [*2025.04*] We released NPPC, an ever-scaling reasoning benchmark for LLMs. [[Paper](https://arxiv.org/abs/2504.11239)\|[Github](https://github.com/SMU-DIGA/nppc)]
 - [*2025.01*] Our survey on GraphRAG is released! [[Paper](https://arxiv.org/abs/2501.13958)\|[Github awesome-list](https://github.com/DEEP-PolyU/Awesome-GraphRAG)] [![](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphRAG)](https://github.com/DEEP-PolyU/Awesome-GraphRAG)
 - [*2024.09*] Three papers are accepted to NeurIPS'24 and one paper is accepted to KDD'24.
+- [*2024.06*] I got the <span style="color: #cf5148">**Best Presentation Award**</span> in [COMP 50th Anniversary Research Student Conference](https://www.polyu.edu.hk/comp/news-and-events/news/2024/0626_research-student-conference/?sc_lang=en).
 
 # 📔 Selected Publications ([Full List](https://scholar.google.com/citations?user=eF8PATI7r3IC&hl=en))
 <span style="color: #a39274">**[†]: Co-first Author**</span>, <span style="color: #7A9D96">**[‡]: Corresponding Author**</span>
