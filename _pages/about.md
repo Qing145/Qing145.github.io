@@ -77,7 +77,7 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 - **[WSDM'23]** Junnan Dong, **Qinggang Zhang**, Xiao Huang‡, Qiaoyu Tan, Daochen Zha, Zihao Zhao. [Active Ensemble Learning for Knowledge Graph Error Detection](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/2023WSDM_Junnan.pdf).
 
 # 🏆 Honors and Awards
-- [*2025*] **SAC Highlights Award at ACL'25**
+- [*2025*] 🏆 <span style="color: #cf5148">**ACL'25 SAC Highlights Award**</span>
 - [*2024*] KDD Student Travel Grant in 2024
 - [*2024*] Best Presentation Award of COMP 50th Anniversary Research Student Conference
 - [*2022*] SIGIR Student Travel Grant in 2022
