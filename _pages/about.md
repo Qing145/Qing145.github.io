@@ -94,7 +94,9 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 
 # 💼 Academic Service
 
-- **Program Committee:** NeurIPS (2024-2025), ICLR (2025), ICML (2025), KDD (2024-2026), ACL (2025)
+- **Area Chair:** ACL Rolling Review (ARR), AACL (2025), EACL (2025)
+
+- **Program Committee:** NeurIPS (2024-2025), ICLR (2025-2026), ICML (2025), KDD (2024-2026), ACL (2025)
 
 - **Reviewer:** TPAMI (2024-2025), TKDE (2023-2025)
   
