@@ -58,7 +58,6 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 - **[arXiv 2025]** Jiatong LI†, Weida Wang†, <span style="color: #a39274">**Qinggang Zhang†**</span>, Changmeng Zheng, Junxian Li, Di Zhang, Shufei Zhang, Xiaoyong Wei, Li Qing‡. [Mol-R1: Towards Explicit Long-CoT Reasoning in Molecule Discovery](https://arxiv.org/abs/2508.08401). 
 
 ## Published (First/Corresponding Author):
-- **[AAAI'26]** Huachi Zhou, Yujing Zhang, Hao Chen, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Qijie Shen, Feiran Huang, Xiao Huang. [LLM Collaborative Filtering: User-Item Graph as New Language](https://openreview.net/pdf?id=qdpT9PIWvV). (<span style="color: #cf5148">**Oral**</span>)
 - **[AAAI'26]** Shengyuan Chen, Chuang Zhou, Zheng Yuan, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Zeyang Cui, Hao Chen, Yilin Xiao, Jiannong Cao, Xiao Huang. [You Don't Need Pre-built Graphs for RAG: Retrieval Augmented Generation with Adaptive Reasoning Structures](https://arxiv.org/abs/2508.06105).
 - **[AAAI'26]** Jiajun Cao, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Yunbo Tang, Zhishang Xiang, Chang Yang, Jinsong Su‡. [Augmenting Intra-Modal Understanding in MLLMs for Robust Multimodal Keyphrase Generation](https://openreview.net/pdf?id=Z55FkgwUq7). 
 - **[NeurIPS'25]** Shengyuan Chen, Zheng Yuan, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Wen Hua, Jiannong Cao, Xiao Huang. [Neuro-Symbolic Entity Alignment via Variational Inference](https://arxiv.org/abs/2410.04153).
@@ -74,6 +73,7 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 - **[CIKM'22]** **Qinggang Zhang**, Junnan Dong, Keyu Duan, Xiao Huang‡, Yezi Liu, Linchuan Xu. [Contrastive Knowledge Graph Error Detection](https://dl.acm.org/doi/abs/10.1145/3511808.3557264).
 
 ## Published (Co-author):
+- **[AAAI'26]** Huachi Zhou, Yujing Zhang, Hao Chen, **Qinggang Zhang**, Qijie Shen, Feiran Huang, Xiao Huang‡. [LLM Collaborative Filtering: User-Item Graph as New Language](https://openreview.net/pdf?id=qdpT9PIWvV). (<span style="color: #cf5148">**Oral**</span>)
 - **[ICDE'26]** Zheng Yuan, Hao Chen‡, Zijin Hong, **Qinggang Zhang**, Feiran Huang, Qing Li, Xiao Huang. [Knapsack Optimization-based Schema Linking for LLM-based Text-to-SQL Generation](https://arxiv.org/abs/2502.12911).
 - **[EMNLP'25 Findings]** Chang Yang, Xinrun Wang‡, **Qinggang Zhang**, Qi Jiang, Xiao Huang. [Efficient Integration of External Knowledge to LLM-based World Models via Retrieval-Augmented Generation and Reinforcement Learning](https://openreview.net/pdf?id=feqKXbuKzr).
 - **[NeurIPS'24]** Shengyuan Chen, **Qinggang Zhang**, Junnan Dong, Wen Hua, Xiao Huang‡. [Entity Alignment with Noisy Annotations from Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/hash/1b57aaddf85ab01a2445a79c9edc1f4b-Abstract-Conference.html).
