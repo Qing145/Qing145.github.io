@@ -24,7 +24,8 @@ I am currently a Postdoctoral Fellow at the Hong Kong Polytechnic University. I 
 My research interests include Knowledge Graph (KG), Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG). Currently, I focus on GraphRAG and Long-CoT Reasoning for specialized domains, with the latest research presented at NeurIPS, ICML, KDD, ACL, etc.
 
 # 🎉 News
-- [*2025.10*] Our paper [KaSLA](https://arxiv.org/abs/2502.12911) on Text-to-SQL Generation is accepted by ICDE'26. 
+- [*2025.11*] Three papers are accepted by [AAAI'26](https://aaai.org/conference/aaai/aaai-26/), including one oral and two posters.
+- [*2025.10*] Our paper [KaSLA](https://arxiv.org/abs/2502.12911) on Text-to-SQL Generation is accepted by ICDE'26.
 - [*2025.10*] We release LinearRAG, a relation-free GraphRAG method. [[Paper](https://arxiv.org/abs/2510.10114)\|[Github](https://github.com/DEEP-PolyU/LinearRAG)] [![](https://img.shields.io/github/stars/DEEP-PolyU/LinearRAG)](https://github.com/DEEP-PolyU/LinearRAG)
 - [*2025.10*] We release CLEAR, a novel framework for RAG faithfulness. [[Paper](https://arxiv.org/abs/2510.12460)\|[Github](https://github.com/LinfengGao/CLEAR.git)]
 - [*2025.09*] Our paper NeuSymEA is accepted by NeurIPS'25. [[Paper](https://arxiv.org/abs/2410.04153)\|[Github](https://github.com/chensyCN/NeuSymEA-NeurIPS25)]
@@ -57,6 +58,9 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 - **[arXiv 2025]** Jiatong LI†, Weida Wang†, <span style="color: #a39274">**Qinggang Zhang†**</span>, Changmeng Zheng, Junxian Li, Di Zhang, Shufei Zhang, Xiaoyong Wei, Li Qing‡. [Mol-R1: Towards Explicit Long-CoT Reasoning in Molecule Discovery](https://arxiv.org/abs/2508.08401). 
 
 ## Published (First/Corresponding Author):
+- **[AAAI'26]** Huachi Zhou, Yujing Zhang, Hao Chen, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Qijie Shen, Feiran Huang, Xiao Huang. [LLM Collaborative Filtering: User-Item Graph as New Language](https://openreview.net/pdf?id=qdpT9PIWvV). (🏆 <span style="color: #cf5148">**Oral**</span>)
+- **[AAAI'26]** Shengyuan Chen, Chuang Zhou, Zheng Yuan, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Zeyang Cui, Hao Chen, Yilin Xiao, Jiannong Cao, Xiao Huang. [You Don't Need Pre-built Graphs for RAG: Retrieval Augmented Generation with Adaptive Reasoning Structures](https://arxiv.org/abs/2508.06105).
+- **[AAAI'26]** Jiajun Cao, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Yunbo Tang, Zhishang Xiang, Chang Yang, Jinsong Su. [Augmenting Intra-Modal Understanding in MLLMs for Robust Multimodal Keyphrase Generation](https://openreview.net/pdf?id=Z55FkgwUq7). 
 - **[NeurIPS'25]** Shengyuan Chen, Zheng Yuan, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Wen Hua, Jiannong Cao, Xiao Huang. [Neuro-Symbolic Entity Alignment via Variational Inference](https://arxiv.org/abs/2410.04153).
 - **[IEEE TKDE]** Zijin Hong, Zheng Yuan, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Hao Chen, Junnan Dong, Feiran Huang, Xiao Huang. [Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL](https://arxiv.org/abs/2406.08426).
 - **[ACM TOIS]** Huachi Zhou, Kaijing Yu, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Hao Chen, Daochen Zha, Anthony Kong, Wenqi Pei, Xiao Huang. [Self-Monitoring Large Language Models for Click-Through Rate Prediction](https://dl.acm.org/doi/10.1145/3763789).
