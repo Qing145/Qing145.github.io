@@ -24,9 +24,9 @@ I am currently a Postdoctoral Fellow at the Hong Kong Polytechnic University. I 
 My research interests include Knowledge Graph (KG), Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG). Currently, I focus on GraphRAG and Long-CoT Reasoning for specialized domains, with the latest research presented at NeurIPS, ICML, KDD, ACL, etc.
 
 # 🎉 News
-- [*2025.11*] Our work NLCF is accepted by AAAI’26 (Oral). The paper and code will be released soon.
-- [*2025.11*] Our work LogicRAG is accepted by AAAI’26 (Poster). [[Paper](https://arxiv.org/abs/2508.06105)\|[Github](https://github.com/chensyCN/LogicRAG)] [![](https://img.shields.io/github/stars/chensyCN/LogicRAG)](https://github.com/chensyCN/LogicRAG)
-- [*2025.11*] Our work AimKP is accepted by AAAI’26 (Poster). [[Paper](https://openreview.net/pdf?id=Z55FkgwUq7)\|[Github](https://github.com/XMUDeepLIT/AimKP)]
+- [*2025.11*] Our paper NLCF is accepted by AAAI’26 (<span style="color: #cf5148">**Oral**</span>). It will be released soon.
+- [*2025.11*] Our paper LogicRAG is accepted by AAAI’26 (Poster). [[Paper](https://arxiv.org/abs/2508.06105)\|[Github](https://github.com/chensyCN/LogicRAG)] [![](https://img.shields.io/github/stars/chensyCN/LogicRAG)](https://github.com/chensyCN/LogicRAG)
+- [*2025.11*] Our paper AimKP is accepted by AAAI’26 (Poster). [[Paper](https://openreview.net/pdf?id=Z55FkgwUq7)\|[Github](https://github.com/XMUDeepLIT/AimKP)]
 - [*2025.10*] Our paper [KaSLA](https://arxiv.org/abs/2502.12911) on Text-to-SQL Generation is accepted by ICDE'26.
 - [*2025.10*] We release LinearRAG, a relation-free GraphRAG method. [[Paper](https://arxiv.org/abs/2510.10114)\|[Github](https://github.com/DEEP-PolyU/LinearRAG)] [![](https://img.shields.io/github/stars/DEEP-PolyU/LinearRAG)](https://github.com/DEEP-PolyU/LinearRAG)
 - [*2025.10*] We release CLEAR, a novel framework for RAG faithfulness. [[Paper](https://arxiv.org/abs/2510.12460)\|[Github](https://github.com/LinfengGao/CLEAR.git)]
