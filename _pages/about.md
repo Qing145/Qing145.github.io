@@ -24,7 +24,7 @@ I am currently a Postdoctoral Fellow at the Hong Kong Polytechnic University. I 
 My research interests include Knowledge Graph (KG), Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG). Currently, I focus on GraphRAG and Long-CoT Reasoning for specialized domains, with the latest research presented at NeurIPS, ICML, KDD, ACL, etc.
 
 # 🎉 News
-- [*2025.12*] I was honored to receive the  <span style="color: #cf5148">**COMP PhD Thesis Merit Award 2025**</span>. 
+- [*2025.12*] I'm honored to be selected as the recipient of the <span style="color: #cf5148">**COMP PhD Thesis Merit Award**</span>. 
 - [*2025.11*] Our paper [NLCF](https://web.comp.polyu.edu.hk/xiaohuang/docs/2026AAAI_Huachi.pdf) is accepted by AAAI’26 (<span style="color: #cf5148">**Oral**</span>). It will be released soon.
 - [*2025.11*] Our paper LogicRAG is accepted by AAAI’26 (Poster). [[Paper](https://arxiv.org/abs/2508.06105)\|[Github](https://github.com/chensyCN/LogicRAG)] [![](https://img.shields.io/github/stars/chensyCN/LogicRAG)](https://github.com/chensyCN/LogicRAG)
 - [*2025.11*] Our paper AimKP is accepted by AAAI’26 (Poster). [[Paper](https://arxiv.org/abs/2512.00928)\|[Github](https://github.com/XMUDeepLIT/AimKP)]
@@ -84,7 +84,7 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 - **[WSDM'23]** Junnan Dong, **Qinggang Zhang**, Xiao Huang‡, Qiaoyu Tan, Daochen Zha, Zihao Zhao. [Active Ensemble Learning for Knowledge Graph Error Detection](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/2023WSDM_Junnan.pdf).
 
 # 🏆 Honors and Awards
-- [*2025*] **COMP PhD Thesis Merit Award 2025**
+- [*2025*] **COMP PhD Thesis Merit Award in 2025**
 - [*2025*] **ACL 2025 SAC Highlights Award**
 - [*2024*] KDD Student Travel Grant in 2024
 - [*2024*] **ARSC 2024 Best Presentation Award**
