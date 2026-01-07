@@ -25,7 +25,7 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 
 # 🎉 News
 - [*2025.12*] I was honored to receive the <span style="color: #cf5148">**COMP PhD Thesis Merit Award**</span>. 
-- [*2025.11*] Our paper [NLCF](https://web.comp.polyu.edu.hk/xiaohuang/docs/2026AAAI_Huachi.pdf) is accepted by AAAI’26 (<span style="color: #cf5148">**Oral**</span>). It will be released soon.
+- [*2025.11*] Three papers are accepted by AAAI'26, and [NLCF](https://web.comp.polyu.edu.hk/xiaohuang/docs/2026AAAI_Huachi.pdf) is selected as an (<span style="color: #cf5148">**Oral**</span>) presentation.
 - [*2025.11*] Our paper LogicRAG is accepted by AAAI’26 (Poster). [[Paper](https://arxiv.org/abs/2508.06105)\|[Github](https://github.com/chensyCN/LogicRAG)] [![](https://img.shields.io/github/stars/chensyCN/LogicRAG)](https://github.com/chensyCN/LogicRAG)
 - [*2025.11*] Our paper AimKP is accepted by AAAI’26 (Poster). [[Paper](https://arxiv.org/abs/2512.00928)\|[Github](https://github.com/XMUDeepLIT/AimKP)]
 - [*2025.10*] Our paper KaSLA on Text-to-SQL Generation is accepted by ICDE'26. [[Paper](https://arxiv.org/abs/2502.12911)\|[Github](https://github.com/DEEP-PolyU/KaSLA.git)]
