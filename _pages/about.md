@@ -77,7 +77,7 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 
 ## Published (Co-author):
 - **[WWW 2026]** Qichuan Liu, Chentao Zhang, Yuxuan Hu, Chenfeng Zheng, **Qinggang Zhang**,  Zhihong Zhang‡. [Facilitating Generative Retrieval with Logical Denoising for Interpretable Conversational Search](https://qing145.github.io/).
-- **[AAAI'26]** Huachi Zhou, Yujing Zhang, Hao Chen, **Qinggang Zhang**, Qijie Shen, Feiran Huang, Xiao Huang‡. [LLM Collaborative Filtering: User-Item Graph as New Language](https://openreview.net/pdf?id=qdpT9PIWvV). (<span style="color: #cf5148">**Oral**</span>)
+- **[AAAI'26]** Huachi Zhou, Yujing Zhang, Hao Chen‡, **Qinggang Zhang**, Qijie Shen, Feiran Huang, Xiao Huang. [LLM Collaborative Filtering: User-Item Graph as New Language](https://openreview.net/pdf?id=qdpT9PIWvV). (<span style="color: #cf5148">**Oral**</span>)
 - **[ICDE'26]** Zheng Yuan, Hao Chen‡, Zijin Hong, **Qinggang Zhang**, Feiran Huang, Qing Li, Xiao Huang. [Knapsack Optimization-based Schema Linking for LLM-based Text-to-SQL Generation](https://arxiv.org/abs/2502.12911).
 - **[EMNLP'25 Findings]** Chang Yang, Xinrun Wang‡, **Qinggang Zhang**, Qi Jiang, Xiao Huang. [Efficient Integration of External Knowledge to LLM-based World Models via Retrieval-Augmented Generation and Reinforcement Learning](https://openreview.net/pdf?id=feqKXbuKzr).
 - **[NeurIPS'24]** Shengyuan Chen, **Qinggang Zhang**, Junnan Dong, Wen Hua, Xiao Huang‡. [Entity Alignment with Noisy Annotations from Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/hash/1b57aaddf85ab01a2445a79c9edc1f4b-Abstract-Conference.html).
