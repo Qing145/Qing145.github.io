@@ -57,7 +57,7 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 - **[arXiv 2025]** Linfeng Gao, Baolong Bi, Zheng Yuan, Le Wang, Zerui Chen, Zhimin Wei, Shenghua Liu, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Jinsong Su‡. [Probing Latent Knowledge Conflict for Faithful Retrieval-Augmented Generation](https://arxiv.org/abs/2510.12460).
 - **[arXiv 2025]** Yilin Xiao, Chuang Zhou, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Su Dong, Shengyuan Chen, Xiao Huang. [LAG: Logic-Augmented Generation from a Cartesian Perspective](https://arxiv.org/abs/2508.05509).
 - **[arXiv 2025]** Yilin Xiao, Chuang Zhou, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Bo Li, Qing Li, Xiao Huang. [Reliable Reasoning Path: Distilling Effective Guidance for LLM Reasoning with Knowledge Graphs](https://arxiv.org/abs/2506.10508).
-- **[arXiv 2025]** Jiatong LI†, Weida Wang†, <span style="color: #a39274">**Qinggang Zhang†**</span>, Changmeng Zheng, Junxian Li, Di Zhang, Shufei Zhang, Xiaoyong Wei, Li Qing‡. [Mol-R1: Towards Explicit Long-CoT Reasoning in Molecule Discovery](https://arxiv.org/abs/2508.08401). 
+- **[arXiv 2025]** Jiatong LI†, Weida Wang†, <span style="color: #a39274">**Qinggang Zhang†**</span>, Changmeng Zheng, Junxian Li, Di Zhang, Shufei Zhang, Xiaoyong Wei‡, Qing Li. [Mol-R1: Towards Explicit Long-CoT Reasoning in Molecule Discovery](https://arxiv.org/abs/2508.08401). 
 
 ## Published (First/Corresponding Author):
 - **[WWW 2026]** Luyao Zhuang, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Huachi Zhou, Yujing Zhang, Xiao Huang. [LoSemB: Logic-Guided Semantic Bridging for Inductive Tool Retrieval](https://qing145.github.io/).
