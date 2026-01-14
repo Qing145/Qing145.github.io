@@ -88,8 +88,8 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 # 🏆 Honors and Awards
 - [*2025*] **COMP PhD Thesis Merit Award in 2025**
 - [*2025*] **ACL SAC Highlights Award in 2025**
-- [*2024*] KDD Student Travel Grant in 2024
 - [*2024*] **ARSC Best Presentation Award in 2024**
+- [*2024*] KDD Student Travel Grant in 2024
 - [*2022*] SIGIR Student Travel Grant in 2022
 - [*2021*] Vector Scholarship in Artificial Intelligence
 - [*2019*] Outstanding graduate award (undergraduate in NPU)
