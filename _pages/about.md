@@ -24,7 +24,7 @@ I am currently a Postdoctoral Fellow at the Hong Kong Polytechnic University. I 
 My research interests include Knowledge Graph (KG), Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG). Currently, I focus on GraphRAG and Long-CoT Reasoning for specialized domains, with the latest research presented at NeurIPS, ICML, KDD, ACL, etc.
 
 # 🎉 News
-- [*2026.01*] Two papers are accepted by [WWW'26](https://www2026.thewebconf.org/). They'll be released soon.
+- [*2026.01*] Three papers have been accepted: two at [WWW'26](https://www2026.thewebconf.org/) and one at [TMLR](https://jmlr.org/tmlr/).
 - [*2025.12*] I was honored to receive the <span style="color: #cf5148">**COMP PhD Thesis Merit Award**</span>. 
 - [*2025.11*] Three papers are accepted by AAAI'26, and [NLCF](https://web.comp.polyu.edu.hk/xiaohuang/docs/2026AAAI_Huachi.pdf) is selected as an <span style="color: #cf5148">**Oral**</span> presentation.
 - [*2025.11*] Our paper LogicRAG is accepted by AAAI’26 (Poster). [[Paper](https://arxiv.org/abs/2508.06105)\|[Github](https://github.com/chensyCN/LogicRAG)] [![](https://img.shields.io/github/stars/chensyCN/LogicRAG)](https://github.com/chensyCN/LogicRAG)
@@ -76,6 +76,7 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 - **[CIKM'22]** **Qinggang Zhang**, Junnan Dong, Keyu Duan, Xiao Huang‡, Yezi Liu, Linchuan Xu. [Contrastive Knowledge Graph Error Detection](https://dl.acm.org/doi/abs/10.1145/3511808.3557264).
 
 ## Published (Co-author):
+- **[TMLR 2026]** Chang Yang, Ruiyu Wang, Junzhe Jiang, Qi Jiang, **Qinggang Zhang**, Yanchen Deng, Shuxin Li, Shuyue Hu, Bo Li, Florian T. Pokorny, Xiao Huang, Xinrun Wang‡. [Nondeterministic Polynomial-time Problem Challenge: An Ever-Scaling Reasoning Benchmark for LLMs](https://arxiv.org/abs/2504.11239).
 - **[WWW 2026]** Qichuan Liu, Chentao Zhang, Yuxuan Hu, Chenfeng Zheng, **Qinggang Zhang**,  Zhihong Zhang‡. [Facilitating Generative Retrieval with Logical Denoising for Interpretable Conversational Search](https://qing145.github.io/).
 - **[AAAI'26]** Huachi Zhou, Yujing Zhang, Hao Chen‡, **Qinggang Zhang**, Qijie Shen, Feiran Huang, Xiao Huang. [LLM Collaborative Filtering: User-Item Graph as New Language](https://openreview.net/pdf?id=qdpT9PIWvV). (<span style="color: #cf5148">**Oral**</span>)
 - **[ICDE'26]** Zheng Yuan, Hao Chen‡, Zijin Hong, **Qinggang Zhang**, Feiran Huang, Qing Li, Xiao Huang. [Knapsack Optimization-based Schema Linking for LLM-based Text-to-SQL Generation](https://arxiv.org/abs/2502.12911).
