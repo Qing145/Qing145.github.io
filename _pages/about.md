@@ -24,7 +24,8 @@ I am currently a Postdoctoral Fellow at the Hong Kong Polytechnic University. I 
 My research interests include Knowledge Graph (KG), Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG). Currently, I focus on GraphRAG and Long-CoT Reasoning for specialized domains, with the latest research presented at NeurIPS, ICML, KDD, ACL, etc.
 
 # 🎉 News
-- [*2026.01*] Three papers have been accepted: two at [WWW'26](https://www2026.thewebconf.org/) and one at [TMLR](https://jmlr.org/tmlr/).
+- [*2026.01*] Two papers are accepted by [WWW'26](https://www2026.thewebconf.org/). They'll be released soon.
+- [*2026.01*] Our paper NPPC, an ever-scaling reasoning benchmark, is accepted by TMLR. [[Paper](https://arxiv.org/abs/2504.11239)\|[Github](https://github.com/SMU-DIGA/nppc)]
 - [*2025.12*] I was honored to receive the <span style="color: #cf5148">**COMP PhD Thesis Merit Award**</span>. 
 - [*2025.11*] Three papers are accepted by AAAI'26, and [NLCF](https://web.comp.polyu.edu.hk/xiaohuang/docs/2026AAAI_Huachi.pdf) is selected as an <span style="color: #cf5148">**Oral**</span> presentation.
 - [*2025.11*] Our paper LogicRAG is accepted by AAAI’26 (Poster). [[Paper](https://arxiv.org/abs/2508.06105)\|[Github](https://github.com/chensyCN/LogicRAG)] [![](https://img.shields.io/github/stars/chensyCN/LogicRAG)](https://github.com/chensyCN/LogicRAG)
@@ -42,7 +43,6 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 - [*2025.05*] I passed the Ph.D. oral defense! Huge thanks to my supervisor and committee members!
 - [*2025.05*] Our work, FaithfulRAG, is accepted to ACL'25. [[Paper](https://arxiv.org/abs/2506.08938)\|[Github](https://github.com/XMUDeepLIT/Faithful-RAG)] [![](https://img.shields.io/github/stars/XMUDeepLIT/Faithful-RAG)](https://github.com/XMUDeepLIT/Faithful-RAG)
 - [*2025.05*] Our work SGU-SQL is accepted to ICML'25. [[Paper](https://arxiv.org/abs/2402.13284)\|[Github](https://github.com/Qing145/Text-to-SQL)] 
-- [*2025.04*] We released NPPC, an ever-scaling reasoning benchmark for LLMs. [[Paper](https://arxiv.org/abs/2504.11239)\|[Github](https://github.com/SMU-DIGA/nppc)]
 - [*2025.01*] Our survey on GraphRAG is released! [[Paper](https://arxiv.org/abs/2501.13958)\|[Github awesome-list](https://github.com/DEEP-PolyU/Awesome-GraphRAG)] [![](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphRAG)](https://github.com/DEEP-PolyU/Awesome-GraphRAG)
 - [*2024.09*] Three papers are accepted to NeurIPS'24 and one paper is accepted to KDD'24.
 - [*2024.06*] Got the <span style="color: #cf5148">**Best Presentation Award**</span> in [ARSC'24](https://www.polyu.edu.hk/comp/news-and-events/news/2024/0626_research-student-conference/?sc_lang=en) (COMP Anniversary Research Student Conference).
