@@ -58,7 +58,7 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 - **[arXiv 2025]** Jiatong LI†, Weida Wang†, <span style="color: #a39274">**Qinggang Zhang†**</span>, Changmeng Zheng, Junxian Li, Di Zhang, Shufei Zhang, Xiaoyong Wei‡, Qing Li. [Mol-R1: Towards Explicit Long-CoT Reasoning in Molecule Discovery](https://arxiv.org/abs/2508.08401). 
 
 ## Published (First/Corresponding Author):
-- **[IEEE TKDE]** Yilin Xiao, Chuang Zhou, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Bo Li, Qing Li, Xiao Huang. [Reliable Reasoning Path: Distilling Effective Guidance for LLM Reasoning with Knowledge Graphs](https://arxiv.org/abs/2506.10508).
+- **[IEEE TKDE]** Yilin Xiao, Chuang Zhou, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Bo Li, Qing Li, Xiao Huang. [Reliable Reasoning Path: Distilling Effective Guidance for LLM Reasoning with Knowledge Graphs](https://ieeexplore.ieee.org/document/11361203).
 - **[WWW 2026]** Luyao Zhuang, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Huachi Zhou, Yujing Zhang, Xiao Huang. [LoSemB: Logic-Guided Semantic Bridging for Inductive Tool Retrieval](https://qing145.github.io/).
 - **[NeurIPS'25]** Shengyuan Chen, Zheng Yuan, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Wen Hua, Jiannong Cao, Xiao Huang. [Neuro-Symbolic Entity Alignment via Variational Inference](https://arxiv.org/abs/2410.04153).
 - **[ACM TOIS]** Huachi Zhou, Kaijing Yu, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Hao Chen, Daochen Zha, Anthony Kong, Wenqi Pei, Xiao Huang. [Self-Monitoring Large Language Models for Click-Through Rate Prediction](https://dl.acm.org/doi/10.1145/3763789).
