@@ -26,7 +26,8 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 # 🎉 News
 - [*2026.01*] Our GraphRAG Benchmark is accepted by ICLR'26. [[Paper](https://arxiv.org/abs/2506.05690)\|[Github](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)\|[Slides](https://docs.google.com/presentation/d/1q8K2RgsDYktkEIDp9Lqpb9WwBCBHT_L5/edit?slide=id.p1#slide=id.p1)] [![](https://img.shields.io/github/stars/GraphRAG-Bench/GraphRAG-Benchmark)](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
 - [*2026.01*] Our LinearRAG is accepted by ICLR'26. [[Paper](https://arxiv.org/abs/2510.10114)\|[Github](https://github.com/DEEP-PolyU/LinearRAG)] [![](https://img.shields.io/github/stars/DEEP-PolyU/LinearRAG)](https://github.com/DEEP-PolyU/LinearRAG)
-- [*2026.01*] Our RRP, a graph-augmented LLM Reasoning framework, is accepted by TKDE. [Paper](https://ieeexplore.ieee.org/document/11361203)
+- [*2026.01*] Our RRP, a graph-augmented LLM Reasoning framework, is accepted by TKDE. [[Paper](https://ieeexplore.ieee.org/document/11361203)]
+- [*2026.01*] Our LoSemB, an inductive tool retrieval framework, is accepted by WWW. [[Paper](https://arxiv.org/abs/2508.07690)]
 - [*2026.01*] Our paper NPPC, an ever-scaling benchmark, is accepted by TMLR. [[Paper](https://arxiv.org/abs/2504.11239)\|[Github](https://github.com/SMU-DIGA/nppc)]
 - [*2025.12*] I was honored to receive the <span style="color: #cf5148">**COMP PhD Thesis Merit Award**</span>. 
 - [*2025.11*] Three papers are accepted by AAAI'26, and [NLCF](https://web.comp.polyu.edu.hk/xiaohuang/docs/2026AAAI_Huachi.pdf) is selected as an <span style="color: #cf5148">**Oral**</span> presentation.
