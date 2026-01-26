@@ -24,13 +24,14 @@ I am currently a Postdoctoral Fellow at the Hong Kong Polytechnic University. I 
 My research interests include Knowledge Graph (KG), Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG). Currently, I focus on GraphRAG and Long-CoT Reasoning for specialized domains, with the latest research presented at NeurIPS, ICML, KDD, ACL, etc.
 
 # 🎉 News
+- [*2025.10*] Our LinearRAG, a relation-free GraphRAG method, is accepted by ICLR'26. [[Paper](https://arxiv.org/abs/2510.10114)\|[Github](https://github.com/DEEP-PolyU/LinearRAG)] [![](https://img.shields.io/github/stars/DEEP-PolyU/LinearRAG)](https://github.com/DEEP-PolyU/LinearRAG)
+- [*2026.01*] Our Benchmark on GraphRAG is accepted by ICLR'26. [[Paper](https://arxiv.org/abs/2506.05690)\|[Github](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)\|[Slides](https://docs.google.com/presentation/d/1q8K2RgsDYktkEIDp9Lqpb9WwBCBHT_L5/edit?slide=id.p1#slide=id.p1)] [![](https://img.shields.io/github/stars/GraphRAG-Bench/GraphRAG-Benchmark)](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
 - [*2026.01*] Our paper NPPC, an ever-scaling benchmark, is accepted by TMLR. [[Paper](https://arxiv.org/abs/2504.11239)\|[Github](https://github.com/SMU-DIGA/nppc)]
 - [*2025.12*] I was honored to receive the <span style="color: #cf5148">**COMP PhD Thesis Merit Award**</span>. 
 - [*2025.11*] Three papers are accepted by AAAI'26, and [NLCF](https://web.comp.polyu.edu.hk/xiaohuang/docs/2026AAAI_Huachi.pdf) is selected as an <span style="color: #cf5148">**Oral**</span> presentation.
 - [*2025.11*] Our paper LogicRAG is accepted by AAAI’26 (Poster). [[Paper](https://arxiv.org/abs/2508.06105)\|[Github](https://github.com/chensyCN/LogicRAG)] [![](https://img.shields.io/github/stars/chensyCN/LogicRAG)](https://github.com/chensyCN/LogicRAG)
 - [*2025.11*] Our paper AimKP is accepted by AAAI’26 (Poster). [[Paper](https://arxiv.org/abs/2512.00928)\|[Github](https://github.com/XMUDeepLIT/AimKP)]
 - [*2025.10*] Our paper KaSLA on Text-to-SQL Generation is accepted by ICDE'26. [[Paper](https://arxiv.org/abs/2502.12911)\|[Github](https://github.com/DEEP-PolyU/KaSLA.git)]
-- [*2025.10*] We release LinearRAG, a relation-free GraphRAG method. [[Paper](https://arxiv.org/abs/2510.10114)\|[Github](https://github.com/DEEP-PolyU/LinearRAG)] [![](https://img.shields.io/github/stars/DEEP-PolyU/LinearRAG)](https://github.com/DEEP-PolyU/LinearRAG)
 - [*2025.10*] We release CLEAR, a novel framework for RAG faithfulness. [[Paper](https://arxiv.org/abs/2510.12460)\|[Github](https://github.com/LinfengGao/ProbeRAG.git)]
 - [*2025.09*] Our paper NeuSymEA is accepted by NeurIPS'25. [[Paper](https://arxiv.org/abs/2410.04153)\|[Github](https://github.com/chensyCN/NeuSymEA-NeurIPS25)]
 - [*2025.09*] Our survey on Text-to-SQL is accepted by IEEE TKDE. [[Paper](https://arxiv.org/abs/2406.08426)\|[Github](https://github.com/DEEP-PolyU/Awesome-LLM-based-Text2SQL)][![](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-LLM-based-Text2SQL)](https://github.com/DEEP-PolyU/Awesome-LLM-based-Text2SQL)
@@ -38,7 +39,6 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 - [*2025.08*] Our paper RAWM is accepted by EMNLP'25 (Findings). [[Paper](https://openreview.net/pdf?id=feqKXbuKzr)\|[Github](https://github.com/joannacyang/rawm.git)]
 - [*2025.08*] Our paper FaithfulRAG has been selected for the <span style="color: #cf5148">**SAC Highlights Award**</span> at [ACL'25](https://2025.aclweb.org/program/awards/#sac-highlights).
 - [*2025.08*] We released Mol-R1, a long-CoT reasoning model for molecule discovery. [[Paper](https://arxiv.org/abs/2508.08401)\|[huggingface](https://huggingface.co/papers/2508.08401)]
-- [*2025.06*] We released GraphRAG-Bench for Graph-based RAG evaluation. [[Paper](https://arxiv.org/abs/2506.05690)\|[Github](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)\|[Slides](https://docs.google.com/presentation/d/1q8K2RgsDYktkEIDp9Lqpb9WwBCBHT_L5/edit?slide=id.p1#slide=id.p1)] [![](https://img.shields.io/github/stars/GraphRAG-Bench/GraphRAG-Benchmark)](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
 - [*2025.05*] I passed the Ph.D. oral defense! Huge thanks to my supervisor and committee members!
 - [*2025.05*] Our work, FaithfulRAG, is accepted to ACL'25. [[Paper](https://arxiv.org/abs/2506.08938)\|[Github](https://github.com/XMUDeepLIT/Faithful-RAG)] [![](https://img.shields.io/github/stars/XMUDeepLIT/Faithful-RAG)](https://github.com/XMUDeepLIT/Faithful-RAG)
 - [*2025.05*] Our work SGU-SQL is accepted to ICML'25. [[Paper](https://arxiv.org/abs/2402.13284)\|[Github](https://github.com/Qing145/Text-to-SQL)] 
@@ -51,13 +51,13 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 
 ## Preprint:
 - **[arXiv 2025]** **Qinggang Zhang†**, Shengyuan Chen†, Yuanchen Bei†, Zheng Yuan, Huachi Zhou, Zijin Hong, Yilin Xiao, Chuang Zhou, Hao Chen, Yi Chang, Xiao Huang‡. [A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models](https://arxiv.org/abs/2501.13958).
-- **[arXiv 2025]** Luyao Zhuang†, Shengyuan Chen†, Yilin Xiao, Huachi Zhou‡, Yujing Zhang, Hao Chen, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Xiao Huang. [LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora](https://arxiv.org/abs/2510.10114).
-- **[arXiv 2025]** Zhishang Xiang†, Chuanjie Wu†, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Shengyuan Chen, Zijin Hong, Xiao Huang, Jinsong Su‡. [When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2506.05690).
 - **[arXiv 2025]** Linfeng Gao, Baolong Bi, Zheng Yuan, Le Wang, Zerui Chen, Zhimin Wei, Shenghua Liu, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Jinsong Su‡. [Probing Latent Knowledge Conflict for Faithful Retrieval-Augmented Generation](https://arxiv.org/abs/2510.12460).
 - **[arXiv 2025]** Yilin Xiao, Chuang Zhou, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Su Dong, Shengyuan Chen, Xiao Huang. [LAG: Logic-Augmented Generation from a Cartesian Perspective](https://arxiv.org/abs/2508.05509).
 - **[arXiv 2025]** Jiatong LI†, Weida Wang†, <span style="color: #a39274">**Qinggang Zhang†**</span>, Changmeng Zheng, Junxian Li, Di Zhang, Shufei Zhang, Xiaoyong Wei‡, Qing Li. [Mol-R1: Towards Explicit Long-CoT Reasoning in Molecule Discovery](https://arxiv.org/abs/2508.08401). 
 
 ## Published (First/Corresponding Author):
+- **[ICLR 2026]** Luyao Zhuang†, Shengyuan Chen†, Yilin Xiao, Huachi Zhou‡, Yujing Zhang, Hao Chen, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Xiao Huang. [LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora](https://arxiv.org/abs/2510.10114).
+- **[ICLR 2026]** Zhishang Xiang†, Chuanjie Wu†, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Shengyuan Chen, Zijin Hong, Xiao Huang, Jinsong Su‡. [When to use Graphs in RAG: A Comprehensive Analysis for Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2506.05690).
 - **[IEEE TKDE]** Yilin Xiao, Chuang Zhou, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Bo Li, Qing Li, Xiao Huang. [Reliable Reasoning Path: Distilling Effective Guidance for LLM Reasoning with Knowledge Graphs](https://ieeexplore.ieee.org/document/11361203).
 - **[WWW 2026]** Luyao Zhuang, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Huachi Zhou, Yujing Zhang, Xiao Huang. [LoSemB: Logic-Guided Semantic Bridging for Inductive Tool Retrieval](https://qing145.github.io/).
 - **[AAAI'26]** Jiajun Cao, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Yunbo Tang, Zhishang Xiang, Chang Yang, Jinsong Su‡. [Augmenting Intra-Modal Understanding in MLLMs for Robust Multimodal Keyphrase Generation](https://arxiv.org/abs/2512.00928). 
