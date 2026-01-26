@@ -24,7 +24,7 @@ I am currently a Postdoctoral Fellow at the Hong Kong Polytechnic University. I 
 My research interests include Knowledge Graph (KG), Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG). Currently, I focus on GraphRAG and Long-CoT Reasoning for specialized domains, with the latest research presented at NeurIPS, ICML, KDD, ACL, etc.
 
 # 🎉 News
-- [*2025.10*] Our LinearRAG, a relation-free GraphRAG method, is accepted by ICLR'26. [[Paper](https://arxiv.org/abs/2510.10114)\|[Github](https://github.com/DEEP-PolyU/LinearRAG)] [![](https://img.shields.io/github/stars/DEEP-PolyU/LinearRAG)](https://github.com/DEEP-PolyU/LinearRAG)
+- [*2025.10*] Our LinearRAG is accepted by ICLR'26. [[Paper](https://arxiv.org/abs/2510.10114)\|[Github](https://github.com/DEEP-PolyU/LinearRAG)] [![](https://img.shields.io/github/stars/DEEP-PolyU/LinearRAG)](https://github.com/DEEP-PolyU/LinearRAG)
 - [*2026.01*] Our Benchmark on GraphRAG is accepted by ICLR'26. [[Paper](https://arxiv.org/abs/2506.05690)\|[Github](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)\|[Slides](https://docs.google.com/presentation/d/1q8K2RgsDYktkEIDp9Lqpb9WwBCBHT_L5/edit?slide=id.p1#slide=id.p1)] [![](https://img.shields.io/github/stars/GraphRAG-Bench/GraphRAG-Benchmark)](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
 - [*2026.01*] Our paper NPPC, an ever-scaling benchmark, is accepted by TMLR. [[Paper](https://arxiv.org/abs/2504.11239)\|[Github](https://github.com/SMU-DIGA/nppc)]
 - [*2025.12*] I was honored to receive the <span style="color: #cf5148">**COMP PhD Thesis Merit Award**</span>. 
