@@ -78,7 +78,7 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 - **[CIKM'22]** **Qinggang Zhang**, Junnan Dong, Keyu Duan, Xiao Huang‡, Yezi Liu, Linchuan Xu. [Contrastive Knowledge Graph Error Detection](https://dl.acm.org/doi/abs/10.1145/3511808.3557264).
 
 ## Published (Co-author):
-- **[ICLR 2026]** Weining Shi, Zhisen Wen,  <span style="color: #7A9D96">**Qinggang Zhang**</span>, Chentao Zhang, Zhihong Zhang‡. [Temporal Graph Thumbnail: Robust Representation Learning with Global Evolutionary Skeleton](https://qing145.github.io/).
+- **[ICLR 2026]** Weining Shi, Zhisen Wen, **Qinggang Zhang**, Chentao Zhang, Zhihong Zhang‡. [Temporal Graph Thumbnail: Robust Representation Learning with Global Evolutionary Skeleton](https://qing145.github.io/).
 - **[TMLR 2026]** Chang Yang, Ruiyu Wang, Junzhe Jiang, Qi Jiang, **Qinggang Zhang**, Yanchen Deng, Shuxin Li, Shuyue Hu, Bo Li, Florian T. Pokorny, Xiao Huang, Xinrun Wang‡. [Nondeterministic Polynomial-time Problem Challenge: An Ever-Scaling Reasoning Benchmark for LLMs](https://arxiv.org/abs/2504.11239).
 - **[WWW 2026]** Qichuan Liu, Chentao Zhang, Yuxuan Hu, Chenfeng Zheng, **Qinggang Zhang**,  Zhihong Zhang‡. [Facilitating Generative Retrieval with Logical Denoising for Interpretable Conversational Search](https://qing145.github.io/).
 - **[AAAI'26]** Huachi Zhou, Yujing Zhang, Hao Chen‡, **Qinggang Zhang**, Qijie Shen, Feiran Huang, Xiao Huang. [LLM Collaborative Filtering: User-Item Graph as New Language](https://openreview.net/pdf?id=qdpT9PIWvV). (<span style="color: #cf5148">**Oral**</span>)
