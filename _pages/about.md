@@ -25,7 +25,7 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 
 # 🎉 News
 - [*2026.02*] Our survey on Graph-based Agent Memory is released. [[Paper](https://arxiv.org/abs/2602.05665)\|[Github](https://github.com/DEEP-PolyU/Awesome-GraphMemory.git)] [![](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphMemory)](https://github.com/DEEP-PolyU/Awesome-GraphMemory)
-- [*2026.02*] We release EA-GraphRAG, an efficient and adaptive GraphRAG framework. [[Paper](https://www.arxiv.org/abs/2602.03578)\|[Github](https://github.com/ListenerSuu/EA_GraphRAG.git)]
+- [*2026.02*] We release EA-GraphRAG, an efficient framework for GraphRAG. [[Paper](https://www.arxiv.org/abs/2602.03578)\|[Github](https://github.com/ListenerSuu/EA_GraphRAG.git)]
 - [*2026.01*] Our LinearRAG is accepted by ICLR'26. [[Paper](https://arxiv.org/abs/2510.10114)\|[Github](https://github.com/DEEP-PolyU/LinearRAG)] [![](https://img.shields.io/github/stars/DEEP-PolyU/LinearRAG)](https://github.com/DEEP-PolyU/LinearRAG)
 - [*2026.01*] Our GraphRAG Benchmark is accepted by ICLR'26. [[Paper](https://arxiv.org/abs/2506.05690)\|[Github](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)\|[Slides](https://docs.google.com/presentation/d/1q8K2RgsDYktkEIDp9Lqpb9WwBCBHT_L5/edit?slide=id.p1#slide=id.p1)] [![](https://img.shields.io/github/stars/GraphRAG-Bench/GraphRAG-Benchmark)](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
 - [*2026.01*] Our RRP, a graph-augmented LLM Reasoning framework, is accepted by TKDE. [[Paper](https://ieeexplore.ieee.org/document/11361203)]
