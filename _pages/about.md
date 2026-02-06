@@ -54,9 +54,9 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 
 ## Preprint:
 - **[arXiv 2026]** Chang Yang†, Chuang Zhou†, Yilin Xiao†, Su Dong, Luyao Zhuang, Yujing Zhang, Zhu Wang, Zijin Hong, Zheng Yuan, Zhishang Xiang, Shengyuan Chen‡, Huachi Zhou‡, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Ninghao Liu, Jinsong Su, Xinrun Wang, Yi Chang, Xiao Huang. [Graph-based Agent Memory: Taxonomy, Techniques, and Applications](https://arxiv.org/abs/2602.05665).
-- **[arXiv 2025]** <span style="color: #a39274">**Qinggang Zhang†**</span>, Shengyuan Chen†, Yuanchen Bei†, Zheng Yuan, Huachi Zhou, Zijin Hong, Yilin Xiao, Chuang Zhou, Hao Chen, Yi Chang, Xiao Huang‡. [A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models](https://arxiv.org/abs/2501.13958).
 - **[arXiv 2025]** Linfeng Gao, Baolong Bi, Zheng Yuan, Le Wang, Zerui Chen, Zhimin Wei, Shenghua Liu, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Jinsong Su‡. [Probing Latent Knowledge Conflict for Faithful Retrieval-Augmented Generation](https://arxiv.org/abs/2510.12460).
 - **[arXiv 2025]** Yilin Xiao, Chuang Zhou, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Su Dong, Shengyuan Chen, Xiao Huang. [LAG: Logic-Augmented Generation from a Cartesian Perspective](https://arxiv.org/abs/2508.05509).
+- **[arXiv 2025]** <span style="color: #a39274">**Qinggang Zhang†**</span>, Shengyuan Chen†, Yuanchen Bei†, Zheng Yuan, Huachi Zhou, Zijin Hong, Yilin Xiao, Chuang Zhou, Hao Chen, Yi Chang, Xiao Huang‡. [A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models](https://arxiv.org/abs/2501.13958).
 - **[arXiv 2025]** Jiatong LI†, Weida Wang†, <span style="color: #a39274">**Qinggang Zhang†**</span>, Changmeng Zheng, Junxian Li, Di Zhang, Shufei Zhang, Xiaoyong Wei‡, Qing Li. [Mol-R1: Towards Explicit Long-CoT Reasoning in Molecule Discovery](https://arxiv.org/abs/2508.08401). 
 
 ## Published (First/Corresponding Author):
