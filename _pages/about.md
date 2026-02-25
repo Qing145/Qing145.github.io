@@ -55,6 +55,7 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 
 ## Preprint:
 - **[arXiv'26]** Chang Yang†, Chuang Zhou†, Yilin Xiao†, Su Dong, Luyao Zhuang, Yujing Zhang, Zhu Wang, Zijin Hong, Zheng Yuan, Zhishang Xiang, Shengyuan Chen‡, Huachi Zhou‡, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Ninghao Liu, Jinsong Su, Xinrun Wang, Yi Chang, Xiao Huang. [Graph-based Agent Memory: Taxonomy, Techniques, and Applications](https://arxiv.org/abs/2602.05665).
+- **[arXiv'26]** Zhishang Xiang, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Zhimin Wei, Chengyi Yang, Chuanjie Wu, Fuhai Chen, Jinsong Su‡. FaithfulRAG-R1: Faithful Retrieval-Augmented Generation via Reinforcement Learning.
 - **[arXiv'26]** Su Dong, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Yilin Xiao, Shengyuan Chen, Chuang Zhou, Xiao Huang. [Use Graph When It Needs: Efficiently and Adaptively Integrating Retrieval-Augmented Generation with Graphs](https://www.arxiv.org/abs/2602.03578)
 - **[arXiv'25]** Linfeng Gao, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Baolong Bi, Zheng Yuan, Le Wang, Zerui Chen, Zhimin Wei, Shenghua Liu, Jinsong Su‡. [Probing Latent Knowledge Conflict for Faithful Retrieval-Augmented Generation](https://arxiv.org/abs/2510.12460).
 - **[arXiv'25]** Yilin Xiao, Chuang Zhou, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Su Dong, Shengyuan Chen, Xiao Huang. [LAG: Logic-Augmented Generation from a Cartesian Perspective](https://arxiv.org/abs/2508.05509).
