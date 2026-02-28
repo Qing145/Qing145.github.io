@@ -24,7 +24,7 @@ I am currently a Postdoctoral Fellow at the Hong Kong Polytechnic University. I 
 My research interests include Knowledge Graph (KG), Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG). Currently, I focus on GraphRAG and Long-CoT Reasoning for specialized domains, with the latest research presented at NeurIPS, ICML, KDD, ACL, etc.
 
 # 🎉 News
-- [*2026.02*] Our survey on Self-Evolving Agents is released. [[Paper](https://doi.org/10.36227/techrxiv.177203250.05832634/v2)\|[Github](https://github.com/XMUDeepLIT/Awesome-Self-Evolving-Agents.git)]
+- [*2026.02*] Our survey on Self-Evolving Agents is released. [[Paper](https://doi.org/10.36227/techrxiv.177203250.05832634/v2)\|[Github](https://github.com/XMUDeepLIT/Awesome-Self-Evolving-Agents.git)] [![](https://img.shields.io/github/stars/XMUDeepLIT/Awesome-Self-Evolving-Agents)](https://github.com/XMUDeepLIT/Awesome-Self-Evolving-Agents)
 - [*2026.02*] Our survey on Graph-based Agent Memory is released. [[Paper](https://arxiv.org/abs/2602.05665)\|[Github](https://github.com/DEEP-PolyU/Awesome-GraphMemory.git)] [![](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphMemory)](https://github.com/DEEP-PolyU/Awesome-GraphMemory)
 - [*2026.02*] We release EA-GraphRAG, an efficient framework for GraphRAG. [[Paper](https://www.arxiv.org/abs/2602.03578)\|[Github](https://github.com/ListenerSuu/EA_GraphRAG.git)]
 - [*2026.01*] Our LinearRAG is accepted by ICLR'26. [[Paper](https://arxiv.org/abs/2510.10114)\|[Github](https://github.com/DEEP-PolyU/LinearRAG)] [![](https://img.shields.io/github/stars/DEEP-PolyU/LinearRAG)](https://github.com/DEEP-PolyU/LinearRAG)
