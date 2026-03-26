@@ -24,6 +24,7 @@ I am currently a Postdoctoral Fellow at the Hong Kong Polytechnic University. I 
 My research interests include Knowledge Graph (KG), Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG). Currently, I focus on GraphRAG and Long-CoT Reasoning for specialized domains, with the latest research presented at NeurIPS, ICML, KDD, ACL, etc.
 
 # 🎉 News
+- [*2026.03*] Our analysis on LLM-based World Models is accepted by TMLR. [[Paper](https://openreview.net/forum?id=XmYCERErcD)\|[Github](https://github.com/joannacyang/WorldModel_TMLR)]
 - [*2026.02*] Our survey on Self-Evolving Agents is released. [[Paper](https://doi.org/10.36227/techrxiv.177203250.05832634/v2)\|[Github](https://github.com/XMUDeepLIT/Awesome-Self-Evolving-Agents.git)] [![](https://img.shields.io/github/stars/XMUDeepLIT/Awesome-Self-Evolving-Agents)](https://github.com/XMUDeepLIT/Awesome-Self-Evolving-Agents)
 - [*2026.02*] Our survey on Graph-based Agent Memory is released. [[Paper](https://arxiv.org/abs/2602.05665)\|[Github](https://github.com/DEEP-PolyU/Awesome-GraphMemory.git)] [![](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphMemory)](https://github.com/DEEP-PolyU/Awesome-GraphMemory)
 - [*2026.02*] We release EA-GraphRAG, an efficient framework for GraphRAG. [[Paper](https://www.arxiv.org/abs/2602.03578)\|[Github](https://github.com/ListenerSuu/EA_GraphRAG.git)]
@@ -85,6 +86,7 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 - **[CIKM'22]** **Qinggang Zhang**, Junnan Dong, Keyu Duan, Xiao Huang‡, Yezi Liu, Linchuan Xu. [Contrastive Knowledge Graph Error Detection](https://dl.acm.org/doi/abs/10.1145/3511808.3557264).
 
 ## Published (Co-author):
+- **[TMLR'26]** Chang Yang, Xinrun Wang‡, Junzhe Jiang,**Qinggang Zhang**, Xiao Huang. [LLM-Based World Models Can Make Decisions Solely, But Rigorous Evaluations are Needed](https://openreview.net/forum?id=XmYCERErcD).
 - **[ICLR'26]** Weining Shi, Zhisen Wen, **Qinggang Zhang**, Chentao Zhang, Zhihong Zhang‡. [Temporal Graph Thumbnail: Robust Representation Learning with Global Evolutionary Skeleton](https://openreview.net/forum?id=a4e0zoaiD8).
 - **[TMLR'26]** Chang Yang, Ruiyu Wang, Junzhe Jiang, Qi Jiang, **Qinggang Zhang**, Yanchen Deng, Shuxin Li, Shuyue Hu, Bo Li, Florian T. Pokorny, Xiao Huang, Xinrun Wang‡. [Nondeterministic Polynomial-time Problem Challenge: An Ever-Scaling Reasoning Benchmark for LLMs](https://arxiv.org/abs/2504.11239).
 - **[WWW'26]** Qichuan Liu, Chentao Zhang, Yuxuan Hu, Chenfeng Zheng, **Qinggang Zhang**,  Zhihong Zhang‡. [Facilitating Generative Retrieval with Logical Denoising for Interpretable Conversational Search](https://qing145.github.io/).
