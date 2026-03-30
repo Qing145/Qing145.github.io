@@ -33,13 +33,15 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 	- LinearRAG,  a relation-free GraphRAG model; [[Paper](https://arxiv.org/abs/2510.10114)\|[Github](https://github.com/DEEP-PolyU/LinearRAG)] [![](https://img.shields.io/github/stars/DEEP-PolyU/LinearRAG)](https://github.com/DEEP-PolyU/LinearRAG)
 	- TGT, a temporal graph representation learning model. [[Paper](https://openreview.net/forum?id=a4e0zoaiD8)\|[Github](https://github.com/shiwning/TGT.git)]
 - [*2026.01*] Our RRP, a graph-augmented LLM Reasoning framework, is accepted by TKDE. [[Paper](https://ieeexplore.ieee.org/document/11361203)]
-- [*2026.01*] Our LoSemB, an inductive tool retrieval framework, is accepted by WWW. [[Paper](https://arxiv.org/abs/2508.07690)]
-- [*2026.01*] Our paper NPPC, an ever-scaling benchmark, is accepted by TMLR. [[Paper](https://arxiv.org/abs/2504.11239)\|[Github](https://github.com/SMU-DIGA/nppc)]
+- [*2026.01*] Two papers are accepted by WWW'26. 
+	- LoSemB, an inductive tool retrieval framework; [[Paper](https://arxiv.org/abs/2508.07690)\|[Github](https://anonymous.4open.science/r/LoSemB-7E9F)]
+	- LogiCGR, a logic-aware generative RAG model. [[Paper](https://qing145.github.io/)\|[Github](https://anonymous.4open.science/r/LogiCGR-55DF)]
+- [*2026.01*] Our NPPC, an ever-scaling benchmark, is accepted by TMLR. [[Paper](https://arxiv.org/abs/2504.11239)\|[Github](https://github.com/SMU-DIGA/nppc)]
 - [*2025.12*] I was honored to receive the <span style="color: #cf5148">**COMP PhD Thesis Merit Award**</span>. 
 - [*2025.11*] Three papers are accepted by AAAI'26.
 	- LogicRAG, a logic-aware GraphRAG model; [[Paper](https://arxiv.org/abs/2508.06105)\|[Github](https://github.com/chensyCN/LogicRAG)] [![](https://img.shields.io/github/stars/chensyCN/LogicRAG)](https://github.com/chensyCN/LogicRAG)
 	- AimKP, a robust MLLM for keyphrase generation; [[Paper](https://arxiv.org/abs/2512.00928)\|[Github](https://github.com/XMUDeepLIT/AimKP)]
-	- NLCF, an LLM-based recommendation model; <span style="color: #cf5148">**Oral**</span> [[Paper](https://web.comp.polyu.edu.hk/xiaohuang/docs/2026AAAI_Huachi.pdf)\|[Github](https://github.com/DEEP-PolyU)]
+	- NLCF, an LLM-based recommendation model. <span style="color: #cf5148">**Oral**</span> [[Paper](https://web.comp.polyu.edu.hk/xiaohuang/docs/2026AAAI_Huachi.pdf)\|[Github](https://github.com/DEEP-PolyU)]
 - [*2025.10*] Our paper KaSLA on Text-to-SQL Generation is accepted by ICDE'26. [[Paper](https://arxiv.org/abs/2502.12911)\|[Github](https://github.com/DEEP-PolyU/KaSLA.git)]
 - [*2025.10*] We release CLEAR, a novel framework for RAG faithfulness. [[Paper](https://arxiv.org/abs/2510.12460)\|[Github](https://github.com/LinfengGao/ProbeRAG.git)]
 - [*2025.09*] Our paper NeuSymEA is accepted by NeurIPS'25. [[Paper](https://arxiv.org/abs/2410.04153)\|[Github](https://github.com/chensyCN/NeuSymEA-NeurIPS25)]
