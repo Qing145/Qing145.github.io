@@ -24,25 +24,20 @@ I am currently a Postdoctoral Fellow at the Hong Kong Polytechnic University. I 
 My research interests include Knowledge Graph (KG), Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG). Currently, I focus on GraphRAG and Long-CoT Reasoning for specialized domains, with the latest research presented at NeurIPS, ICML, KDD, ACL, etc.
 
 # 🎉 News
-- [*2026.03*] Two papers are accepted by TMLR. 
-	- A detailed analysis on LLM-based World Models; [[Paper](https://openreview.net/forum?id=XmYCERErcD)\|[Github](https://github.com/joannacyang/WorldModel_TMLR)]
-	- NPPC, an ever-scaling LLM evaluation benchmark. [[Paper](https://arxiv.org/abs/2504.11239)\|[Github](https://github.com/SMU-DIGA/nppc)]
+- [*2026.03*] Our analysis on LLM-based World Models is accepted by TMLR. [[Paper](https://openreview.net/forum?id=XmYCERErcD)\|[Github](https://github.com/joannacyang/WorldModel_TMLR)]
 - [*2026.02*] Our survey on Self-Evolving Agents is released. [[Paper](https://doi.org/10.36227/techrxiv.177203250.05832634/v2)\|[Github](https://github.com/XMUDeepLIT/Awesome-Self-Evolving-Agents.git)] [![](https://img.shields.io/github/stars/XMUDeepLIT/Awesome-Self-Evolving-Agents)](https://github.com/XMUDeepLIT/Awesome-Self-Evolving-Agents)
 - [*2026.02*] Our survey on Graph-based Agent Memory is released. [[Paper](https://arxiv.org/abs/2602.05665)\|[Github](https://github.com/DEEP-PolyU/Awesome-GraphMemory.git)] [![](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphMemory)](https://github.com/DEEP-PolyU/Awesome-GraphMemory)
 - [*2026.02*] We release EA-GraphRAG, an efficient framework for GraphRAG. [[Paper](https://www.arxiv.org/abs/2602.03578)\|[Github](https://github.com/ListenerSuu/EA_GraphRAG.git)]
+- [*2026.01*] Our LinearRAG is accepted by ICLR'26. [[Paper](https://arxiv.org/abs/2510.10114)\|[Github](https://github.com/DEEP-PolyU/LinearRAG)] [![](https://img.shields.io/github/stars/DEEP-PolyU/LinearRAG)](https://github.com/DEEP-PolyU/LinearRAG)
+- [*2026.01*] Our GraphRAG Benchmark is accepted by ICLR'26. [[Paper](https://arxiv.org/abs/2506.05690)\|[Github](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)\|[Slides](https://docs.google.com/presentation/d/1q8K2RgsDYktkEIDp9Lqpb9WwBCBHT_L5/edit?slide=id.p1#slide=id.p1)] [![](https://img.shields.io/github/stars/GraphRAG-Bench/GraphRAG-Benchmark)](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
+- [*2026.01*] Our TGT, a temporal graph learning model, is accepted by ICLR'26. [[Paper](https://openreview.net/forum?id=a4e0zoaiD8)\|[Github](https://github.com/shiwning/TGT.git)]
 - [*2026.01*] Our RRP, a graph-augmented LLM Reasoning framework, is accepted by TKDE. [[Paper](https://ieeexplore.ieee.org/document/11361203)]
-- [*2026.01*] Three papers are accepted by ICLR'26.
-	- GraphRAG-Bench, a GraphRAG benchmark; [[Paper](https://arxiv.org/abs/2506.05690)\|[Github](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)\|[Slides](https://docs.google.com/presentation/d/1q8K2RgsDYktkEIDp9Lqpb9WwBCBHT_L5/edit?slide=id.p1#slide=id.p1)] [![](https://img.shields.io/github/stars/GraphRAG-Bench/GraphRAG-Benchmark)](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
-	- LinearRAG,  a relation-free GraphRAG model; [[Paper](https://arxiv.org/abs/2510.10114)\|[Github](https://github.com/DEEP-PolyU/LinearRAG)] [![](https://img.shields.io/github/stars/DEEP-PolyU/LinearRAG)](https://github.com/DEEP-PolyU/LinearRAG)
-	- TGT, a temporal graph representation learning model. [[Paper](https://openreview.net/forum?id=a4e0zoaiD8)\|[Github](https://github.com/shiwning/TGT.git)]
-- [*2026.01*] Two papers are accepted by WWW'26. 
-	- LoSemB, an inductive tool retrieval framework; [[Paper](https://arxiv.org/abs/2508.07690)\|[Github](https://anonymous.4open.science/r/LoSemB-7E9F)]
-	- LogiCGR, a logic-aware generative RAG model. [[Paper](https://qing145.github.io/)\|[Github](https://anonymous.4open.science/r/LogiCGR-55DF)]
+- [*2026.01*] Our LoSemB, an inductive tool retrieval framework, is accepted by WWW. [[Paper](https://arxiv.org/abs/2508.07690)]
+- [*2026.01*] Our paper NPPC, an ever-scaling benchmark, is accepted by TMLR. [[Paper](https://arxiv.org/abs/2504.11239)\|[Github](https://github.com/SMU-DIGA/nppc)]
 - [*2025.12*] I was honored to receive the <span style="color: #cf5148">**COMP PhD Thesis Merit Award**</span>. 
-- [*2025.11*] Three papers are accepted by AAAI'26.
-	- LogicRAG, a logic-aware GraphRAG model; [[Paper](https://arxiv.org/abs/2508.06105)\|[Github](https://github.com/chensyCN/LogicRAG)] [![](https://img.shields.io/github/stars/chensyCN/LogicRAG)](https://github.com/chensyCN/LogicRAG)
-	- AimKP, a robust MLLM for keyphrase generation; [[Paper](https://arxiv.org/abs/2512.00928)\|[Github](https://github.com/XMUDeepLIT/AimKP)]
-	- NLCF, an LLM-based recommendation model. <span style="color: #cf5148">**Oral**</span> [[Paper](https://web.comp.polyu.edu.hk/xiaohuang/docs/2026AAAI_Huachi.pdf)\|[Github](https://github.com/DEEP-PolyU)]
+- [*2025.11*] Three papers are accepted by AAAI'26, and [NLCF](https://web.comp.polyu.edu.hk/xiaohuang/docs/2026AAAI_Huachi.pdf) is selected as an <span style="color: #cf5148">**Oral**</span> presentation.
+- [*2025.11*] Our paper LogicRAG is accepted by AAAI’26 (Poster). [[Paper](https://arxiv.org/abs/2508.06105)\|[Github](https://github.com/chensyCN/LogicRAG)] [![](https://img.shields.io/github/stars/chensyCN/LogicRAG)](https://github.com/chensyCN/LogicRAG)
+- [*2025.11*] Our paper AimKP is accepted by AAAI’26 (Poster). [[Paper](https://arxiv.org/abs/2512.00928)\|[Github](https://github.com/XMUDeepLIT/AimKP)]
 - [*2025.10*] Our paper KaSLA on Text-to-SQL Generation is accepted by ICDE'26. [[Paper](https://arxiv.org/abs/2502.12911)\|[Github](https://github.com/DEEP-PolyU/KaSLA.git)]
 - [*2025.10*] We release CLEAR, a novel framework for RAG faithfulness. [[Paper](https://arxiv.org/abs/2510.12460)\|[Github](https://github.com/LinfengGao/ProbeRAG.git)]
 - [*2025.09*] Our paper NeuSymEA is accepted by NeurIPS'25. [[Paper](https://arxiv.org/abs/2410.04153)\|[Github](https://github.com/chensyCN/NeuSymEA-NeurIPS25)]
