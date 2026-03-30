@@ -36,9 +36,10 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 - [*2026.01*] Our LoSemB, an inductive tool retrieval framework, is accepted by WWW. [[Paper](https://arxiv.org/abs/2508.07690)]
 - [*2026.01*] Our paper NPPC, an ever-scaling benchmark, is accepted by TMLR. [[Paper](https://arxiv.org/abs/2504.11239)\|[Github](https://github.com/SMU-DIGA/nppc)]
 - [*2025.12*] I was honored to receive the <span style="color: #cf5148">**COMP PhD Thesis Merit Award**</span>. 
-- [*2025.11*] Three papers are accepted by AAAI'26, and [NLCF](https://web.comp.polyu.edu.hk/xiaohuang/docs/2026AAAI_Huachi.pdf) is selected as an <span style="color: #cf5148">**Oral**</span> presentation.
-- [*2025.11*] Our paper LogicRAG is accepted by AAAI’26 (Poster). [[Paper](https://arxiv.org/abs/2508.06105)\|[Github](https://github.com/chensyCN/LogicRAG)] [![](https://img.shields.io/github/stars/chensyCN/LogicRAG)](https://github.com/chensyCN/LogicRAG)
-- [*2025.11*] Our paper AimKP is accepted by AAAI’26 (Poster). [[Paper](https://arxiv.org/abs/2512.00928)\|[Github](https://github.com/XMUDeepLIT/AimKP)]
+- [*2025.11*] Three papers are accepted by AAAI'26.
+	- LogicRAG, a logic-aware GraphRAG model; [[Paper](https://arxiv.org/abs/2508.06105)\|[Github](https://github.com/chensyCN/LogicRAG)] [![](https://img.shields.io/github/stars/chensyCN/LogicRAG)](https://github.com/chensyCN/LogicRAG)
+	- AimKP, a robust MLLM for keyphrase generation; [[Paper](https://arxiv.org/abs/2512.00928)\|[Github](https://github.com/XMUDeepLIT/AimKP)]
+	- NLCF, an LLM-based recommendation model; <span style="color: #cf5148">**Oral**</span> [[Paper](https://web.comp.polyu.edu.hk/xiaohuang/docs/2026AAAI_Huachi.pdf)\|[Github](https://github.com/DEEP-PolyU)]
 - [*2025.10*] Our paper KaSLA on Text-to-SQL Generation is accepted by ICDE'26. [[Paper](https://arxiv.org/abs/2502.12911)\|[Github](https://github.com/DEEP-PolyU/KaSLA.git)]
 - [*2025.10*] We release CLEAR, a novel framework for RAG faithfulness. [[Paper](https://arxiv.org/abs/2510.12460)\|[Github](https://github.com/LinfengGao/ProbeRAG.git)]
 - [*2025.09*] Our paper NeuSymEA is accepted by NeurIPS'25. [[Paper](https://arxiv.org/abs/2410.04153)\|[Github](https://github.com/chensyCN/NeuSymEA-NeurIPS25)]
