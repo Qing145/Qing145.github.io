@@ -24,7 +24,9 @@ I am currently a Postdoctoral Fellow at the Hong Kong Polytechnic University. I 
 My research interests include Knowledge Graph (KG), Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG). Currently, I focus on GraphRAG and Long-CoT Reasoning for specialized domains, with the latest research presented at NeurIPS, ICML, KDD, ACL, etc.
 
 # 🎉 News
-- [*2026.03*] Our analysis on LLM-based World Models is accepted by TMLR. [[Paper](https://openreview.net/forum?id=XmYCERErcD)\|[Github](https://github.com/joannacyang/WorldModel_TMLR)]
+- [*2026.03*] Two papers are accepted by TMLR. 
+	- A detailed analysis on LLM-based World Models; [[Paper](https://openreview.net/forum?id=XmYCERErcD)\|[Github](https://github.com/joannacyang/WorldModel_TMLR)]
+	- NPPC, an ever-scaling LLM evaluation benchmark. [[Paper](https://arxiv.org/abs/2504.11239)\|[Github](https://github.com/SMU-DIGA/nppc)]
 - [*2026.02*] Our survey on Self-Evolving Agents is released. [[Paper](https://doi.org/10.36227/techrxiv.177203250.05832634/v2)\|[Github](https://github.com/XMUDeepLIT/Awesome-Self-Evolving-Agents.git)] [![](https://img.shields.io/github/stars/XMUDeepLIT/Awesome-Self-Evolving-Agents)](https://github.com/XMUDeepLIT/Awesome-Self-Evolving-Agents)
 - [*2026.02*] Our survey on Graph-based Agent Memory is released. [[Paper](https://arxiv.org/abs/2602.05665)\|[Github](https://github.com/DEEP-PolyU/Awesome-GraphMemory.git)] [![](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphMemory)](https://github.com/DEEP-PolyU/Awesome-GraphMemory)
 - [*2026.02*] We release EA-GraphRAG, an efficient framework for GraphRAG. [[Paper](https://www.arxiv.org/abs/2602.03578)\|[Github](https://github.com/ListenerSuu/EA_GraphRAG.git)]
@@ -36,7 +38,6 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 - [*2026.01*] Two papers are accepted by WWW'26. 
 	- LoSemB, an inductive tool retrieval framework; [[Paper](https://arxiv.org/abs/2508.07690)\|[Github](https://anonymous.4open.science/r/LoSemB-7E9F)]
 	- LogiCGR, a logic-aware generative RAG model. [[Paper](https://qing145.github.io/)\|[Github](https://anonymous.4open.science/r/LogiCGR-55DF)]
-- [*2026.01*] Our NPPC, an ever-scaling benchmark, is accepted by TMLR. [[Paper](https://arxiv.org/abs/2504.11239)\|[Github](https://github.com/SMU-DIGA/nppc)]
 - [*2025.12*] I was honored to receive the <span style="color: #cf5148">**COMP PhD Thesis Merit Award**</span>. 
 - [*2025.11*] Three papers are accepted by AAAI'26.
 	- LogicRAG, a logic-aware GraphRAG model; [[Paper](https://arxiv.org/abs/2508.06105)\|[Github](https://github.com/chensyCN/LogicRAG)] [![](https://img.shields.io/github/stars/chensyCN/LogicRAG)](https://github.com/chensyCN/LogicRAG)
