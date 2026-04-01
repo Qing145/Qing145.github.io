@@ -38,19 +38,19 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 - [*2026.01*] Our paper NPPC, an ever-scaling benchmark, is accepted by TMLR. [[Paper](https://arxiv.org/abs/2504.11239)\|[Github](https://github.com/SMU-DIGA/nppc)]
 - [*2025.12*] I was honored to receive the <span style="color: #cf5148">**COMP PhD Thesis Merit Award**</span>. 
 - [*2025.11*] Three papers are accepted by AAAI'26, and [NLCF](https://web.comp.polyu.edu.hk/xiaohuang/docs/2026AAAI_Huachi.pdf) is selected as an <span style="color: #cf5148">**Oral**</span> presentation.
-- [*2025.11*] Our paper LogicRAG is accepted by AAAI’26 (Poster). [[Paper](https://arxiv.org/abs/2508.06105)\|[Github](https://github.com/chensyCN/LogicRAG)] [![](https://img.shields.io/github/stars/chensyCN/LogicRAG)](https://github.com/chensyCN/LogicRAG)
-- [*2025.11*] Our paper AimKP is accepted by AAAI’26 (Poster). [[Paper](https://arxiv.org/abs/2512.00928)\|[Github](https://github.com/XMUDeepLIT/AimKP)]
-- [*2025.10*] Our paper KaSLA on Text-to-SQL Generation is accepted by ICDE'26. [[Paper](https://arxiv.org/abs/2502.12911)\|[Github](https://github.com/DEEP-PolyU/KaSLA.git)]
+- [*2025.11*] Our LogicRAG for logic-aware GraphRAG is accepted by AAAI’26. [[Paper](https://arxiv.org/abs/2508.06105)\|[Github](https://github.com/chensyCN/LogicRAG)] [![](https://img.shields.io/github/stars/chensyCN/LogicRAG)](https://github.com/chensyCN/LogicRAG)
+- [*2025.11*] Our AimKP for robust keyphrase generation is accepted by AAAI’26. [[Paper](https://arxiv.org/abs/2512.00928)\|[Github](https://github.com/XMUDeepLIT/AimKP)]
+- [*2025.10*] Our KaSLA for effective Text-to-SQL Generation is accepted by ICDE'26. [[Paper](https://arxiv.org/abs/2502.12911)\|[Github](https://github.com/DEEP-PolyU/KaSLA.git)]
 - [*2025.10*] We release CLEAR, a novel framework for RAG faithfulness. [[Paper](https://arxiv.org/abs/2510.12460)\|[Github](https://github.com/LinfengGao/ProbeRAG.git)]
-- [*2025.09*] Our paper NeuSymEA is accepted by NeurIPS'25. [[Paper](https://arxiv.org/abs/2410.04153)\|[Github](https://github.com/chensyCN/NeuSymEA-NeurIPS25)]
+- [*2025.09*] Our NeuSymEA for effective entity alignment is accepted by NeurIPS'25. [[Paper](https://arxiv.org/abs/2410.04153)\|[Github](https://github.com/chensyCN/NeuSymEA-NeurIPS25)]
 - [*2025.09*] Our survey on Text-to-SQL is accepted by IEEE TKDE. [[Paper](https://arxiv.org/abs/2406.08426)\|[Github](https://github.com/DEEP-PolyU/Awesome-LLM-based-Text2SQL)][![](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-LLM-based-Text2SQL)](https://github.com/DEEP-PolyU/Awesome-LLM-based-Text2SQL)
-- [*2025.08*] Our paper FILM is accepted by ACM TOIS. [[Paper](https://dl.acm.org/doi/10.1145/3763789)\|[Github](https://github.com/huachzhou/FILM.git)]
-- [*2025.08*] Our paper RAWM is accepted by EMNLP'25 (Findings). [[Paper](https://openreview.net/pdf?id=feqKXbuKzr)\|[Github](https://github.com/joannacyang/rawm.git)]
-- [*2025.08*] Our paper FaithfulRAG has been selected for the <span style="color: #cf5148">**SAC Highlights Award**</span> at [ACL'25](https://2025.aclweb.org/program/awards/#sac-highlights).
+- [*2025.08*] Our FILM for LLM-based recommendation is accepted by ACM TOIS. [[Paper](https://dl.acm.org/doi/10.1145/3763789)\|[Github](https://github.com/huachzhou/FILM.git)]
+- [*2025.08*] Our RAWM for LLM-based World Model is accepted by EMNLP'25 (Findings). [[Paper](https://openreview.net/pdf?id=feqKXbuKzr)\|[Github](https://github.com/joannacyang/rawm.git)]
+- [*2025.08*] Our FaithfulRAG has been selected for the <span style="color: #cf5148">**SAC Highlights Award**</span> at [ACL'25](https://2025.aclweb.org/program/awards/#sac-highlights).
 - [*2025.08*] We released Mol-R1, a long-CoT reasoning model for molecule discovery. [[Paper](https://arxiv.org/abs/2508.08401)\|[huggingface](https://huggingface.co/papers/2508.08401)]
 - [*2025.05*] I passed the Ph.D. oral defense! Huge thanks to my supervisor and committee members!
 - [*2025.05*] Our work, FaithfulRAG, is accepted to ACL'25. [[Paper](https://arxiv.org/abs/2506.08938)\|[Github](https://github.com/XMUDeepLIT/Faithful-RAG)] [![](https://img.shields.io/github/stars/XMUDeepLIT/Faithful-RAG)](https://github.com/XMUDeepLIT/Faithful-RAG)
-- [*2025.05*] Our work SGU-SQL is accepted to ICML'25. [[Paper](https://arxiv.org/abs/2402.13284)\|[Github](https://github.com/Qing145/Text-to-SQL)] 
+- [*2025.05*] Our work, SGU-SQL, is accepted to ICML'25. [[Paper](https://arxiv.org/abs/2402.13284)\|[Github](https://github.com/Qing145/Text-to-SQL)] 
 - [*2025.01*] Our survey on GraphRAG is released! [[Paper](https://arxiv.org/abs/2501.13958)\|[Github awesome-list](https://github.com/DEEP-PolyU/Awesome-GraphRAG)] [![](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphRAG)](https://github.com/DEEP-PolyU/Awesome-GraphRAG)
 - [*2024.09*] Three papers are accepted to NeurIPS'24 and one paper is accepted to KDD'24.
 - [*2024.06*] Got the <span style="color: #cf5148">**Best Presentation Award**</span> in [ARSC'24](https://www.polyu.edu.hk/comp/news-and-events/news/2024/0626_research-student-conference/?sc_lang=en) (COMP Anniversary Research Student Conference).
