@@ -45,7 +45,7 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 - [*2025.09*] Our NeuSymEA for effective entity alignment is accepted by NeurIPS'25. [[Paper](https://arxiv.org/abs/2410.04153)\|[Github](https://github.com/chensyCN/NeuSymEA-NeurIPS25)]
 - [*2025.09*] Our survey on Text-to-SQL is accepted by IEEE TKDE. [[Paper](https://arxiv.org/abs/2406.08426)\|[Github](https://github.com/DEEP-PolyU/Awesome-LLM-based-Text2SQL)][![](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-LLM-based-Text2SQL)](https://github.com/DEEP-PolyU/Awesome-LLM-based-Text2SQL)
 - [*2025.08*] Our FILM for LLM-based recommendation is accepted by ACM TOIS. [[Paper](https://dl.acm.org/doi/10.1145/3763789)\|[Github](https://github.com/huachzhou/FILM.git)]
-- [*2025.08*] Our RAWM for LLM-based World Model is accepted by EMNLP'25 (Findings). [[Paper](https://openreview.net/pdf?id=feqKXbuKzr)\|[Github](https://github.com/joannacyang/rawm.git)]
+- [*2025.08*] Our RAWM for retrieval-agumented world model is accepted by EMNLP'25 (Findings). [[Paper](https://openreview.net/pdf?id=feqKXbuKzr)\|[Github](https://github.com/joannacyang/rawm.git)]
 - [*2025.08*] Our FaithfulRAG has been selected for the <span style="color: #cf5148">**SAC Highlights Award**</span> at [ACL'25](https://2025.aclweb.org/program/awards/#sac-highlights).
 - [*2025.08*] We released Mol-R1, a long-CoT reasoning model for molecule discovery. [[Paper](https://arxiv.org/abs/2508.08401)\|[huggingface](https://huggingface.co/papers/2508.08401)]
 - [*2025.05*] I passed the Ph.D. oral defense! Huge thanks to my supervisor and committee members!
