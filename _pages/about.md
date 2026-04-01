@@ -35,7 +35,7 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 - [*2026.01*] Our LoSemB for inductive tool retrieval is accepted by WWW’26. [[Paper](https://arxiv.org/abs/2508.07690)\|[Github](https://anonymous.4open.science/r/LoSemB-7E9F)]
 - [*2026.01*] Our LogiCGR for generative retrieval is accepted by WWW'26. [[Paper](https://qing145.github.io/)\|[Github](https://anonymous.4open.science/r/LogiCGR-55DF)]
 - [*2026.01*] Our RRP, a graph-augmented reasoning model, is accepted by TKDE. [[Paper](https://ieeexplore.ieee.org/document/11361203)]
-- [*2026.01*] Our NPPC, an ever-scaling benchmark, is accepted by TMLR. [[Paper](https://arxiv.org/abs/2504.11239)\|[Github](https://github.com/SMU-DIGA/nppc)]
+- [*2026.01*] Our NPPC, an ever-scaling LLM benchmark, is accepted by TMLR. [[Paper](https://arxiv.org/abs/2504.11239)\|[Github](https://github.com/SMU-DIGA/nppc)]
 - [*2025.12*] I was honored to receive the <span style="color: #cf5148">**COMP PhD Thesis Merit Award**</span>. 
 - [*2025.11*] Three papers are accepted by AAAI'26, and [NLCF](https://web.comp.polyu.edu.hk/xiaohuang/docs/2026AAAI_Huachi.pdf) is selected as an <span style="color: #cf5148">**Oral**</span> presentation.
 - [*2025.11*] Our LogicRAG for adaptive RAG is accepted by AAAI’26. [[Paper](https://arxiv.org/abs/2508.06105)\|[Github](https://github.com/chensyCN/LogicRAG)] [![](https://img.shields.io/github/stars/chensyCN/LogicRAG)](https://github.com/chensyCN/LogicRAG)
