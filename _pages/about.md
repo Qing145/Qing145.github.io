@@ -90,7 +90,8 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 - **[CIKM'22]** **Qinggang Zhang**, Junnan Dong, Keyu Duan, Xiao Huang‡, Yezi Liu, Linchuan Xu. [Contrastive Knowledge Graph Error Detection](https://dl.acm.org/doi/abs/10.1145/3511808.3557264).
 
 ## Published (Co-author):
-- **[TMLR'26]** Chang Yang, Xinrun Wang‡, Junzhe Jiang,**Qinggang Zhang**, Xiao Huang. [LLM-Based World Models Can Make Decisions Solely, But Rigorous Evaluations are Needed](https://openreview.net/forum?id=XmYCERErcD).
+- **[ACL'26]** Yilin Xiao, Jin Chen, **Qinggang Zhang**, Yujing Zhang, Chuang Zhou, Longhao Yang, Lingfei Ren, Xin Yang, Xiao Huang. [LogicPoison: Logical Attacks on Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2604.02954)
+- **[TMLR'26]** Chang Yang, Xinrun Wang‡, Junzhe Jiang, **Qinggang Zhang**, Xiao Huang. [LLM-Based World Models Can Make Decisions Solely, But Rigorous Evaluations are Needed](https://openreview.net/forum?id=XmYCERErcD).
 - **[ICLR'26]** Weining Shi, Zhisen Wen, **Qinggang Zhang**, Chentao Zhang, Zhihong Zhang‡. [Temporal Graph Thumbnail: Robust Representation Learning with Global Evolutionary Skeleton](https://openreview.net/forum?id=a4e0zoaiD8).
 - **[TMLR'26]** Chang Yang, Ruiyu Wang, Junzhe Jiang, Qi Jiang, **Qinggang Zhang**, Yanchen Deng, Shuxin Li, Shuyue Hu, Bo Li, Florian T. Pokorny, Xiao Huang, Xinrun Wang‡. [Nondeterministic Polynomial-time Problem Challenge: An Ever-Scaling Reasoning Benchmark for LLMs](https://arxiv.org/abs/2504.11239).
 - **[WWW'26]** Qichuan Liu, Chentao Zhang, Yuxuan Hu, Chenfeng Zheng, **Qinggang Zhang**,  Zhihong Zhang‡. [Facilitating Generative Retrieval with Logical Denoising for Interpretable Conversational Search](https://qing145.github.io/).
