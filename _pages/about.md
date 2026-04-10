@@ -25,9 +25,9 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 
 # 🎉 News
 - [*2026.04*] Four papers accepted at ACL'26, including 2 findings and 2 main conference papers.
-- [*2026.04*] Our BAPO for reliable agentic search is accepted by ACL'26. [[Paper](https://arxiv.org/abs/2601.11037)\|[Github](https://github.com/Liushiyu-0709/BAPO-Reliable-Search)][![](https://img.shields.io/github/stars/Liushiyu-0709/BAPO-Reliable-Search)](https://github.com/Liushiyu-0709/BAPO-Reliable-Search)
 - [*2026.04*] Our LegalGraphRAG for legal reasoning is accepted by ACL'26. [[Paper](https://qing145.github.io/)\|[Github](https://github.com/XMUDeepLIT/LegalGraphRAG)]
 - [*2026.04*] Our ProbeRAG for RAG faithfulness is accepted by ACL'26. [[Paper](https://arxiv.org/abs/2510.12460)\|[Github](https://github.com/LinfengGao/ProbeRAG.git)][![](https://img.shields.io/github/stars/LinfengGao/ProbeRAG)](https://github.com/LinfengGao/ProbeRAG.git)
+- [*2026.04*] Our BAPO for reliable agentic search is accepted by ACL'26. [[Paper](https://arxiv.org/abs/2601.11037)\|[Github](https://github.com/Liushiyu-0709/BAPO-Reliable-Search)][![](https://img.shields.io/github/stars/Liushiyu-0709/BAPO-Reliable-Search)](https://github.com/Liushiyu-0709/BAPO-Reliable-Search)
 - [*2026.04*] Our analysis on GraphRAG attack is accepted by ACL'26. [[Paper](https://arxiv.org/abs/2604.02954)\|[Github](https://github.com/Jord8061/logicPoison)][![](https://img.shields.io/github/stars/Jord8061/logicPoison)](https://github.com/Jord8061/logicPoison)
 - [*2026.03*] Our analysis on LLM-based World Models is accepted by TMLR. [[Paper](https://openreview.net/forum?id=XmYCERErcD)\|[Github](https://github.com/joannacyang/WorldModel_TMLR)]
 - [*2026.02*] Our survey on Self-Evolving Agents is released. [[Paper](https://doi.org/10.36227/techrxiv.177203250.05832634/v2)\|[Github](https://github.com/XMUDeepLIT/Awesome-Self-Evolving-Agents.git)] [![](https://img.shields.io/github/stars/XMUDeepLIT/Awesome-Self-Evolving-Agents)](https://github.com/XMUDeepLIT/Awesome-Self-Evolving-Agents)
