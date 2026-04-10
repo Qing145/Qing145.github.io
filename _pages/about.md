@@ -25,6 +25,10 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 
 # 🎉 News
 - [*2026.04*] Four papers accepted at ACL'26, including 2 findings and 2 main conference papers.
+- [*2026.04*] Our LegalGraphRAG for legal reasoning is accepted by ACL'26. [[Paper](https://qing145.github.io/)\|[Github](https://github.com/XMUDeepLIT/LegalGraphRAG)]
+- [*2026.04*] Our BAPO for reliable agentic search is accepted by ACL'26. [[Paper](https://arxiv.org/abs/2601.11037)\|[Github](https://github.com/Liushiyu-0709/BAPO-Reliable-Search)]
+- [*2026.04*] Our ProbeRAG for RAG faithfulness is accepted by ACL'26. [[Paper](https://arxiv.org/abs/2510.12460)\|[Github](https://github.com/LinfengGao/ProbeRAG.git)]
+- [*2026.04*] Our analysis on GraphRAG attack is accepted by ACL'26. [[Paper](https://arxiv.org/abs/2604.02954)\|[Github](https://github.com/Jord8061/logicPoison)]
 - [*2026.03*] Our analysis on LLM-based World Models is accepted by TMLR. [[Paper](https://openreview.net/forum?id=XmYCERErcD)\|[Github](https://github.com/joannacyang/WorldModel_TMLR)]
 - [*2026.02*] Our survey on Self-Evolving Agents is released. [[Paper](https://doi.org/10.36227/techrxiv.177203250.05832634/v2)\|[Github](https://github.com/XMUDeepLIT/Awesome-Self-Evolving-Agents.git)] [![](https://img.shields.io/github/stars/XMUDeepLIT/Awesome-Self-Evolving-Agents)](https://github.com/XMUDeepLIT/Awesome-Self-Evolving-Agents)
 - [*2026.02*] Our survey on Graph-based Agent Memory is released. [[Paper](https://arxiv.org/abs/2602.05665)\|[Github](https://github.com/DEEP-PolyU/Awesome-GraphMemory.git)] [![](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphMemory)](https://github.com/DEEP-PolyU/Awesome-GraphMemory)
@@ -42,7 +46,6 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 - [*2025.11*] Our LogicRAG for adaptive RAG is accepted by AAAI’26. [[Paper](https://arxiv.org/abs/2508.06105)\|[Github](https://github.com/chensyCN/LogicRAG)] [![](https://img.shields.io/github/stars/chensyCN/LogicRAG)](https://github.com/chensyCN/LogicRAG)
 - [*2025.11*] Our AimKP for robust keyphrase generation is accepted by AAAI’26. [[Paper](https://arxiv.org/abs/2512.00928)\|[Github](https://github.com/XMUDeepLIT/AimKP)]
 - [*2025.10*] Our KaSLA for effective Text-to-SQL Generation is accepted by ICDE'26. [[Paper](https://arxiv.org/abs/2502.12911)\|[Github](https://github.com/DEEP-PolyU/KaSLA.git)]
-- [*2025.10*] We release CLEAR, a novel framework for RAG faithfulness. [[Paper](https://arxiv.org/abs/2510.12460)\|[Github](https://github.com/LinfengGao/ProbeRAG.git)]
 - [*2025.09*] Our NeuSymEA for effective entity alignment is accepted by NeurIPS'25. [[Paper](https://arxiv.org/abs/2410.04153)\|[Github](https://github.com/chensyCN/NeuSymEA-NeurIPS25)]
 - [*2025.09*] Our survey on Text-to-SQL is accepted by IEEE TKDE. [[Paper](https://arxiv.org/abs/2406.08426)\|[Github](https://github.com/DEEP-PolyU/Awesome-LLM-based-Text2SQL)][![](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-LLM-based-Text2SQL)](https://github.com/DEEP-PolyU/Awesome-LLM-based-Text2SQL)
 - [*2025.08*] Our FILM for LLM-based recommendation is accepted by ACM TOIS. [[Paper](https://dl.acm.org/doi/10.1145/3763789)\|[Github](https://github.com/huachzhou/FILM.git)]
