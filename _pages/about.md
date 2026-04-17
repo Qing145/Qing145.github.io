@@ -38,7 +38,7 @@ My research interests include Knowledge Graph (KG), Large Language Models (LLMs)
 - [*2026.01*] Our LinearRAG is accepted by ICLR'26. [[Paper](https://arxiv.org/abs/2510.10114)\|[Github](https://github.com/DEEP-PolyU/LinearRAG)] [![](https://img.shields.io/github/stars/DEEP-PolyU/LinearRAG)](https://github.com/DEEP-PolyU/LinearRAG)
 - [*2026.01*] Our TGT, a temporal graph learning model, is accepted by ICLR'26. [[Paper](https://openreview.net/forum?id=a4e0zoaiD8)\|[Github](https://github.com/shiwning/TGT.git)]
 - [*2026.01*] Our LoSemB for inductive tool retrieval is accepted by WWW’26. [[Paper](https://arxiv.org/abs/2508.07690)\|[Github](https://anonymous.4open.science/r/LoSemB-7E9F)]
-- [*2026.01*] Our LogiCGR for generative retrieval is accepted by WWW'26. [[Paper](https://dl.acm.org/doi/10.1145/3774904.3792544)\|[Github](https://anonymous.4open.science/r/LogiCGR-55DF)]
+- [*2026.01*] Our LogiCGR for generative retrieval is accepted by WWW'26. [[Paper](https://dl.acm.org/doi/10.1145/3774904.3792544)\|[Github](https://github.com/GenIRAG/LogiCGR)]
 - [*2026.01*] Our RRP, a graph-augmented reasoning model, is accepted by TKDE. [[Paper](https://ieeexplore.ieee.org/document/11361203)]
 - [*2026.01*] Our NPPC, an ever-scaling LLM benchmark, is accepted by TMLR. [[Paper](https://arxiv.org/abs/2504.11239)\|[Github](https://github.com/SMU-DIGA/nppc)]
 - [*2025.12*] I was honored to receive the <span style="color: #cf5148">**COMP PhD Thesis Merit Award**</span>. 
