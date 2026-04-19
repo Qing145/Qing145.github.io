@@ -19,7 +19,7 @@ redirect_from:
 
 # 🎓 About Me
 
-I am currently a researcher at the School of Artificial Intelligence, Jilin University. I earned my Ph.D. from the Hong Kong Polytechnic University under the supervision of [Prof. Xiao HUANG](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html),  co-supervised by [Prof. Jiannong CAO](https://www4.comp.polyu.edu.hk/~csjcao/). Prior to that, I obtained my B.E. degree from Northwestern Polytechnical University. My research interests include LLMs, RAG, and Multi-Agent Systems. Currently, I focus on self-evolving agents and graph-based agent memory for domain-specific applications, with recent work published at NeurIPS, ICLR, ICML, KDD, ACL, and other top venues.
+I am currently a researcher at the [School of Artificial Intelligence, Jilin University](https://sai.jlu.edu.cn/info/1094/5362.htm). I earned my Ph.D. from the Hong Kong Polytechnic University under the supervision of [Prof. Xiao HUANG](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html),  co-supervised by [Prof. Jiannong CAO](https://www4.comp.polyu.edu.hk/~csjcao/). Prior to that, I obtained my B.E. degree from Northwestern Polytechnical University. My research interests include LLMs, RAG, and Multi-Agent Systems. Currently, I focus on self-evolving agents and graph-based agent memory for domain-specific applications, with recent work published at NeurIPS, ICLR, ICML, KDD, ACL, and other top venues.
 
 # 🎉 News
 - [*2026.04*] I will soon join the School of Artificial Intelligence at Jilin University.
