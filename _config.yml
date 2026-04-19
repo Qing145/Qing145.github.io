@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Qinggang Zhang"
   avatar           : "images/photo.png"
-  bio              : "Professor@SAI-JLU"
+  bio              : "Professor @ SAI-JLU"
   location         : "Changchun, China"
   # employer         : "Jilin University"
   pubmed           : 
