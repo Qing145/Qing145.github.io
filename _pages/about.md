@@ -19,11 +19,12 @@ redirect_from:
 
 # 🎓 About Me
 
-I am currently a Postdoctoral Fellow at the Hong Kong Polytechnic University. I earned my Ph.D. from the same institution under the supervision of [Prof. Xiao HUANG](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html) with co-supervision by [Prof. Jiannong CAO](https://www4.comp.polyu.edu.hk/~csjcao/). Before that, I obtained my B.E. from [Northwestern Polytechnical University](https://www.nwpu.edu.cn/).
+I am currently a researcher at the School of Artificial Intelligence, Jilin University. I earned my Ph.D. from The Hong Kong Polytechnic University under the supervision of [Prof. Xiao HUANG](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html) with co-supervision by [Prof. Jiannong CAO](https://www4.comp.polyu.edu.hk/~csjcao/). Before that, I obtained my B.E. from Northwestern Polytechnical University.
 
 My research interests include Knowledge Graph (KG), Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG). Currently, I focus on GraphRAG and Long-CoT Reasoning for specialized domains, with the latest research presented at NeurIPS, ICLR, ICML, KDD, ACL, etc.
 
 # 🎉 News
+- [*2026.04*] I will join the School of Artificial Intelligence, Jilin University.
 - [*2026.04*] We have 4 papers accepted at ACL'26, including 2 main and 2 findings papers.
 - [*2026.04*] Our LegalGraphRAG for legal reasoning is accepted by ACL'26. [[Paper](https://www.researchgate.net/publication/403734810_LegalGraphRAG_Multi-Agent_Graph_Retrieval-Augmented_Generation_for_Reliable_Legal_Reasoning)\|[Github](https://github.com/XMUDeepLIT/LegalGraphRAG)]
 - [*2026.04*] Our ProbeRAG for RAG faithfulness is accepted by ACL'26. [[Paper](https://arxiv.org/abs/2510.12460)\|[Github](https://github.com/LinfengGao/ProbeRAG.git)][![](https://img.shields.io/github/stars/LinfengGao/ProbeRAG)](https://github.com/LinfengGao/ProbeRAG.git)
