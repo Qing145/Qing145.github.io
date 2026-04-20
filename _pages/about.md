@@ -22,7 +22,6 @@ redirect_from:
 I am currently a researcher at the [School of Artificial Intelligence, Jilin University](https://sai.jlu.edu.cn/info/1094/5362.htm). I earned my Ph.D. from the Hong Kong Polytechnic University under the supervision of [Prof. Xiao HUANG](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html),  co-supervised by [Prof. Jiannong CAO](https://www4.comp.polyu.edu.hk/~csjcao/). Prior to that, I obtained my B.E. degree from Northwestern Polytechnical University. My research interests include LLMs, RAG, and Multi-Agent Systems. Currently, I focus on self-evolving agents and graph-based agent memory for domain-specific applications, with recent work published at NeurIPS, ICLR, ICML, KDD, ACL, and other top venues.
 
 # 🎉 News
-- [*2026.04*] I will soon join the School of Artificial Intelligence at Jilin University.
 - [*2026.04*] We have 4 papers accepted at ACL'26, including 2 main and 2 findings papers.
 - [*2026.04*] Our LegalGraphRAG for legal reasoning is accepted by ACL'26. [[Paper](https://www.researchgate.net/publication/403734810_LegalGraphRAG_Multi-Agent_Graph_Retrieval-Augmented_Generation_for_Reliable_Legal_Reasoning)\|[Github](https://github.com/XMUDeepLIT/LegalGraphRAG)]
 - [*2026.04*] Our ProbeRAG for RAG faithfulness is accepted by ACL'26. [[Paper](https://arxiv.org/abs/2510.12460)\|[Github](https://github.com/LinfengGao/ProbeRAG.git)][![](https://img.shields.io/github/stars/LinfengGao/ProbeRAG)](https://github.com/LinfengGao/ProbeRAG.git)
