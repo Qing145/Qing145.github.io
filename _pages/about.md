@@ -22,7 +22,7 @@ redirect_from:
 I am currently a professor at the [School of Artificial Intelligence, Jilin University](https://sai.jlu.edu.cn/info/1094/5362.htm). I earned my Ph.D. from the Hong Kong Polytechnic University under the supervision of [Prof. Xiao HUANG](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html),  co-supervised by [Prof. Jiannong CAO](https://www4.comp.polyu.edu.hk/~csjcao/). Prior to that, I obtained my B.E. degree from Northwestern Polytechnical University. My research interests include LLMs, RAG, and Multi-Agent Systems. Currently, I focus on self-evolving agents and graph-based agent memory for domain-specific applications, with recent work published at NeurIPS, ICLR, ICML, KDD, ACL, and other top venues.
 
 # 🎉 News
-- [*2026.05*] We have 3 papers accepted at KDD'26, including 2 oral and 1 poster papers.
+- [*2026.05*] We have 3 papers accepted by KDD'26, including 2 research and 1 AI4S track papers.
 - [*2026.05*] I will serve as the Volunteer Chair of [WSDM 2027@Hong Kong](https://wsdm-conference.org/2027/).
 - [*2026.05*] Our KG-Translator for structure-augmented RAG is accepted by ICML'26.
 - [*2026.04*] We have 4 papers accepted at ACL'26, including 2 main and 2 findings papers.
