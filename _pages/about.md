@@ -22,7 +22,7 @@ redirect_from:
 I am currently a professor at the [School of Artificial Intelligence, Jilin University](https://sai.jlu.edu.cn/info/1094/5362.htm). I earned my Ph.D. from the Hong Kong Polytechnic University under the supervision of [Prof. Xiao HUANG](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html),  co-supervised by [Prof. Jiannong CAO](https://www4.comp.polyu.edu.hk/~csjcao/). Prior to that, I obtained my B.E. degree from Northwestern Polytechnical University. My research interests include LLMs, RAG, and Multi-Agent Systems. Currently, I focus on self-evolving agents and graph-based agent memory for domain-specific applications, with recent work published at NeurIPS, ICLR, ICML, KDD, ACL, and other top venues.
 
 # 🎉 News
-- [*2026.05*] We have 3 papers accepted by KDD'26, including 2 research and 1 AI4S track papers.
+- [*2026.05*] We have 3 papers accepted by KDD'26, including 2 Research and 1 AI4S track papers.
 - [*2026.05*] I will serve as the Volunteer Chair of [WSDM 2027@Hong Kong](https://wsdm-conference.org/2027/).
 - [*2026.05*] Our KG-Translator for structure-augmented RAG is accepted by ICML'26.
 - [*2026.04*] We have 4 papers accepted at ACL'26, including 2 main and 2 findings papers.
@@ -73,6 +73,8 @@ I am currently a professor at the [School of Artificial Intelligence, Jilin Univ
 - **[arXiv'25]** Jiatong LI†, Weida Wang†, <span style="color: #a39274">**Qinggang Zhang†**</span>, Changmeng Zheng, Junxian Li, Di Zhang, Shufei Zhang, Xiaoyong Wei‡, Qing Li. [Mol-R1: Towards Explicit Long-CoT Reasoning in Molecule Discovery](https://arxiv.org/abs/2508.08401). 
 
 ## Published (First/Corresponding Author):
+- **[KDD'26]** Zijin Hong, Hao Chen, Zheng Yuan, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Luyao Zhuang, Qing Liao, Feiran Huang, Yangqiu Song, Xiao Huang. ErrorLLM: Modeling SQL Errors for Text-to-SQL Refinement.
+- **[KDD'26]** Chuanjie Wu†, Zhishang Xiang†, Yunbo Tang, Zerui Chen, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Jinsong Su‡. MemGraphRAG: Memory-based Multi-Agent System for Graph Retrieval-Augmented Generation.
 - **[ICML'26]** Qichuan Liu, Chenfeng Zheng, Yuxuan Hu, Zerui Chen, Chentao Zhang, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Zhihong Zhang‡. From Retrieval to Translation: Translating Query into Graph-level Clues for Retrieval-Augmented Generation.
 - **[ACL'26]** Zerui Chen, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Zhishang Xiang, Zhimin Wei, Linfeng Gao, Xiao Huang, Zhihong Zhang‡, Jinsong Su‡. [LegalGraphRAG: Multi-Agent Graph Retrieval-Augmented Generation for Reliable Legal Reasoning](https://www.researchgate.net/profile/Qinggang-Zhang-3/publication/403734810_LegalGraphRAG_Multi-Agent_Graph_Retrieval-Augmented_Generation_for_Reliable_Legal_Reasoning/links/69dacb6a5970dd1b05f7d416/LegalGraphRAG-Multi-Agent-Graph-Retrieval-Augmented-Generation-for-Reliable-Legal-Reasoning.pdf).
 - **[ACL'26]** Linfeng Gao, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Baolong Bi, Zheng Yuan, Le Wang, Zerui Chen, Zhimin Wei, Shenghua Liu, Jinsong Su‡. [Beyond Black-Box Interventions: Latent Probing for Faithful Retrieval-Augmented Generation](https://arxiv.org/abs/2510.12460). (Findings)
@@ -96,6 +98,7 @@ I am currently a professor at the [School of Artificial Intelligence, Jilin Univ
 - **[CIKM'22]** **Qinggang Zhang**, Junnan Dong, Keyu Duan, Xiao Huang‡, Yezi Liu, Linchuan Xu. [Contrastive Knowledge Graph Error Detection](https://dl.acm.org/doi/abs/10.1145/3511808.3557264).
 
 ## Published (Co-author):
+- **[KDD'26]** Huachi Zhou, Jiahe Du, Yujing Zhang, Luyao Zhuang, Chang Yang, Zijin Hong, Jiaqi Bai, **Qinggang Zhang**, Kaixiong Zhou, Xiao Huang‡. ReLU: Refined Chunk Embeddings Learning for Ultra-long SNP Genomic Prediction in Crop Breeding. 
 - **[ACL'26]** Yilin Xiao, Jin Chen, **Qinggang Zhang**, Yujing Zhang, Chuang Zhou, Longhao Yang, Lingfei Ren, Xin Yang, Xiao Huang. [LogicPoison: Logical Attacks on Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2604.02954).
 - **[TMLR'26]** Chang Yang, Xinrun Wang‡, Junzhe Jiang, **Qinggang Zhang**, Xiao Huang. [LLM-Based World Models Can Make Decisions Solely, But Rigorous Evaluations are Needed](https://openreview.net/forum?id=XmYCERErcD).
 - **[ICLR'26]** Weining Shi, Zhisen Wen, **Qinggang Zhang**, Chentao Zhang, Zhihong Zhang‡. [Temporal Graph Thumbnail: Robust Representation Learning with Global Evolutionary Skeleton](https://openreview.net/forum?id=a4e0zoaiD8).
