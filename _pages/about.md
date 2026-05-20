@@ -23,7 +23,7 @@ I am currently a professor at the [School of Artificial Intelligence, Jilin Univ
 
 # 🎉 News
 - [*2026.05*] We have 4 papers accepted this month: KDD\*3 and ICML\*1.
-- [*2026.05*] I'm honored to be recognized as a Silver Reviewer for [ICML 2026](https://icml.cc/).
+- [*2026.05*] I'm honored to be recognized as a Silver Reviewer of [ICML 2026](https://icml.cc/).
 - [*2026.05*] I will serve as the Volunteer Chair of [WSDM 2027@Hong Kong](https://wsdm-conference.org/2027/).
 - [*2026.04*] We have 4 papers accepted at ACL'26, including 2 main and 2 findings papers.
 - [*2026.04*] Our LegalGraphRAG for legal reasoning is accepted by ACL'26. [[Paper](https://www.researchgate.net/publication/403734810_LegalGraphRAG_Multi-Agent_Graph_Retrieval-Augmented_Generation_for_Reliable_Legal_Reasoning)\|[Github](https://github.com/XMUDeepLIT/LegalGraphRAG)]
