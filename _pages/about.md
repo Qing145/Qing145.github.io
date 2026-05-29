@@ -114,6 +114,7 @@ I am currently a professor at the [School of Artificial Intelligence, Jilin Univ
 - **[WSDM'23]** Junnan Dong, **Qinggang Zhang**, Xiao Huang‡, Qiaoyu Tan, Daochen Zha, Zihao Zhao. [Active Ensemble Learning for Knowledge Graph Error Detection](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/2023WSDM_Junnan.pdf).
 
 # 🏆 Honors and Awards
+- [*2026*] **ICML 2026 Silver Reviewer Award**
 - [*2025*] **COMP PhD Thesis Merit Award in 2025**
 - [*2025*] **ACL SAC Highlights Award in 2025**
 - [*2024*] **CARSC Best Presentation Award in 2024**
