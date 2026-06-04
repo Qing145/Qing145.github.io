@@ -67,6 +67,7 @@ I am currently a professor at the [School of Artificial Intelligence, Jilin Univ
 <span style="color: #a39274">**[†]: Co-first Author**</span>, <span style="color: #7A9D96">**[‡]: Corresponding Author**</span>
 
 ## Preprint:
+- **[arXiv'26]** Yunbo Tang†, Chengyi Yang†, Shiyu Liu, Zhishang Xiang, Zerui Chen, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Jinsong Su‡. [SAAS: Self-Aware Reinforcement Learning for Over-Search Mitigation in Agentic Search](https://arxiv.org/pdf/2605.29796).
 - **[arXiv'26]** Zhishang Xiang†, Chengyi Yang†, Zerui Chen, Zhimin Wei, Yunbo Tang, Zongpei Teng, Zexi Peng, Zongxia Li, Chengsong Huang, Yicheng He, Chang Yang, Xinrun Wang, Xiao Huang, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Jinsong Su‡. [A Systematic Survey of Self-Evolving Agents: From Model-Centric to Environment-Driven Co-Evolution](https://doi.org/10.36227/techrxiv.177203250.05832634/v2).
 - **[arXiv'26]** Chang Yang†, Chuang Zhou†, Yilin Xiao†, Su Dong, Luyao Zhuang, Yujing Zhang, Zhu Wang, Zijin Hong, Zheng Yuan, Zhishang Xiang, Shengyuan Chen‡, Huachi Zhou‡, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Ninghao Liu, Jinsong Su, Xinrun Wang, Yi Chang, Xiao Huang. [Graph-based Agent Memory: Taxonomy, Techniques, and Applications](https://arxiv.org/abs/2602.05665).
 - **[arXiv'26]** Zhishang Xiang, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Zhimin Wei, Chengyi Yang, Chuanjie Wu, Fuhai Chen, Jinsong Su‡. FaithfulRAG-R1: Faithful Retrieval-Augmented Generation via Reinforcement Learning.
