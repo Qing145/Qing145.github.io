@@ -26,7 +26,7 @@ I am currently a professor at the [School of Artificial Intelligence, Jilin Univ
 - [*2026.05*] We have 4 papers accepted this month: KDD\*3 and ICML\*1.
 - [*2026.05*] I'm honored to be recognized as Silver Reviewer of [ICML 2026](https://icml.cc/).
 - [*2026.05*] I will serve as the Volunteer Chair of [WSDM 2027@Hong Kong](https://wsdm-conference.org/2027/).
-- [*2026.05*] Our MemGraphRAG for memory-enhanced RAG is accepted by KDD'26. [[Paper](https://arxiv.org/pdf/2606.00610)\|[Github](https://github.com/XMUDeepLIT/MemGraphRAG)]
+- [*2026.05*] Our MemGraphRAG for memory-enhanced RAG is accepted by KDD'26. [[Paper](https://arxiv.org/pdf/2606.00610)\|[Github](https://github.com/XMUDeepLIT/MemGraphRAG)][![](https://img.shields.io/github/stars/XMUDeepLIT/MemGraphRAG)](https://github.com/XMUDeepLIT/MemGraphRAG)
 - [*2026.05*] Our ErrorLLM for text-to-SQL refinement is accepted by KDD'26. [[Paper](https://arxiv.org/pdf/2603.03742)\|[Github](https://github.com/DEEP-PolyU/ErrorLLM.git)]
 - [*2026.05*] Our KG-Translator for structure-augmented RAG is accepted by ICML'26. [[Github](https://github.com/GenIRAG/KG-Translator)]
 - [*2026.04*] We have 4 papers accepted at ACL'26, including 2 main and 2 findings papers.
