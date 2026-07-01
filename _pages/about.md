@@ -22,6 +22,7 @@ redirect_from:
 I am currently a professor at the [School of Artificial Intelligence, Jilin University](https://sai.jlu.edu.cn/info/1094/5362.htm). I earned my Ph.D. from the Hong Kong Polytechnic University under the supervision of [Prof. Xiao HUANG](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html),  co-supervised by [Prof. Jiannong CAO](https://www4.comp.polyu.edu.hk/~csjcao/). Prior to that, I obtained my B.E. degree from Northwestern Polytechnical University. My research interests include LLMs, RAG, and Multi-Agent Systems. Currently, I focus on self-evolving agents and graph-based agent memory for domain-specific applications, with recent work published at NeurIPS, ICLR, ICML, KDD, ACL, and other top venues.
 
 # 🎉 News
+- [*2026.07*] We released MemSyco-Bench, benchmarking memory-induced sycophancy in agent systems. [|[Github](https://github.com/XMUDeepLIT/MemSyco-Bench)]
 - [*2026.06*] We released SAAS, which mitigates over-search in Agentic RL. [[Paper](https://arxiv.org/pdf/2605.29796)\|[Github](https://github.com/XMUDeepLIT/SAAS)]
 - [*2026.05*] We have 4 papers accepted this month: KDD\*3 and ICML\*1.
 - [*2026.05*] I'm honored to be recognized as Silver Reviewer of [ICML 2026](https://icml.cc/).
