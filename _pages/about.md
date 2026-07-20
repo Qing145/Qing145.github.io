@@ -140,11 +140,11 @@ I am currently a professor at the [School of Artificial Intelligence, Jilin Univ
 
 # 💼 Academic Service
 
-- **Area Chair/SPC:** ACL Rolling Review (ARR), AACL (2025-), EACL (2025-), AAAI (2026-)
+- **SPC/Area Chair:** ACL Rolling Review (2025-), AACL (2025-), EACL (2025-), AAAI (2026-)
 
-- **PC Member:** KDD (2024-), NeurIPS (2024-), ICLR (2025-), ICML (2025-), ACL (2025-)
+- **PC Member:** KDD (2024-), NeurIPS (2024-), ICLR (2025-), ICML (2025-)
 
-- **Invited Reviewer:** IEEE TKDE (2023-), TPAMI (2024-), TNNLS (2025-)
+- **Reviewer:** IEEE TKDE (2023-), TPAMI (2024-), TNNLS (2025-)
   
 - **Volunteer:** ICDM (2023), WSDM (2023), KDD (2024)
 
