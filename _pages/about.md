@@ -130,7 +130,7 @@ I am currently a professor at the [School of Artificial Intelligence, Jilin Univ
 - [*2021*] Vector Scholarship in Artificial Intelligence
 - [*2019*] Outstanding graduate award (undergraduate in NPU)
 - [*2015-2018*] National scholarships ~ Twice
-- [*2017*] Champion in 2017 China Robot Competition
+- [*2017*] Champion in the 2017 China Robot Competition
 - [*2017*] Champion in the 2017 international Underwater Robot competition
 - [*2017*] Honorable Mention in the 2017 Interdisciplinary Contest in Modeling
 - [*2016*] The CCF Outstanding Undergraduate Award
@@ -146,7 +146,7 @@ I am currently a professor at the [School of Artificial Intelligence, Jilin Univ
 
 - **Reviewer:** IEEE TKDE (2023-), TPAMI (2024-), TNNLS (2025-)
   
-- **Volunteer:** ICDM (2023), WSDM (2023), KDD (2024)
+- **Volunteer:** ICDM 2023, WSDM 2023, KDD 2024
 
 <!-- - **Teaching Assistant:** Big Data Analytics (2023 Spring/ 2022 Spring); Object-oriented Programming (2022 Fall); Discrete Mathematics (2021 Fall); Human Computer Interaction (2021 Spring); Computer Networking (2020 Spring); Information Systems (2019 Fall) -->
 
