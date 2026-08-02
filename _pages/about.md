@@ -106,7 +106,8 @@ I am currently a professor at the [School of Artificial Intelligence, Jilin Univ
 - **[CIKM'22]** **Qinggang Zhang**, Junnan Dong, Keyu Duan, Xiao Huang‡, Yezi Liu, Linchuan Xu. [Contrastive Knowledge Graph Error Detection](https://dl.acm.org/doi/abs/10.1145/3511808.3557264).
 
 ## Published (Co-author):
-- **[KDD'26]** Huachi Zhou, Jiahe Du, Yujing Zhang, Luyao Zhuang, Chang Yang, Zijin Hong, Jiaqi Bai, **Qinggang Zhang**, Kaixiong Zhou, Xiao Huang‡. ReLU: Refined Chunk Embeddings Learning for Ultra-long SNP Genomic Prediction in Crop Breeding. 
+- **[KDD'26]** Huachi Zhou, Jiahe Du, Yujing Zhang, Luyao Zhuang, Chang Yang, Zijin Hong, Jiaqi Bai, **Qinggang Zhang**, Kaixiong Zhou, Xiao Huang‡. ReLU: Refined Chunk Embeddings Learning for Ultra-long SNP Genomic Prediction in Crop Breeding.
+- **[SIGIR'26]** Jiangbing Mao, Tianke Xiang, Yantong Zhu, Wenliang Liu, **Qinggang Zhang**, Zhihong Zhang. Bridging the Topology-Semantic Gap: A Benchmark and Framework for Power Grid Work Ticket Generation.
 - **[ACL'26]** Yilin Xiao, Jin Chen, **Qinggang Zhang**, Yujing Zhang, Chuang Zhou, Longhao Yang, Lingfei Ren, Xin Yang, Xiao Huang. [LogicPoison: Logical Attacks on Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2604.02954).
 - **[TMLR'26]** Chang Yang, Xinrun Wang‡, Junzhe Jiang, **Qinggang Zhang**, Xiao Huang. [LLM-Based World Models Can Make Decisions Solely, But Rigorous Evaluations are Needed](https://openreview.net/forum?id=XmYCERErcD).
 - **[ICLR'26]** Weining Shi, Zhisen Wen, **Qinggang Zhang**, Chentao Zhang, Zhihong Zhang‡. [Temporal Graph Thumbnail: Robust Representation Learning with Global Evolutionary Skeleton](https://openreview.net/forum?id=a4e0zoaiD8).
