@@ -23,7 +23,7 @@ I am currently a professor at the [School of Artificial Intelligence, Jilin Univ
 
 # 🎉 News
 - [*2026.08*] We have 4 papers accepted at EMNLP'26, including 2 main and 2 findings papers.
-- [*2026.07*] I was invited to serve as Senior Program Committee of [AAAI 2027](https://aaai.org/conference/aaai/aaai-27/).
+- [*2026.07*] I was invited to serve as Senior Program Committee of [WSDM](https://wsdm-conference.org/2027/) and [AAAI 2027](https://aaai.org/conference/aaai/aaai-27/).
 - [*2026.07*] We released MemSyco-Bench to assess Agent Sycophancy. [[Paper](https://arxiv.org/pdf/2607.01071)\|[Github](https://github.com/XMUDeepLIT/MemSyco-Bench)]
 - [*2026.06*] We released SAAS, which mitigates over-search in Agentic RL. [[Paper](https://arxiv.org/pdf/2605.29796)\|[Github](https://github.com/XMUDeepLIT/SAAS)]
 - [*2026.05*] We have 4 papers accepted this month: KDD\*3 and ICML\*1.
