@@ -83,7 +83,7 @@ I am currently a professor at the [School of Artificial Intelligence, Jilin Univ
 
 ## Published (First/Corresponding Author):
 - **[EMNLP'26]** Yujing Zhang†, Huachi Zhou†, Ruochen Liu, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Luyao Zhuang, Hao Chen, Zijin Hong, Chang Yang, Xiao Huang. When Graphs Whisper: Graph Structure Serialization for Embedding Alignment in Cold-Start Recommendation.
-- **[EMNLP'26]** Bo Zeng†, Linfeng Gao†, Peiqin Lin, Yu Zhao, Mingyan Zeng, Yu Tong, Xintong Wang, Linlong Xu, Longyue Wang, Weihua Luo, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Jinsong Su‡. CulturalMenuBench: Probing the Knowledge-Application Gap in Multimodal Culinary Reasoning.
+- **[EMNLP'26]** Bo Zeng†, Linfeng Gao†, Peiqin Lin, Yu Zhao, Mingyan Zeng, Yu Tong, Xintong Wang, Linlong Xu, Longyue Wang, Weihua Luo, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Jinsong Su‡. CulturalMenuBench: Probing the Knowledge-Application Gap in Multimodal Culinary Reasoning. (Findings)
 - **[KDD'26]** Zijin Hong, Hao Chen, Zheng Yuan, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Luyao Zhuang, Qing Liao, Feiran Huang, Yangqiu Song, Xiao Huang. [ErrorLLM: Modeling SQL Errors for Text-to-SQL Refinement](https://arxiv.org/pdf/2603.03742).
 - **[KDD'26]** Chuanjie Wu†, Zhishang Xiang†, Yunbo Tang, Zerui Chen, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Jinsong Su‡. [MemGraphRAG: Memory-based Multi-Agent System for Graph Retrieval-Augmented Generation](https://arxiv.org/pdf/2606.00610).
 - **[ICML'26]** Qichuan Liu†, <span style="color: #a39274">**Qinggang Zhang†**</span>, Yuxuan Hu, Chenfeng Zheng, Zerui Chen, Chentao Zhang, Zhihong Zhang‡. [From Retrieval to Translation: Translating Query into Graph-level Clues for Retrieval-Augmented Generation](https://github.com/GenIRAG/KG-Translator).
@@ -110,7 +110,7 @@ I am currently a professor at the [School of Artificial Intelligence, Jilin Univ
 
 ## Published (Co-author):
 - **[EMNLP'26]** Yujia Liu, Jiayan Lin, Zijin Hong, Zheng Yuan, Shengyuan Chen, Hao Chen, **Qinggang Zhang**, Xiao Huang, Feiran Huang. Evaluating LLMs on Conversational Text-to-SQL under Chain Ambiguity and Intent Drift.
-- **[EMNLP'26]** Ruxue Shi, Yili Wang, Mengnan Du, **Qinggang Zhang**, Rui Miao, Yixin Liu, Xin Wang. SAIGuard: Communication-State Simulation for Proactive Defense of LLM Multi-Agent Systems.
+- **[EMNLP'26]** Ruxue Shi, Yili Wang, Mengnan Du, **Qinggang Zhang**, Rui Miao, Yixin Liu, Xin Wang. SAIGuard: Communication-State Simulation for Proactive Defense of LLM Multi-Agent Systems. (Findings)
 - **[KDD'26]** Huachi Zhou, Jiahe Du, Yujing Zhang, Luyao Zhuang, Chang Yang, Zijin Hong, Jiaqi Bai, **Qinggang Zhang**, Kaixiong Zhou, Xiao Huang‡. ReLU: Refined Chunk Embeddings Learning for Ultra-long SNP Genomic Prediction in Crop Breeding.
 - **[SIGIR'26]** Jiangbing Mao, Tianke Xiang, Yantong Zhu, Wenliang Liu, **Qinggang Zhang**, Zhihong Zhang‡. Bridging the Topology-Semantic Gap: A Benchmark and Framework for Power Grid Work Ticket Generation.
 - **[ACL'26]** Yilin Xiao, Jin Chen, **Qinggang Zhang**, Yujing Zhang, Chuang Zhou, Longhao Yang, Lingfei Ren, Xin Yang, Xiao Huang. [LogicPoison: Logical Attacks on Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2604.02954).
