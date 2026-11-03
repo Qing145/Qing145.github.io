@@ -22,6 +22,7 @@ redirect_from:
 I am currently a professor at the [School of Artificial Intelligence, Jilin University](https://sai.jlu.edu.cn/info/1094/5362.htm). I earned my Ph.D. from the Hong Kong Polytechnic University under the supervision of [Prof. Xiao HUANG](https://www4.comp.polyu.edu.hk/~xiaohuang/index.html),  co-supervised by [Prof. Jiannong CAO](https://www4.comp.polyu.edu.hk/~csjcao/). Prior to that, I obtained my B.E. degree from Northwestern Polytechnical University. My research interests include LLMs, RAG, and Multi-Agent Systems. Currently, I focus on self-evolving agents and graph-based agent memory for domain-specific applications, with recent work published at NeurIPS, ICLR, ICML, KDD, ACL, and other top venues.
 
 # 🎉 News
+- [*2026.11*] We have 2 papers accepted by WSDM'27.
 - [*2026.09*] We have 2 papers accepted by NeurIPS'26.
 - [*2026.08*] Our survey on Graph Engineering is released. [[Paper](https://arxiv.org/pdf/2608.21156)\|[Github](https://github.com/DEEP-JLU/Awesome-Graph-Engineering)] [![](https://img.shields.io/github/stars/DEEP-JLU/Awesome-Graph-Engineering)](https://github.com/DEEP-JLU/Awesome-Graph-Engineering)
 - [*2026.08*] We have 4 papers accepted at EMNLP'26, including 2 Main and 2 Findings.
