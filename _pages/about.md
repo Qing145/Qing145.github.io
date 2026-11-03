@@ -83,7 +83,7 @@ I am currently a professor at the [School of Artificial Intelligence, Jilin Univ
 - **[arXiv'25]** <span style="color: #a39274">**Qinggang Zhang†**</span>, Shengyuan Chen†, Yuanchen Bei†, Zheng Yuan, Huachi Zhou, Zijin Hong, Yilin Xiao, Chuang Zhou, Hao Chen, Yi Chang, Xiao Huang‡. [A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models](https://arxiv.org/abs/2501.13958).
 - **[arXiv'25]** Jiatong LI†, Weida Wang†, <span style="color: #a39274">**Qinggang Zhang†**</span>, Changmeng Zheng, Junxian Li, Di Zhang, Shufei Zhang, Xiaoyong Wei‡, Qing Li. [Mol-R1: Towards Explicit Long-CoT Reasoning in Molecule Discovery](https://arxiv.org/abs/2508.08401). 
 
-## Published (First/Corresponding Author/Project Leader):
+## Selected Publications:
 - **[WSDM'27]** Su Dong, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Yilin Xiao, Shengyuan Chen, Chuang Zhou, Xiao Huang. [Use Graph When It Needs: Efficiently and Adaptively Integrating Retrieval-Augmented Generation with Graphs](https://www.arxiv.org/abs/2602.03578).
 - **[NeurIPS'26]** Yantong Zhu, Weining Shi, Keyi Li, Xiaoyan Xie, Yi Chang, <span style="color: #98A7B2">**Qinggang Zhang***</span>, Tianjiao Pu, Ji Qiao, Zhihong Zhang‡. WavCIL: Wavelet Coefficient-Domain Invariant Learning for Dynamic Graph OOD Generalization.
 - **[EMNLP'26]** Yujing Zhang†, Huachi Zhou†, Ruochen Liu, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Luyao Zhuang, Hao Chen, Zijin Hong, Chang Yang, Xiao Huang. [When Graphs Whisper: Graph Structure Serialization for Embedding Alignment in Cold-Start Recommendation](https://aclanthology.org/2026.emnlp-main.1470/).
