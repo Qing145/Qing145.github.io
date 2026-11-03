@@ -71,7 +71,7 @@ I am currently a professor at the [School of Artificial Intelligence, Jilin Univ
 - [*2024.06*] <span style="color: #cf5148">**Best Presentation Award**</span> in [CARSC'24](https://www.polyu.edu.hk/comp/news-and-events/news/2024/0626_research-student-conference/?sc_lang=en) (COMP Anniversary Research Student Conference).
 
 # 📔 Selected Publications ([Full List](https://scholar.google.com/citations?user=eF8PATI7r3IC&hl=en))
-<span style="color: #a39274">**[†]: Co-first Author**</span>, <span style="color: #7A9D96">**[‡]: Corresponding Author**</span>, <span style="color: #98A7B2">**[*]: Project Leader**</span>
+<span style="color: #98A7B2">**[*]: Project Leader**</span>, <span style="color: #a39274">**[†]: Co-first Author**</span>, <span style="color: #7A9D96">**[‡]: Corresponding Author**</span>
 
 ## Preprint:
 - **[arXiv'26]** Zhishang Xiang†, Zerui Chen†, Yunbo Tang, Zhimin Wei, Ruqin Ning, Yujie Lin, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Jinsong Su‡. [MemSyco-Bench: Benchmarking Sycophancy in Agent Memory](https://arxiv.org/pdf/2607.01071).
