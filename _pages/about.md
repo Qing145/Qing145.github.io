@@ -71,7 +71,7 @@ I am currently a professor at the [School of Artificial Intelligence, Jilin Univ
 - [*2024.06*] <span style="color: #cf5148">**Best Presentation Award**</span> in [CARSC'24](https://www.polyu.edu.hk/comp/news-and-events/news/2024/0626_research-student-conference/?sc_lang=en) (COMP Anniversary Research Student Conference).
 
 # 📔 Selected Publications ([Full List](https://scholar.google.com/citations?user=eF8PATI7r3IC&hl=en))
-<span style="color: #a39274">**[†]: Co-first Author**</span>, <span style="color: #7A9D96">**[‡]: Corresponding Author**</span>
+<span style="color: #a39274">**[†]: Co-first Author**</span>, <span style="color: #7A9D96">**[‡]: Corresponding Author**</span>, <span style="color: #7A9D96">**[*]: Project Leader**</span>
 
 ## Preprint:
 - **[arXiv'26]** Zhishang Xiang†, Zerui Chen†, Yunbo Tang, Zhimin Wei, Ruqin Ning, Yujie Lin, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Jinsong Su‡. [MemSyco-Bench: Benchmarking Sycophancy in Agent Memory](https://arxiv.org/pdf/2607.01071).
@@ -79,12 +79,13 @@ I am currently a professor at the [School of Artificial Intelligence, Jilin Univ
 - **[arXiv'26]** Zhishang Xiang†, Chengyi Yang†, Zerui Chen, Zhimin Wei, Yunbo Tang, Zongpei Teng, Zexi Peng, Zongxia Li, Chengsong Huang, Yicheng He, Chang Yang, Xinrun Wang, Xiao Huang, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Jinsong Su‡. [A Systematic Survey of Self-Evolving Agents: From Model-Centric to Environment-Driven Co-Evolution](https://doi.org/10.36227/techrxiv.177203250.05832634/v2).
 - **[arXiv'26]** Chang Yang†, Chuang Zhou†, Yilin Xiao†, Su Dong, Luyao Zhuang, Yujing Zhang, Zhu Wang, Zijin Hong, Zheng Yuan, Zhishang Xiang, Shengyuan Chen‡, Huachi Zhou‡, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Ninghao Liu, Jinsong Su, Xinrun Wang, Yi Chang, Xiao Huang. [Graph-based Agent Memory: Taxonomy, Techniques, and Applications](https://arxiv.org/abs/2602.05665).
 - **[arXiv'26]** Zhishang Xiang, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Zhimin Wei, Chengyi Yang, Chuanjie Wu, Fuhai Chen, Jinsong Su‡. FaithfulRAG-R1: Faithful Retrieval-Augmented Generation via Reinforcement Learning.
-- **[arXiv'26]** Su Dong, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Yilin Xiao, Shengyuan Chen, Chuang Zhou, Xiao Huang. [Use Graph When It Needs: Efficiently and Adaptively Integrating Retrieval-Augmented Generation with Graphs](https://www.arxiv.org/abs/2602.03578).
 - **[arXiv'25]** Yilin Xiao, Chuang Zhou, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Su Dong, Shengyuan Chen, Xiao Huang. [LAG: Logic-Augmented Generation from a Cartesian Perspective](https://arxiv.org/abs/2508.05509).
 - **[arXiv'25]** <span style="color: #a39274">**Qinggang Zhang†**</span>, Shengyuan Chen†, Yuanchen Bei†, Zheng Yuan, Huachi Zhou, Zijin Hong, Yilin Xiao, Chuang Zhou, Hao Chen, Yi Chang, Xiao Huang‡. [A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models](https://arxiv.org/abs/2501.13958).
 - **[arXiv'25]** Jiatong LI†, Weida Wang†, <span style="color: #a39274">**Qinggang Zhang†**</span>, Changmeng Zheng, Junxian Li, Di Zhang, Shufei Zhang, Xiaoyong Wei‡, Qing Li. [Mol-R1: Towards Explicit Long-CoT Reasoning in Molecule Discovery](https://arxiv.org/abs/2508.08401). 
 
-## Published (First/Corresponding Author):
+## Published (First/Corresponding Author/Project Leader):
+- **[WSDM'27]** Su Dong, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Yilin Xiao, Shengyuan Chen, Chuang Zhou, Xiao Huang. [Use Graph When It Needs: Efficiently and Adaptively Integrating Retrieval-Augmented Generation with Graphs](https://www.arxiv.org/abs/2602.03578).
+- **[NeurIPS'26]** Yantong Zhu, Weining Shi, Keyi Li, Xiaoyan Xie, Yi Chang, <span style="color: #7A9D96">**Qinggang Zhang***</span>, Tianjiao Pu, Ji Qiao, Zhihong Zhang‡. WavCIL: Wavelet Coefficient-Domain Invariant Learning for Dynamic Graph OOD Generalization.
 - **[EMNLP'26]** Yujing Zhang†, Huachi Zhou†, Ruochen Liu, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Luyao Zhuang, Hao Chen, Zijin Hong, Chang Yang, Xiao Huang. When Graphs Whisper: Graph Structure Serialization for Embedding Alignment in Cold-Start Recommendation.
 - **[EMNLP'26]** Bo Zeng†, Linfeng Gao†, Peiqin Lin, Yu Zhao, Mingyan Zeng, Yu Tong, Xintong Wang, Linlong Xu, Longyue Wang, Weihua Luo, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Jinsong Su‡. CulturalMenuBench: Probing the Knowledge-Application Gap in Multimodal Culinary Reasoning. (Findings)
 - **[KDD'26]** Zijin Hong, Hao Chen, Zheng Yuan, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Luyao Zhuang, Qing Liao, Feiran Huang, Yangqiu Song, Xiao Huang. [ErrorLLM: Modeling SQL Errors for Text-to-SQL Refinement](https://arxiv.org/pdf/2603.03742).
@@ -112,6 +113,7 @@ I am currently a professor at the [School of Artificial Intelligence, Jilin Univ
 - **[CIKM'22]** **Qinggang Zhang**, Junnan Dong, Keyu Duan, Xiao Huang‡, Yezi Liu, Linchuan Xu. [Contrastive Knowledge Graph Error Detection](https://dl.acm.org/doi/abs/10.1145/3511808.3557264).
 
 ## Published (Co-author):
+- **[NeurIPS'26]** Chang Yang, Xinrun Wang‡, Shuxin Li, **Qinggang Zhang**, Huachi Zhou, Zhuoyi Lin, Bo Li, Xiao Huang. Language Models Demand New Computer Science.
 - **[EMNLP'26]** Yujia Liu, Jiayan Lin, Zijin Hong, Zheng Yuan, Shengyuan Chen, Hao Chen, **Qinggang Zhang**, Xiao Huang, Feiran Huang. Evaluating LLMs on Conversational Text-to-SQL under Chain Ambiguity and Intent Drift.
 - **[EMNLP'26]** Ruxue Shi, Yili Wang, Mengnan Du, **Qinggang Zhang**, Rui Miao, Yixin Liu, Xin Wang. SAIGuard: Communication-State Simulation for Proactive Defense of LLM Multi-Agent Systems. (Findings)
 - **[KDD'26]** Huachi Zhou, Jiahe Du, Yujing Zhang, Luyao Zhuang, Chang Yang, Zijin Hong, Jiaqi Bai, **Qinggang Zhang**, Kaixiong Zhou, Xiao Huang‡. [ReLU: Refined Chunk Embeddings Learning for Ultra-long SNP Genomic Prediction in Crop Breeding](https://dl.acm.org/doi/10.1145/3770855.3819053).
