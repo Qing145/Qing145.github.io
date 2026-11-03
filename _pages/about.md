@@ -71,7 +71,7 @@ I am currently a professor at the [School of Artificial Intelligence, Jilin Univ
 - [*2024.06*] <span style="color: #cf5148">**Best Presentation Award**</span> in [CARSC'24](https://www.polyu.edu.hk/comp/news-and-events/news/2024/0626_research-student-conference/?sc_lang=en) (COMP Anniversary Research Student Conference).
 
 # 📔 Selected Publications ([Full List](https://scholar.google.com/citations?user=eF8PATI7r3IC&hl=en))
-<span style="color: #a39274">**[†]: Co-first Author**</span>, <span style="color: #7A9D96">**[‡]: Corresponding Author**</span>, <span style="color: #7A9D96">**[*]: Project Leader**</span>
+<span style="color: #a39274">**[†]: Co-first Author**</span>, <span style="color: #7A9D96">**[‡]: Corresponding Author**</span>, <span style="color: #98A7B2">**[*]: Project Leader**</span>
 
 ## Preprint:
 - **[arXiv'26]** Zhishang Xiang†, Zerui Chen†, Yunbo Tang, Zhimin Wei, Ruqin Ning, Yujie Lin, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Jinsong Su‡. [MemSyco-Bench: Benchmarking Sycophancy in Agent Memory](https://arxiv.org/pdf/2607.01071).
@@ -85,7 +85,7 @@ I am currently a professor at the [School of Artificial Intelligence, Jilin Univ
 
 ## Published (First/Corresponding Author/Project Leader):
 - **[WSDM'27]** Su Dong, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Yilin Xiao, Shengyuan Chen, Chuang Zhou, Xiao Huang. [Use Graph When It Needs: Efficiently and Adaptively Integrating Retrieval-Augmented Generation with Graphs](https://www.arxiv.org/abs/2602.03578).
-- **[NeurIPS'26]** Yantong Zhu, Weining Shi, Keyi Li, Xiaoyan Xie, Yi Chang, <span style="color: #7A9D96">**Qinggang Zhang***</span>, Tianjiao Pu, Ji Qiao, Zhihong Zhang‡. WavCIL: Wavelet Coefficient-Domain Invariant Learning for Dynamic Graph OOD Generalization.
+- **[NeurIPS'26]** Yantong Zhu, Weining Shi, Keyi Li, Xiaoyan Xie, Yi Chang, <span style="color: #98A7B2">**Qinggang Zhang***</span>, Tianjiao Pu, Ji Qiao, Zhihong Zhang‡. WavCIL: Wavelet Coefficient-Domain Invariant Learning for Dynamic Graph OOD Generalization.
 - **[EMNLP'26]** Yujing Zhang†, Huachi Zhou†, Ruochen Liu, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Luyao Zhuang, Hao Chen, Zijin Hong, Chang Yang, Xiao Huang. When Graphs Whisper: Graph Structure Serialization for Embedding Alignment in Cold-Start Recommendation.
 - **[EMNLP'26]** Bo Zeng†, Linfeng Gao†, Peiqin Lin, Yu Zhao, Mingyan Zeng, Yu Tong, Xintong Wang, Linlong Xu, Longyue Wang, Weihua Luo, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Jinsong Su‡. CulturalMenuBench: Probing the Knowledge-Application Gap in Multimodal Culinary Reasoning. (Findings)
 - **[KDD'26]** Zijin Hong, Hao Chen, Zheng Yuan, <span style="color: #7A9D96">**Qinggang Zhang‡**</span>, Luyao Zhuang, Qing Liao, Feiran Huang, Yangqiu Song, Xiao Huang. [ErrorLLM: Modeling SQL Errors for Text-to-SQL Refinement](https://arxiv.org/pdf/2603.03742).
